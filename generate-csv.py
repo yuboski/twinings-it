@@ -3,8 +3,8 @@ import json
 import csv
 
 file_pattern = "results/result_*.json"
-output_csv = "web/data/twinings.csv"
-output_fails_csv = "web/data/twinings_fails.csv"
+output_csv = "docs/data/twinings.csv"
+output_fails_csv = "docs/data/twinings_fails.csv"
 
 
 fieldnames = [

@@ -5,7 +5,7 @@ from geopy.distance import geodesic
 
 file_pattern = "results/result_*.json"
 output_db = "db/twinings.db"
-output_reports = "web/reports"
+output_reports = "docs/reports"
 
 generate = False
 show_report = True
