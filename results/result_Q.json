@@ -1,0 +1,346 @@
+[
+    {
+        "comune": "Quadrelle",
+        "lat": 40.9472,
+        "log": 14.6382,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quadri",
+        "lat": 41.92402,
+        "log": 14.28768,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quagliuzzo",
+        "lat": 45.426757,
+        "log": 7.781617,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Qualiano",
+        "lat": 40.916667,
+        "log": 14.15,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quaranti",
+        "lat": 44.751944,
+        "log": 8.450278,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quaregna Cerreto",
+        "lat": 45.576556,
+        "log": 8.164833,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quargnento",
+        "lat": 44.945833,
+        "log": 8.488056,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Coubon",
+                "lat": 45,
+                "log": 3.916667,
+                "stato": "Francia",
+                "regione": "cantone di Puy-en-Velay-Sud-Est",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Quarna Sopra",
+        "lat": 45.873889,
+        "log": 8.373056,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quarna Sotto",
+        "lat": 45.869444,
+        "log": 8.363333,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quarona",
+        "lat": 45.757869,
+        "log": 8.265721,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quarrata",
+        "lat": 43.8475,
+        "log": 10.983333,
+        "stato": "Italia",
+        "regione": "provincia di Pistoia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Aguenit",
+                "lat": 22.18333333,
+                "log": -13.13333333,
+                "stato": "Sahara Occidentale",
+                "regione": "Repubblica Araba Saharaui Democratica",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Quart (Italia)",
+        "lat": 45.7405,
+        "log": 7.4174,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quarto (Italia)",
+        "lat": 40.883333,
+        "log": 14.133333,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quarto d'Altino",
+        "lat": 45.5786,
+        "log": 12.3727,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quartu Sant'Elena",
+        "lat": 39.24135,
+        "log": 9.18392,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quartucciu",
+        "lat": 39.25286,
+        "log": 9.176159,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quassolo",
+        "lat": 45.524529,
+        "log": 7.833132,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quattordio",
+        "lat": 44.897222,
+        "log": 8.406111,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quattro Castella",
+        "lat": 44.633333,
+        "log": 10.466667,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Buzet",
+                "lat": 43.783333,
+                "log": 1.65,
+                "stato": "Francia",
+                "regione": "cantone di Montastruc-la-Conseillère",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Weilburg",
+                "lat": 50.483333,
+                "log": 8.25,
+                "stato": "Germania",
+                "regione": "circondario di Limburg-Weilburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Quiliano",
+        "lat": 44.293114,
+        "log": 8.410308,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quincinetto",
+        "lat": 45.56296,
+        "log": 7.807315,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Marnaz",
+                "lat": 46.066667,
+                "log": 6.533333,
+                "stato": "Francia",
+                "regione": "cantone di Scionzier",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Quindici (Italia)",
+        "lat": 40.866667,
+        "log": 14.65,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quingentole",
+        "lat": 45.038317,
+        "log": 11.043583,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quintano",
+        "lat": null,
+        "log": null,
+        "stato": "Italia",
+        "regione": "Foligno",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quinto Vercellese",
+        "lat": 45.383333,
+        "log": 8.366667,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quinto Vicentino",
+        "lat": 45.566667,
+        "log": 11.616667,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quinto di Treviso",
+        "lat": 45.65,
+        "log": 12.166667,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quinzano d'Oglio",
+        "lat": 45.316667,
+        "log": 9.983333,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Quistello",
+        "lat": 45.006579,
+        "log": 10.98046,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

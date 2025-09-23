@@ -1,0 +1,5656 @@
+[
+    {
+        "comune": "Fabbrica Curone",
+        "lat": 44.755278,
+        "log": 9.155,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fabbriche di Vergemoli",
+        "lat": 44.014836,
+        "log": 10.391052,
+        "stato": "Italia",
+        "regione": "provincia di Lucca",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fabbrico",
+        "lat": 44.866667,
+        "log": 10.8,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fabriano",
+        "lat": 43.338561,
+        "log": 12.908519,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fabrica di Roma",
+        "lat": 42.334722,
+        "log": 12.300278,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fabrizia",
+        "lat": 38.4881,
+        "log": 16.3018,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fabro",
+        "lat": 42.866667,
+        "log": 12.016667,
+        "stato": "Italia",
+        "regione": "provincia di Terni",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bas-en-Basset",
+                "lat": 45.3,
+                "log": 4.1,
+                "stato": "Francia",
+                "regione": "Alta Loira",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Faedis",
+        "lat": 46.15,
+        "log": 13.35,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Castellterçol",
+                "lat": 41.751944,
+                "log": 2.1225,
+                "stato": "Spagna",
+                "regione": "Moianès",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Faedo Valtellino",
+        "lat": 46.15,
+        "log": 9.9,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Faenza",
+        "lat": 44.285556,
+        "log": 11.883333,
+        "stato": "Italia",
+        "regione": "provincia di Ravenna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Toki (Giappone){{!}}Toki",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fiume (Croazia){{!}}Fiume",
+                "lat": 45.333333,
+                "log": 14.433333,
+                "stato": "Croazia",
+                "regione": "regione litoraneo-montana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Talavera de la Reina",
+                "lat": 39.958333,
+                "log": -4.832778,
+                "stato": "Spagna",
+                "regione": "provincia di Toledo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Timișoara",
+                "lat": 45.78333333,
+                "log": 21.28333333,
+                "stato": "Regno di Romania",
+                "regione": "distretto di Timiș",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Amarousio",
+                "lat": 38.05,
+                "log": 23.8,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bergerac",
+                "lat": 44.85,
+                "log": 0.483333,
+                "stato": "Francia",
+                "regione": "Dordogna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Schwäbisch Gmünd",
+                "lat": 48.8,
+                "log": 9.8,
+                "stato": "Germania",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gmunden",
+                "lat": 47.918056,
+                "log": 13.799444,
+                "stato": "Austria",
+                "regione": "distretto di Gmunden",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Jingdezhen",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Faeto",
+        "lat": 41.325,
+        "log": 15.160833,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fagagna",
+        "lat": 46.116667,
+        "log": 13.083333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Faggeto Lario",
+        "lat": 45.85,
+        "log": 9.166667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Faggiano",
+        "lat": 40.41616,
+        "log": 17.38861,
+        "stato": "Italia",
+        "regione": "provincia di Taranto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fagnano Alto",
+        "lat": 42.254444,
+        "log": 13.575278,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Valmontone",
+                "lat": 41.783333,
+                "log": 12.916667,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Monterchi",
+                "lat": 43.489167,
+                "log": 12.112222,
+                "stato": "Italia",
+                "regione": "provincia di Arezzo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fagnano Castello",
+        "lat": 39.566667,
+        "log": 16.05,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fagnano Olona",
+        "lat": 45.666667,
+        "log": 8.866667,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fai della Paganella",
+        "lat": 46.183333,
+        "log": 11.066667,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Faicchio",
+        "lat": 41.283333,
+        "log": 14.483333,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Imer",
+                "lat": 46.15204,
+                "log": 11.797339,
+                "stato": "Italia",
+                "regione": "provincia autonoma di Trento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Falcade",
+        "lat": 46.358439,
+        "log": 11.872381,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Massaranduba (Santa Catarina)",
+                "lat": -26.61111111,
+                "log": -49.00805556,
+                "stato": "Brasile",
+                "regione": "Santa Catarina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Falciano del Massico",
+        "lat": 41.166667,
+        "log": 13.95,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Falconara Albanese",
+        "lat": 39.283333,
+        "log": 16.083333,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Falconara Marittima",
+        "lat": 43.6296,
+        "log": 13.3968,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Falcone (Italia)",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Faleria",
+        "lat": 42.2275,
+        "log": 12.446111,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Falerna",
+        "lat": 39,
+        "log": 16.166667,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Falerone",
+        "lat": 43.1077,
+        "log": 13.4733,
+        "stato": "Italia",
+        "regione": "provincia di Fermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fallo (Italia)",
+        "lat": 41.950052,
+        "log": 14.324687,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Faloppio",
+        "lat": 45.816667,
+        "log": 8.966667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Falvaterra",
+        "lat": 41.504722,
+        "log": 13.523889,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Falzes",
+        "lat": 46.81198,
+        "log": 11.884006,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fanano",
+        "lat": 44.21222222,
+        "log": 10.79722222,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Fairbanks",
+                "lat": 64.837778,
+                "log": -147.716111,
+                "stato": "Stati Uniti d’America",
+                "regione": "borough di Fairbanks North Star",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fanna",
+        "lat": 46.183333,
+        "log": 12.75,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Pordenone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fano",
+        "lat": 43.8425,
+        "log": 13.013611,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Rastatt",
+                "lat": 48.910278,
+                "log": 8.253056,
+                "stato": "Germania",
+                "regione": "circondario di Rastatt",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Saint-Ouen-l'Aumône",
+                "lat": 49.05,
+                "log": 2.116667,
+                "stato": "Francia",
+                "regione": "Dipartimento di Seine-et-Oise",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "St Albans",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Stříbro",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gandía",
+                "lat": 38.9667,
+                "log": -0.1822,
+                "stato": "Spagna",
+                "regione": "provincia di Valencia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fano Adriano",
+        "lat": 42.553889,
+        "log": 13.536667,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fara Filiorum Petri",
+        "lat": 42.248333,
+        "log": 14.185833,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Macaé",
+                "lat": -22.37722222,
+                "log": -41.77611111,
+                "stato": "Brasile",
+                "regione": "Rio de Janeiro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Santa Maria da Feira",
+                "lat": 40.933333,
+                "log": -8.533333,
+                "stato": "Portogallo",
+                "regione": "distretto di Aveiro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Monteroni di Lecce",
+                "lat": 40.333333,
+                "log": 18.1,
+                "stato": "Italia",
+                "regione": "provincia di Lecce",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gadoni",
+                "lat": 39.91304,
+                "log": 9.18397,
+                "stato": "Italia",
+                "regione": "provincia di Nuoro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fara Gera d'Adda",
+        "lat": 45.55,
+        "log": 9.533333,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fara Novarese",
+        "lat": 45.55,
+        "log": 8.466667,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fara Olivana con Sola",
+        "lat": 45.494844,
+        "log": 9.749062,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fara San Martino",
+        "lat": 42.091,
+        "log": 14.2062,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Senglea",
+                "lat": 35.89183056,
+                "log": 14.51843333,
+                "stato": "Malta",
+                "regione": "Regione del Porto (Malta)",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fara Vicentino",
+        "lat": 45.733333,
+        "log": 11.55,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "La Chapelle-sur-Loire",
+                "lat": 47.25,
+                "log": 0.233333,
+                "stato": "Francia",
+                "regione": "cantone di Bourgueil",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fara in Sabina",
+        "lat": 42.190228,
+        "log": 12.696211,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Santa Vittoria in Matenano",
+                "lat": 43.01965,
+                "log": 13.496519,
+                "stato": "Italia",
+                "regione": "provincia di Fermo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Villemur-sur-Tarn",
+                "lat": 43.866667,
+                "log": 1.516667,
+                "stato": "Francia",
+                "regione": "Alta Garonna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fardella",
+        "lat": 40.116667,
+        "log": 16.166667,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Farigliano",
+        "lat": 44.516667,
+        "log": 7.916667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pianezze",
+                "lat": 45.739997,
+                "log": 11.626747,
+                "stato": "Italia",
+                "regione": "provincia di Vicenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Farindola",
+        "lat": 42.441795,
+        "log": 13.822382,
+        "stato": "Italia",
+        "regione": "provincia di Pescara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Farini",
+        "lat": 44.716667,
+        "log": 9.566667,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nogent-sur-Marne",
+                "lat": 48.833333,
+                "log": 2.483333,
+                "stato": "Francia",
+                "regione": "Valle della Marna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Farnese (Italia)",
+        "lat": 42.550278,
+        "log": 11.726389,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Beaumont-de-Pertuis",
+                "lat": 43.733333,
+                "log": 5.7,
+                "stato": "Francia",
+                "regione": "Vaucluse",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Farra d'Isonzo",
+        "lat": 45.9,
+        "log": 13.516667,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Gorizia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Oberaich",
+                "lat": 47.4,
+                "log": 15.216667,
+                "stato": "Austria",
+                "regione": "distretto di Bruck-Mürzzuschlag",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zalalövő",
+                "lat": 46.846389,
+                "log": 16.585278,
+                "stato": "Ungheria",
+                "regione": "Distretto di Zalaegerszeg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Farra di Soligo",
+        "lat": 45.903583,
+        "log": 12.112299,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fasano",
+        "lat": 40.833333,
+        "log": 17.366667,
+        "stato": "Italia",
+        "regione": "provincia di Brindisi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fascia (Italia)",
+        "lat": 44.5659,
+        "log": 9.2376,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fauglia",
+        "lat": 43.566667,
+        "log": 10.516667,
+        "stato": "Italia",
+        "regione": "provincia di Pisa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Semriach",
+                "lat": 47.2175,
+                "log": 15.403333,
+                "stato": "Austria",
+                "regione": "distretto di Graz-Umgebung",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gmund am Tegernsee",
+                "lat": 47.75,
+                "log": 11.733333,
+                "stato": "Germania",
+                "regione": "circondario di Miesbach",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cruas",
+                "lat": 44.65,
+                "log": 4.766667,
+                "stato": "Francia",
+                "regione": "cantone di Rochemaure",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Faule",
+        "lat": 44.80624,
+        "log": 7.585125,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Humberto 1º",
+                "lat": -30.866667,
+                "log": -61.366667,
+                "stato": "Argentina",
+                "regione": "Dipartimento di Castellanos",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Favale di Malvaro",
+        "lat": 44.451997,
+        "log": 9.257908,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Favara",
+        "lat": 37.318611,
+        "log": 13.663056,
+        "stato": "Italia",
+        "regione": "provincia di Agrigento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Andújar",
+                "lat": 38.0333,
+                "log": -4.05,
+                "stato": "Spagna",
+                "regione": "provincia di Jaén",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Varese",
+                "lat": 45.816667,
+                "log": 8.833333,
+                "stato": "Italia",
+                "regione": "provincia di Varese",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gaza",
+                "lat": 31.516667,
+                "log": 34.45,
+                "stato": "Stato di Palestina",
+                "regione": "governatorato di Gaza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Favignana (comune)",
+        "lat": 37.933333,
+        "log": 12.333333,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Trapani",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Vigonza",
+                "lat": 45.45,
+                "log": 11.983333,
+                "stato": "Italia",
+                "regione": "provincia di Padova",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Favria",
+        "lat": 45.331154,
+        "log": 7.690617,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Feisoglio",
+        "lat": 44.55,
+        "log": 8.1,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Feletto",
+        "lat": 45.303853,
+        "log": 7.744719,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Felino (Italia)",
+        "lat": 44.695333,
+        "log": 10.241556,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cumières",
+                "lat": 49.066667,
+                "log": 3.933333,
+                "stato": "Francia",
+                "regione": "cantone di Ay",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Felitto",
+        "lat": 40.366667,
+        "log": 15.25,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Old Forge",
+                "lat": 41.3697,
+                "log": -75.7383,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Lackawanna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Felizzano",
+        "lat": 44.900278,
+        "log": 8.436944,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Feltre",
+        "lat": 46.016667,
+        "log": 11.9,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fenegrò",
+        "lat": 45.7,
+        "log": 9,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fenestrelle",
+        "lat": 45.036095,
+        "log": 7.049562,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ferentillo",
+        "lat": 42.621389,
+        "log": 12.790278,
+        "stato": "Italia",
+        "regione": "provincia di Terni",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ferentino",
+        "lat": 41.683333,
+        "log": 13.25,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "San Severino Marche",
+                "lat": 43.228856,
+                "log": 13.177103,
+                "stato": "Italia",
+                "regione": "provincia di Macerata",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ekaterinburg",
+                "lat": 56.835556,
+                "log": 60.612778,
+                "stato": "Impero russo",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rockford",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Raszyn",
+                "lat": 52.158889,
+                "log": 20.926389,
+                "stato": "Polonia",
+                "regione": "distretto di Pruszków",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Iacobeni",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ferla",
+        "lat": 37.116667,
+        "log": 14.95,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Siracusa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fermignano",
+        "lat": 43.676617,
+        "log": 12.645039,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Civitella Paganico",
+                "lat": 42.995,
+                "log": 11.281667,
+                "stato": "Italia",
+                "regione": "provincia di Grosseto",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Casciano dei Bagni",
+                "lat": 42.870278,
+                "log": 11.876667,
+                "stato": "Italia",
+                "regione": "provincia di Siena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fermo (Italia)",
+        "lat": 43.160419,
+        "log": 13.7181,
+        "stato": "Italia",
+        "regione": "provincia di Fermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bahía Blanca",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ansbach",
+                "lat": 49.3,
+                "log": 10.583333,
+                "stato": "Germania",
+                "regione": "Media Franconia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "León (Messico){{!}}León",
+                "lat": 21.1166,
+                "log": -101.6833,
+                "stato": "Messico",
+                "regione": "León",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Berat",
+                "lat": 40.704939,
+                "log": 19.949673,
+                "stato": "Albania",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ferno",
+        "lat": 45.620278,
+        "log": 8.763611,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Feroleto Antico",
+        "lat": 38.961111,
+        "log": 16.388333,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Feroleto della Chiesa",
+        "lat": 38.466667,
+        "log": 16.066667,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ferrandina",
+        "lat": 40.5,
+        "log": 16.45,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ferrara",
+        "lat": 44.839167,
+        "log": 11.6175,
+        "stato": "Italia",
+        "regione": "provincia di Ferrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Étienne",
+                "lat": 45.433889,
+                "log": 4.389722,
+                "stato": "Francia",
+                "regione": "Loira",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Capodistria",
+                "lat": 45.548,
+                "log": 13.7301,
+                "stato": "Slovenia",
+                "regione": "Slovenia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Swansea",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Krasnodar",
+                "lat": 44.839167,
+                "log": 11.6175,
+                "stato": "Italia",
+                "regione": "provincia di Ferrara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Highland Park (Illinois){{!}}Highland Park",
+                "lat": 42.185,
+                "log": -87.801111,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Lake",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kaufbeuren",
+                "lat": 47.88,
+                "log": 10.6225,
+                "stato": "Germania",
+                "regione": "distretto della Svevia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Formia",
+                "lat": 41.256389,
+                "log": 13.606944,
+                "stato": "Italia",
+                "regione": "provincia di Latina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kallithea",
+                "lat": 37.95,
+                "log": 23.7,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lleida",
+                "lat": 41.616667,
+                "log": 0.633333,
+                "stato": "Spagna",
+                "regione": "Segrià",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Szombathely",
+                "lat": 47.233333,
+                "log": 16.633333,
+                "stato": "Ungheria",
+                "regione": "Distretto di Szombathely",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gießen",
+                "lat": 50.583333,
+                "log": 8.666667,
+                "stato": "Germania",
+                "regione": "circondario di Gießen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sarajevo",
+                "lat": 43.856389,
+                "log": 18.413056,
+                "stato": "Bosnia ed Erzegovina",
+                "regione": "cantone di Sarajevo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Praga",
+                "lat": 50.0875,
+                "log": 14.421389,
+                "stato": "Repubblica Ceca",
+                "regione": "Ducato di Boemia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Broni",
+                "lat": 45.061944,
+                "log": 9.261111,
+                "stato": "Italia",
+                "regione": "provincia di Pavia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Nicola Manfredi{{!}}San Nicola Manfredi e Venticano",
+                "lat": 44.839167,
+                "log": 11.6175,
+                "stato": "Italia",
+                "regione": "provincia di Ferrara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Buenos Aires",
+                "lat": -34.608333,
+                "log": -58.371944,
+                "stato": "Argentina",
+                "regione": "Argentina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Toledo (Ohio){{!}}Toledo",
+                "lat": 41.652778,
+                "log": -83.537778,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Lucas",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ferrara di Monte Baldo",
+        "lat": 45.673611,
+        "log": 10.860833,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ferrazzano",
+        "lat": 41.533333,
+        "log": 14.666667,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ferrera Erbognone",
+        "lat": 45.116667,
+        "log": 8.866667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ferrera di Varese",
+        "lat": 45.933333,
+        "log": 8.783333,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ferrere",
+        "lat": 44.87605,
+        "log": 7.99421,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "La Francia",
+                "lat": null,
+                "log": null,
+                "stato": "Francia",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Predazzo",
+                "lat": 46.316667,
+                "log": 11.6,
+                "stato": "Italia",
+                "regione": "provincia autonoma di Trento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ferriere (Italia)",
+        "lat": 44.64385,
+        "log": 9.49657,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nogent-sur-Marne",
+                "lat": 48.833333,
+                "log": 2.483333,
+                "stato": "Francia",
+                "regione": "Valle della Marna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ferruzzano",
+        "lat": 38.033333,
+        "log": 16.083333,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiamignano",
+        "lat": 42.266667,
+        "log": 13.133333,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Czosnow",
+                "lat": 52.383333,
+                "log": 20.733333,
+                "stato": "Polonia",
+                "regione": "distretto di Nowy Dwór Mazowiecki",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fiano",
+        "lat": 42.166667,
+        "log": 12.6,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiano Romano",
+        "lat": 42.166667,
+        "log": 12.6,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiastra",
+        "lat": 43.0359,
+        "log": 13.1562,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiavé",
+        "lat": 46.004444,
+        "log": 10.842222,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ficarazzi",
+        "lat": 38.09229,
+        "log": 13.4639,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ficarolo",
+        "lat": 44.95,
+        "log": 11.433333,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ficarra",
+        "lat": 38.11,
+        "log": 14.829722,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Vigevano",
+                "lat": 45.316667,
+                "log": 8.866667,
+                "stato": "Italia",
+                "regione": "provincia di Pavia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ficulle",
+        "lat": 42.833333,
+        "log": 12.066667,
+        "stato": "Italia",
+        "regione": "provincia di Terni",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fidenza",
+        "lat": 44.866361,
+        "log": 10.061111,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sisteron",
+                "lat": 44.2,
+                "log": 5.933333,
+                "stato": "Francia",
+                "regione": "Alpi dell'Alta Provenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Herrenberg",
+                "lat": 47.12055556,
+                "log": 9.48555556,
+                "stato": "Svizzera",
+                "regione": "distretto di Werdenberg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fierozzo",
+        "lat": 46.111083,
+        "log": 11.318278,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiesco",
+        "lat": 45.333333,
+        "log": 9.783333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiesole",
+        "lat": 43.8,
+        "log": 11.3,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiesse",
+        "lat": 45.2324,
+        "log": 10.3252,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiesso Umbertiano",
+        "lat": 44.966667,
+        "log": 11.6,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiesso d'Artico",
+        "lat": 45.416667,
+        "log": 12.033333,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Marcellin",
+                "lat": 45.15,
+                "log": 5.316667,
+                "stato": "Francia",
+                "regione": "cantone di Saint-Marcellin",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Figino Serenza",
+        "lat": 45.716667,
+        "log": 9.133333,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Figline Vegliaturo",
+        "lat": 39.224538,
+        "log": 16.323865,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Figline e Incisa Valdarno",
+        "lat": 43.65666667,
+        "log": 11.44972222,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Filacciano",
+        "lat": 42.255833,
+        "log": 12.600833,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Iași",
+                "lat": 47.15,
+                "log": 27.58333333,
+                "stato": "Romania",
+                "regione": "distretto di Iași",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Filadelfia (Italia)",
+        "lat": 38.783889,
+        "log": 16.291111,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Alaşehir",
+                "lat": 38.35,
+                "log": 28.516667,
+                "stato": "Turchia",
+                "regione": "provincia di Manisa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Philadelphia",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Filago (Italia)",
+        "lat": 45.633333,
+        "log": 9.55,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Filandari",
+        "lat": 38.616667,
+        "log": 16.033333,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Filattiera",
+        "lat": 44.333333,
+        "log": 9.933333,
+        "stato": "Italia",
+        "regione": "provincia di Massa-Carrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Filettino",
+        "lat": 41.883333,
+        "log": 13.333333,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Selonnet",
+                "lat": 44.366667,
+                "log": 6.3,
+                "stato": "Francia",
+                "regione": "Alpi dell'Alta Provenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Filetto (comune)",
+        "lat": 42.22931,
+        "log": 14.24501,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Filiano",
+        "lat": 40.816667,
+        "log": 15.7,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Filighera",
+        "lat": 45.183333,
+        "log": 9.316667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Filignano",
+        "lat": 41.55,
+        "log": 14.05,
+        "stato": "Italia",
+        "regione": "provincia di Isernia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Filogaso",
+        "lat": 38.683333,
+        "log": 16.233333,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Filottrano",
+        "lat": 43.434419,
+        "log": 13.35025,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Kuppenheim",
+                "lat": 48.8275,
+                "log": 8.254444,
+                "stato": "Germania",
+                "regione": "circondario di Rastatt",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Raon-l'Étape",
+                "lat": 48.4,
+                "log": 6.85,
+                "stato": "Francia",
+                "regione": "Vosgi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Finale Emilia",
+        "lat": 44.83185,
+        "log": 11.29574,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Grézieu-la-Varenne",
+                "lat": 45.75,
+                "log": 4.7,
+                "stato": "Francia",
+                "regione": "Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Villa Sant'Angelo",
+                "lat": 42.271389,
+                "log": 13.538056,
+                "stato": "Italia",
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Formigine",
+                "lat": 44.573889,
+                "log": 10.847778,
+                "stato": "Italia",
+                "regione": "provincia di Modena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Finale Ligure",
+        "lat": 44.169072,
+        "log": 8.343536,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fino Mornasco",
+        "lat": 45.742126,
+        "log": 9.055518,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fino del Monte",
+        "lat": 45.890368,
+        "log": 9.992619,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiorano Canavese",
+        "lat": 45.467758,
+        "log": 7.833718,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiorano Modenese",
+        "lat": 44.53666667,
+        "log": 10.82277778,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "San Donato di Ninea",
+                "lat": 39.716667,
+                "log": 16.033333,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ozieri",
+                "lat": 40.584871,
+                "log": 9.003285,
+                "stato": "Italia",
+                "regione": "provincia di Sassari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Burgos",
+                "lat": 42.333333,
+                "log": -3.683333,
+                "stato": "Spagna",
+                "regione": "provincia di Burgos",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ittireddu",
+                "lat": 40.544363,
+                "log": 8.902144,
+                "stato": "Italia",
+                "regione": "provincia di Sassari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bultei",
+                "lat": 40.4575,
+                "log": 9.061111,
+                "stato": "Italia",
+                "regione": "provincia di Sassari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Onda",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Neve Shalom",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nardò",
+                "lat": 40.179722,
+                "log": 18.033333,
+                "stato": "Italia",
+                "regione": "provincia di Lecce",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Celenza Valfortore",
+                "lat": 41.566667,
+                "log": 14.983333,
+                "stato": "Italia",
+                "regione": "provincia di Foggia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Itaberaí",
+                "lat": -16.02305556,
+                "log": -49.80527778,
+                "stato": "Brasile",
+                "regione": "Goiás",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rumuruti",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fiorano al Serio",
+        "lat": 45.801944,
+        "log": 9.843056,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiorenzuola d'Arda",
+        "lat": 44.933333,
+        "log": 9.9,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Camagüey",
+                "lat": 21.4,
+                "log": -77.9,
+                "stato": "Cuba",
+                "regione": "provincia di Camagüey",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zenica",
+                "lat": 44.2,
+                "log": 17.93333333,
+                "stato": "Bosnia ed Erzegovina",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Laussonne",
+                "lat": 44.966667,
+                "log": 4.05,
+                "stato": "Francia",
+                "regione": "cantone di Monastier-sur-Gazeille",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Beit Sahour",
+                "lat": 31.7,
+                "log": 35.216667,
+                "stato": "Stato di Palestina",
+                "regione": "Governatorato di Betlemme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Firenze",
+        "lat": 43.771389,
+        "log": 11.254167,
+        "stato": "Regno d'Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Betlemme",
+                "lat": 31.70305556,
+                "log": 35.19555556,
+                "stato": "Stato di Palestina",
+                "regione": "Governatorato di Betlemme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Filadelfia",
+                "lat": 38.783889,
+                "log": 16.291111,
+                "stato": "Italia",
+                "regione": "provincia di Vibo Valentia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Reims",
+                "lat": 49.25,
+                "log": 4.033333,
+                "stato": "Francia",
+                "regione": "arrondissement di Reims",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kassel",
+                "lat": 51.315778,
+                "log": 9.497917,
+                "stato": "Germania",
+                "regione": "Distretto governativo di Kassel",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fès",
+                "lat": 33.895,
+                "log": -5.554722,
+                "stato": "Marocco",
+                "regione": "prefettura di Meknès",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Edimburgo",
+                "lat": 55.953333,
+                "log": -3.189167,
+                "stato": "Regno Unito",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kyoto",
+                "lat": 35.011611,
+                "log": 135.768111,
+                "stato": "Giappone",
+                "regione": "prefettura di Kyoto",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kiev",
+                "lat": 50.45,
+                "log": 30.523611,
+                "stato": "Ucraina",
+                "regione": "Ucraina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dresda",
+                "lat": 51.049329,
+                "log": 13.738144,
+                "stato": "Germania",
+                "regione": "Distretto direttivo di Dresda",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nanchino",
+                "lat": 32.060833,
+                "log": 118.778889,
+                "stato": "Cina",
+                "regione": "Jiangsu",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Salvador (Brasile){{!}}Salvador de Bahia",
+                "lat": -12.983056,
+                "log": -38.492778,
+                "stato": "Brasile",
+                "regione": "Bahia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sydney",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Al Kuwait",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Turku",
+                "lat": 60.45138889,
+                "log": 22.26666667,
+                "stato": "Finlandia",
+                "regione": "Varsinais-Suomi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nazareth",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Esfahan",
+                "lat": null,
+                "log": null,
+                "stato": "Israele",
+                "regione": "Israele",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Riga",
+                "lat": 56.9475,
+                "log": 24.106944,
+                "stato": "Lettonia",
+                "regione": "Lettonia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tirana",
+                "lat": 41.328889,
+                "log": 19.817778,
+                "stato": "Albania",
+                "regione": "comune di Tirana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Puebla de Zaragoza{{!}}Puebla",
+                "lat": 19.05,
+                "log": -98.2,
+                "stato": "Messico",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Valladolid",
+                "lat": 41.651981,
+                "log": -4.728561,
+                "stato": "Spagna",
+                "regione": "provincia di Valladolid",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Budapest",
+                "lat": 47.498333,
+                "log": 19.040833,
+                "stato": "Ungheria",
+                "regione": "Ungheria",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pozzallo",
+                "lat": 36.73028,
+                "log": 14.84672,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Ragusa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Arequipa",
+                "lat": -16.398822,
+                "log": -71.536883,
+                "stato": "Perù",
+                "regione": "provincia di Arequipa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tallinn",
+                "lat": 59.437222,
+                "log": 24.745278,
+                "stato": "Estonia",
+                "regione": "Harjumaa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ningbo",
+                "lat": 29.68972222,
+                "log": 121.27611111,
+                "stato": "Cina",
+                "regione": "Fenghua",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mauthausen",
+                "lat": 48.241944,
+                "log": 14.516944,
+                "stato": "Austria",
+                "regione": "distretto di Perg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gifu",
+                "lat": 36.270944,
+                "log": 136.898556,
+                "stato": "Giappone",
+                "regione": "distretto di Ōno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cracovia",
+                "lat": 50.06138889,
+                "log": 19.93833333,
+                "stato": "Polonia",
+                "regione": "voivodato della Piccola Polonia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Malmö",
+                "lat": 55.583333,
+                "log": 13,
+                "stato": "Svezia",
+                "regione": "Malmö",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cannes",
+                "lat": 43.55,
+                "log": 7.016667,
+                "stato": "Francia",
+                "regione": "arrondissement di Grasse",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Providence",
+                "lat": 41.82361111,
+                "log": -71.42222222,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Providence",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Porto Vecchio",
+                "lat": 41.59167,
+                "log": 9.28028,
+                "stato": "Francia",
+                "regione": "cantone di Porto-Vecchio",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "El Aaiún",
+                "lat": 27.156539,
+                "log": -13.203592,
+                "stato": "Marocco",
+                "regione": "provincia di Laâyoune",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Firenzuola",
+        "lat": 44.11968,
+        "log": 11.38185,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Firmo (Italia)",
+        "lat": 39.716667,
+        "log": 16.166667,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiscaglia",
+        "lat": 44.770833,
+        "log": 11.934722,
+        "stato": "Italia",
+        "regione": "provincia di Ferrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tréveneuc",
+                "lat": 48.664444,
+                "log": -2.868889,
+                "stato": "Francia",
+                "regione": "cantone di Étables-sur-Mer",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Villabé",
+                "lat": 48.583333,
+                "log": 2.45,
+                "stato": "Francia",
+                "regione": "Dipartimento di Seine-et-Oise",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fisciano",
+        "lat": 40.766667,
+        "log": 14.8,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiuggi",
+        "lat": 41.8,
+        "log": 13.216667,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Helmstedt",
+                "lat": 52.228056,
+                "log": 11.010556,
+                "stato": "Germania",
+                "regione": "circondario di Helmstedt",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Santo Domingo",
+                "lat": 18.4625,
+                "log": -69.936111,
+                "stato": "Repubblica Dominicana",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tarrafal de São Nicolau",
+                "lat": 41.8,
+                "log": 13.216667,
+                "stato": "Italia",
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Canistro",
+                "lat": 41.941667,
+                "log": 13.413333,
+                "stato": "Italia",
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fiumalbo",
+        "lat": 44.179951,
+        "log": 10.647733,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiumara (Reggio Calabria)",
+        "lat": 38.212288,
+        "log": 15.695322,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiume Veneto",
+        "lat": 45.933333,
+        "log": 12.733333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Pordenone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Albeck{{!}}Sirnitz",
+                "lat": 46.816667,
+                "log": 14.1,
+                "stato": "Austria",
+                "regione": "distretto di Feldkirchen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Hude (Oldb)",
+                "lat": 53.11666667,
+                "log": 8.46666667,
+                "stato": "Germania",
+                "regione": "circondario di Oldenburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Castelsarrasin",
+                "lat": 44.033333,
+                "log": 1.1,
+                "stato": "Francia",
+                "regione": "Tarn e Garonna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fiumedinisi",
+        "lat": 38.025833,
+        "log": 15.381944,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiumefreddo Bruzio",
+        "lat": 39.233333,
+        "log": 16.066667,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiumefreddo di Sicilia",
+        "lat": 37.79146,
+        "log": 15.20919,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Oelsnitz (Vogtland)",
+                "lat": 50.416667,
+                "log": 12.166667,
+                "stato": "Germania",
+                "regione": "circondario del Vogtland",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Aš",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fiumicello Villa Vicentina",
+        "lat": 45.783333,
+        "log": 13.416667,
+        "stato": "Italia",
+        "regione": "provincia di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiumicino",
+        "lat": 41.766667,
+        "log": 12.233333,
+        "stato": "Italia",
+        "regione": "città metropolitana di Roma Capitale",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fiuminata",
+        "lat": 43.188489,
+        "log": 12.931689,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fivizzano",
+        "lat": 44.233333,
+        "log": 10.116667,
+        "stato": "Italia",
+        "regione": "provincia di Massa-Carrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Steinhagen",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Castelnovo ne' Monti",
+                "lat": 44.433333,
+                "log": 10.4,
+                "stato": "Italia",
+                "regione": "provincia di Reggio Emilia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "São Sebastião",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fiè allo Sciliar",
+        "lat": 46.51777,
+        "log": 11.502776,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Friedberg",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Flaibano",
+        "lat": 46.05,
+        "log": 12.983333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bettembourg",
+                "lat": 49.516667,
+                "log": 6.1,
+                "stato": "Lussemburgo",
+                "regione": "cantone di Esch-sur-Alzette",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Valpaços",
+                "lat": 41.6,
+                "log": -7.316667,
+                "stato": "Portogallo",
+                "regione": "Vila Real",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Flero",
+        "lat": 45.4835,
+        "log": 10.1745,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Floresta (Italia)",
+        "lat": 37.983333,
+        "log": 14.916667,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Floridia",
+        "lat": 37.083333,
+        "log": 15.15,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Siracusa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Hartford",
+                "lat": 41.761389,
+                "log": -72.615278,
+                "stato": "Stati Uniti d’America",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Melbourne",
+                "lat": -37.813611,
+                "log": 144.963056,
+                "stato": "Australia",
+                "regione": "Victoria",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Miguel de Tucumán",
+                "lat": -26.83333333,
+                "log": -65.2,
+                "stato": "Argentina",
+                "regione": "Dipartimento di Capital",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Florinas",
+        "lat": 40.65,
+        "log": 8.666667,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Flumeri",
+        "lat": 41.078889,
+        "log": 15.148611,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fluminimaggiore",
+        "lat": 39.438579,
+        "log": 8.498612,
+        "stato": "Italia",
+        "regione": "provincia di Carbonia-Iglesias",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Flussio",
+        "lat": 40.267116,
+        "log": 8.539209,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fobello",
+        "lat": 45.889861,
+        "log": 8.158361,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Foggia",
+        "lat": 41.45845,
+        "log": 15.55188,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Göppingen",
+                "lat": 48.642778,
+                "log": 9.637778,
+                "stato": "Germania",
+                "regione": "circondario di Göppingen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pescasseroli",
+                "lat": 41.805,
+                "log": 13.789722,
+                "stato": "Italia",
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Walbrzych",
+                "lat": 50.78333333,
+                "log": 16.28333333,
+                "stato": "Polonia",
+                "regione": "voivodato della Bassa Slesia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "L'Aquila",
+                "lat": 42.354008,
+                "log": 13.391992,
+                "stato": "Italia",
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Forlì",
+                "lat": 44.2225,
+                "log": 12.040833,
+                "stato": "Italia",
+                "regione": "provincia di Forlì-Cesena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Quimper",
+                "lat": 47.995833,
+                "log": -4.097778,
+                "stato": "Francia",
+                "regione": "arrondissement di Quimper",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Peterborough",
+                "lat": 42.870556,
+                "log": -71.951667,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Hillsborough",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Foglianise",
+        "lat": 41.16006,
+        "log": 14.67179,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fogliano Redipuglia",
+        "lat": 45.866667,
+        "log": 13.483333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Gorizia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Foglizzo",
+        "lat": 45.271272,
+        "log": 7.822265,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Foiano della Chiana",
+        "lat": 43.256667,
+        "log": 11.816389,
+        "stato": "Italia",
+        "regione": "provincia di Arezzo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Foiano di Val Fortore",
+        "lat": 41.35,
+        "log": 14.983333,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Folgaria",
+        "lat": 45.916667,
+        "log": 11.183333,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Heringsdorf (Meclemburgo-Pomerania Anteriore){{!}}Heringsdorf",
+                "lat": 53.954343,
+                "log": 14.1672,
+                "stato": "Germania",
+                "regione": "circondario della Pomerania Anteriore-Greifswald",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sant'Oreste (Italia)",
+                "lat": 42.233333,
+                "log": 12.516667,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Folignano",
+        "lat": 42.821,
+        "log": 13.63295,
+        "stato": "Italia",
+        "regione": "provincia di Ascoli Piceno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Foligno",
+        "lat": 42.956111,
+        "log": 12.703333,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Gemona del Friuli",
+                "lat": 46.27405,
+                "log": 13.12237,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Udine",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "La Louvière",
+                "lat": 50.46666667,
+                "log": 4.18333333,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Soignies",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Shibukawa",
+                "lat": 45.3619,
+                "log": 11.7924,
+                "stato": "Italia",
+                "regione": "provincia di Padova",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Follina",
+        "lat": 45.95,
+        "log": 12.116667,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Wipfeld",
+                "lat": 49.916667,
+                "log": 10.166667,
+                "stato": "Germania",
+                "regione": "circondario di Schweinfurt",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Follo",
+        "lat": 44.16042,
+        "log": 9.864885,
+        "stato": "Italia",
+        "regione": "provincia della Spezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Follonica",
+        "lat": 42.918889,
+        "log": 10.761389,
+        "stato": "Italia",
+        "regione": "provincia di Grosseto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Charleroi",
+                "lat": 50.4,
+                "log": 4.43333333,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Charleroi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kołobrzeg",
+                "lat": 54.176111,
+                "log": 15.576111,
+                "stato": "Polonia",
+                "regione": "distretto di Kołobrzeg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Hedemora",
+                "lat": 60.283333,
+                "log": 15.983333,
+                "stato": "Svezia",
+                "regione": "Contea di Dalarna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Waldkirch",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fombio",
+        "lat": 45.141389,
+        "log": 9.688889,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fondachelli-Fantina",
+        "lat": 37.983333,
+        "log": 15.166667,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fondi",
+        "lat": 41.35,
+        "log": 13.416667,
+        "stato": "Italia",
+        "regione": "provincia di Latina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fonni",
+        "lat": 40.118778,
+        "log": 9.253578,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontainemore",
+        "lat": 45.65,
+        "log": 7.866667,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontana Liri",
+        "lat": 41.616667,
+        "log": 13.55,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontanafredda",
+        "lat": 45.966667,
+        "log": 12.566667,
+        "stato": "Italia",
+        "regione": "UTI del Noncello",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint Jean",
+                "lat": 45.783333,
+                "log": 7.816667,
+                "stato": "Italia",
+                "regione": "Valle d'Aosta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fontanarosa",
+        "lat": 41.019167,
+        "log": 15.021389,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontanelice",
+        "lat": 44.266667,
+        "log": 11.566667,
+        "stato": "Italia",
+        "regione": "provincia di Bologna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontanella (Italia)",
+        "lat": 45.466667,
+        "log": 9.8,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontanellato",
+        "lat": 44.882417,
+        "log": 10.173056,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Falköping",
+                "lat": 58.166667,
+                "log": 13.55,
+                "stato": "Svezia",
+                "regione": "contea di Västra Götaland",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kißlegg",
+                "lat": 47.79,
+                "log": 9.884167,
+                "stato": "Germania",
+                "regione": "circondario di Ravensburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Wells",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fontanelle (Italia)",
+        "lat": 45.833333,
+        "log": 12.466667,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Auterive",
+                "lat": 43.35,
+                "log": 1.483333,
+                "stato": "Francia",
+                "regione": "Alta Garonna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fontaneto d'Agogna",
+        "lat": 45.65,
+        "log": 8.483333,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontanetto Po",
+        "lat": 45.2,
+        "log": 8.183333,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontanigorda",
+        "lat": 44.546572,
+        "log": 9.304744,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Maime",
+                "lat": 43.9,
+                "log": 5.8,
+                "stato": "Francia",
+                "regione": "Alpi dell'Alta Provenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fontanile",
+        "lat": 44.75295,
+        "log": 8.42134,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontaniva",
+        "lat": 45.637629,
+        "log": 11.752198,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bartın",
+                "lat": 41.634444,
+                "log": 32.3375,
+                "stato": "Turchia",
+                "regione": "Turchia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Amasra",
+                "lat": 41.75,
+                "log": 32.38333333,
+                "stato": "Turchia",
+                "regione": "provincia di Bartın",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nova Pádua",
+                "lat": -29.02944444,
+                "log": -51.3075,
+                "stato": "Brasile",
+                "regione": "Rio Grande do Sul",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fonte (Italia)",
+        "lat": 45.783333,
+        "log": 11.866667,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fonte Nuova",
+        "lat": 42.001667,
+        "log": 12.621944,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontecchio",
+        "lat": 42.230556,
+        "log": 13.606667,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontechiari",
+        "lat": 41.6675,
+        "log": 13.675,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontegreca",
+        "lat": 41.45,
+        "log": 14.183333,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fonteno",
+        "lat": 45.752349,
+        "log": 10.000026,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fontevivo",
+        "lat": 44.856472,
+        "log": 10.176222,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fonzaso",
+        "lat": 46.016667,
+        "log": 11.8,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Foppolo",
+        "lat": 46.042778,
+        "log": 9.758611,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forano",
+        "lat": 42.3,
+        "log": 12.6,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Iași",
+                "lat": 47.15,
+                "log": 27.58333333,
+                "stato": "Romania",
+                "regione": "distretto di Iași",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Force",
+        "lat": 42.963331,
+        "log": 13.491031,
+        "stato": "Italia",
+        "regione": "provincia di Ascoli Piceno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forchia",
+        "lat": 41.03144,
+        "log": 14.53573,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forcola",
+        "lat": 46.15,
+        "log": 9.666667,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fordongianus",
+        "lat": 39.994876,
+        "log": 8.80949,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forenza",
+        "lat": 40.866667,
+        "log": 15.85,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Foresto Sparso",
+        "lat": 45.7,
+        "log": 9.9,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forgaria nel Friuli",
+        "lat": 46.216667,
+        "log": 12.966667,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forino",
+        "lat": 40.863611,
+        "log": 14.736944,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forio",
+        "lat": 40.733333,
+        "log": 13.85,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Brusson",
+                "lat": 45.766667,
+                "log": 7.733333,
+                "stato": "Italia",
+                "regione": "Valle d'Aosta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Polignano a Mare",
+                "lat": 40.996111,
+                "log": 17.220278,
+                "stato": "Italia",
+                "regione": "provincia di Bari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Câmara de Lobos",
+                "lat": 32.65,
+                "log": -16.966667,
+                "stato": "Portogallo",
+                "regione": "Madera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Goce Delčev",
+                "lat": 41.6,
+                "log": 23.81666667,
+                "stato": "Bulgaria",
+                "regione": "distretto di Blagoevgrad",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Forlimpopoli",
+        "lat": 44.183333,
+        "log": 12.133333,
+        "stato": "Italia",
+        "regione": "provincia di Forlì-Cesena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Villeneuve-Loubet",
+                "lat": 43.65,
+                "log": 7.116667,
+                "stato": "Francia",
+                "regione": "cantone di Cagnes-sur-Mer-Ouest",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Traun",
+                "lat": 48.21666667,
+                "log": 14.23333333,
+                "stato": "Austria",
+                "regione": "distretto di Linz-Land",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Villefranche-sur-Saône",
+                "lat": 45.983333,
+                "log": 4.716667,
+                "stato": "Francia",
+                "regione": "arrondissement di Villefranche-sur-Saône",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Forlì",
+        "lat": 44.2225,
+        "log": 12.040833,
+        "stato": "Italia",
+        "regione": "provincia di Forlì-Cesena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bourges",
+                "lat": 47.083611,
+                "log": 2.395556,
+                "stato": "Francia",
+                "regione": "Cher",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Aveiro (Portogallo){{!}}Aveiro",
+                "lat": 40.61666667,
+                "log": -8.63333333,
+                "stato": "Portogallo",
+                "regione": "distretto di Aveiro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Peterborough",
+                "lat": 42.870556,
+                "log": -71.951667,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Hillsborough",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Płock",
+                "lat": 52.55,
+                "log": 19.7,
+                "stato": "Polonia",
+                "regione": "voivodato della Masovia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Szolnok",
+                "lat": 47.174722,
+                "log": 20.176389,
+                "stato": "Ungheria",
+                "regione": "Distretto di Szolnok",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Elektrėnai",
+                "lat": 54.766667,
+                "log": 24.666667,
+                "stato": "Lituania",
+                "regione": "contea di Vilnius",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Foggia",
+                "lat": 41.45845,
+                "log": 15.55188,
+                "stato": "Italia",
+                "regione": "provincia di Foggia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Forlì del Sannio",
+        "lat": 41.7,
+        "log": 14.183333,
+        "stato": "Italia",
+        "regione": "provincia di Isernia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Rives",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Formazza",
+        "lat": 46.376944,
+        "log": 8.425556,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Formello",
+        "lat": 42.083333,
+        "log": 12.4,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Formia",
+        "lat": 41.256389,
+        "log": 13.606944,
+        "stato": "Italia",
+        "regione": "provincia di Latina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ferrara",
+                "lat": 44.839167,
+                "log": 11.6175,
+                "stato": "Italia",
+                "regione": "provincia di Ferrara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fleury-les-Aubrais",
+                "lat": 47.933333,
+                "log": 1.916667,
+                "stato": "Francia",
+                "regione": "Loiret",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gračanica",
+                "lat": 42.6,
+                "log": 21.2,
+                "stato": "Kosovo",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Haninge",
+                "lat": 59.166667,
+                "log": 18.133333,
+                "stato": "Svezia",
+                "regione": "contea di Stoccolma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Santeramo in Colle",
+                "lat": 40.8,
+                "log": 16.766667,
+                "stato": "Italia",
+                "regione": "provincia di Bari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Napoli",
+                "lat": 40.835833,
+                "log": 14.248611,
+                "stato": "Italia",
+                "regione": "città metropolitana di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Arpino",
+                "lat": 41.64705,
+                "log": 13.61155,
+                "stato": "Italia",
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Formicola",
+        "lat": 41.216667,
+        "log": 14.233333,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Formigara",
+        "lat": 45.233333,
+        "log": 9.766667,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Formigine",
+        "lat": 44.573889,
+        "log": 10.847778,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saumur",
+                "lat": 47.266667,
+                "log": -0.083333,
+                "stato": "Francia",
+                "regione": "Maine e Loira",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tábor",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kilkenny",
+                "lat": 52.2583,
+                "log": -7.119,
+                "stato": "Irlanda",
+                "regione": "Waterford",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Edchera",
+                "lat": 27.030556,
+                "log": -13.051944,
+                "stato": "Marocco",
+                "regione": "provincia di Laâyoune",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Monte Urano",
+                "lat": 43.205961,
+                "log": 13.67205,
+                "stato": "Italia",
+                "regione": "provincia di Fermo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Finale Emilia",
+                "lat": 44.83185,
+                "log": 11.29574,
+                "stato": "Italia",
+                "regione": "provincia di Modena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Verden (Aller)",
+                "lat": 52.921111,
+                "log": 9.230556,
+                "stato": "Germania",
+                "regione": "circondario di Verden",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Formigliana",
+        "lat": 45.433333,
+        "log": 8.283333,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fornace (Italia)",
+        "lat": 46.11805,
+        "log": 11.20751,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fornelli",
+        "lat": 41.60678,
+        "log": 14.14041,
+        "stato": "Italia",
+        "regione": "provincia di Isernia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forni Avoltri",
+        "lat": 46.586831,
+        "log": 12.776908,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forni di Sopra",
+        "lat": 46.420227,
+        "log": 12.585596,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forni di Sotto",
+        "lat": 46.4,
+        "log": 12.666667,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forno Canavese",
+        "lat": 45.345353,
+        "log": 7.591015,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fornovo San Giovanni",
+        "lat": 45.4968,
+        "log": 9.6773,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fornovo di Taro",
+        "lat": 44.683333,
+        "log": 10.1,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forte dei Marmi",
+        "lat": 43.95,
+        "log": 10.183333,
+        "stato": "Italia",
+        "regione": "provincia di Lucca",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Haan",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Etterbeek",
+                "lat": 50.81666667,
+                "log": 4.38333333,
+                "stato": "Belgio",
+                "regione": "arrondissement di Bruxelles-Capitale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fortezza (Italia)",
+        "lat": 46.78840278,
+        "log": 11.61068611,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fortunago",
+        "lat": 44.916667,
+        "log": 9.183333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Forza d'Agrò",
+        "lat": 37.914722,
+        "log": 15.334167,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fosciandora",
+        "lat": 44.115833,
+        "log": 10.459444,
+        "stato": "Italia",
+        "regione": "provincia di Lucca",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fosdinovo",
+        "lat": 44.133333,
+        "log": 10.016667,
+        "stato": "Italia",
+        "regione": "provincia di Massa-Carrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pays de Sauxillanges",
+                "lat": 44.133333,
+                "log": 10.016667,
+                "stato": "Italia",
+                "regione": "provincia di Massa-Carrara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fossa (comune)",
+        "lat": 42.29273,
+        "log": 13.48779,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fossacesia",
+        "lat": 42.25,
+        "log": 14.483333,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fossalta di Piave",
+        "lat": 45.6475,
+        "log": 12.5123,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fossalta di Portogruaro",
+        "lat": 45.783333,
+        "log": 12.916667,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fossalto",
+        "lat": 41.666667,
+        "log": 14.55,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fossano",
+        "lat": 44.55,
+        "log": 7.733333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Rafaela",
+                "lat": -31.25,
+                "log": -61.35,
+                "stato": "Argentina",
+                "regione": "Dipartimento di Castellanos",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Camponogara",
+                "lat": 45.383333,
+                "log": 12.066667,
+                "stato": "Italia",
+                "regione": "provincia di Venezia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dlugoleka",
+                "lat": 51.174722,
+                "log": 17.195278,
+                "stato": "Polonia",
+                "regione": "distretto di Breslavia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fossato Serralta",
+        "lat": 39,
+        "log": 16.583333,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fossato di Vico",
+        "lat": 43.3,
+        "log": 12.766667,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Ambroix",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Aßlar",
+                "lat": 50.583333,
+                "log": 8.466667,
+                "stato": "Germania",
+                "regione": "Circondario di Lahn-Dill",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fossombrone",
+        "lat": 43.688956,
+        "log": 12.806119,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Entraigues-sur-la-Sorgue",
+                "lat": 44.003611,
+                "log": 4.927222,
+                "stato": "Francia",
+                "regione": "cantone di Carpentras-Sud",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fossò",
+        "lat": 45.383333,
+        "log": 12.05,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Čitluk",
+                "lat": 43.2,
+                "log": 17.7,
+                "stato": "Bosnia ed Erzegovina",
+                "regione": "cantone dell'Erzegovina-Narenta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Foza",
+        "lat": 45.9,
+        "log": 11.633333,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Neufahrn in Niederbayern",
+                "lat": 48.733333,
+                "log": 12.183333,
+                "stato": "Germania",
+                "regione": "circondario di Landshut",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sinnai",
+                "lat": 39.302557,
+                "log": 9.20311,
+                "stato": "Italia",
+                "regione": "provincia di Cagliari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Armungia",
+                "lat": 39.521853,
+                "log": 9.381208,
+                "stato": "Italia",
+                "regione": "provincia di Cagliari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tempio Pausania",
+                "lat": 40.90148,
+                "log": 9.104362,
+                "stato": "Italia",
+                "regione": "provincia di Sassari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Frabosa Soprana",
+        "lat": 44.287231,
+        "log": 7.806969,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frabosa Sottana",
+        "lat": 44.3,
+        "log": 7.8,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fraconalto",
+        "lat": 44.591944,
+        "log": 8.879444,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fragagnano",
+        "lat": 40.433333,
+        "log": 17.466667,
+        "stato": "Italia",
+        "regione": "provincia di Taranto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fragneto Monforte",
+        "lat": 41.246667,
+        "log": 14.763333,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fragneto l'Abate",
+        "lat": 41.255833,
+        "log": 14.781667,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fraine",
+        "lat": 41.88990278,
+        "log": 14.4872,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Framura",
+        "lat": 44.208661,
+        "log": 9.554422,
+        "stato": "Italia",
+        "regione": "provincia della Spezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francavilla Angitola",
+        "lat": 38.783333,
+        "log": 16.266667,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francavilla Bisio",
+        "lat": 44.735556,
+        "log": 8.732222,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francavilla Fontana",
+        "lat": 40.531389,
+        "log": 17.585833,
+        "stato": "Italia",
+        "regione": "provincia di Brindisi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francavilla Marittima",
+        "lat": 39.816944,
+        "log": 16.395556,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francavilla al Mare",
+        "lat": 42.418058,
+        "log": 14.291908,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francavilla d'Ete",
+        "lat": 43.190986,
+        "log": 13.540414,
+        "stato": "Italia",
+        "regione": "provincia di Fermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francavilla di Sicilia",
+        "lat": 37.901469,
+        "log": 15.135919,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francavilla in Sinni",
+        "lat": 40.083333,
+        "log": 16.2,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francica",
+        "lat": 38.616667,
+        "log": 16.1,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francofonte",
+        "lat": 37.233333,
+        "log": 14.883333,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Siracusa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Francolise",
+        "lat": 41.183333,
+        "log": 14.05,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frascaro",
+        "lat": 44.826449,
+        "log": 8.532245,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frascarolo",
+        "lat": 45.046656,
+        "log": 8.682044,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frascati",
+        "lat": 41.816667,
+        "log": 12.683333,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frascineto",
+        "lat": 39.833333,
+        "log": 16.266667,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frassilongo",
+        "lat": 46.083333,
+        "log": 11.3,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frassinelle Polesine",
+        "lat": 44.981745,
+        "log": 11.691316,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frassinello Monferrato",
+        "lat": 45.032778,
+        "log": 8.388611,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frassineto Po",
+        "lat": 45.134722,
+        "log": 8.535278,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frassinetto",
+        "lat": 45.437142,
+        "log": 7.606743,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frassino (Italia)",
+        "lat": 44.566667,
+        "log": 7.283333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frassinoro",
+        "lat": 44.296389,
+        "log": 10.571111,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frasso Sabino",
+        "lat": 42.229723,
+        "log": 12.804969,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frasso Telesino",
+        "lat": 41.15,
+        "log": 14.533333,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fratta Polesine",
+        "lat": 45.033333,
+        "log": 11.65,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tulcea",
+                "lat": 45.18333333,
+                "log": 28.8,
+                "stato": "Romania",
+                "regione": "distretto di Tulcea",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Conversano",
+                "lat": 40.966667,
+                "log": 17.116667,
+                "stato": "Italia",
+                "regione": "provincia di Bari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Trecenta",
+                "lat": 45.033333,
+                "log": 11.45,
+                "stato": "Italia",
+                "regione": "provincia di Rovigo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Recanati",
+                "lat": 43.39855,
+                "log": 13.552531,
+                "stato": "Italia",
+                "regione": "provincia di Macerata",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Palazzolo Acreide",
+                "lat": 37.061667,
+                "log": 14.902778,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Siracusa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fratta Todina",
+        "lat": 42.871221,
+        "log": 12.359843,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frattamaggiore",
+        "lat": 40.941667,
+        "log": 14.272222,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Striano",
+                "lat": 40.816667,
+                "log": 14.566667,
+                "stato": "Italia",
+                "regione": "provincia di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Frattaminore",
+        "lat": 40.955556,
+        "log": 14.270833,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fratte Rosa",
+        "lat": 43.6321,
+        "log": 12.901169,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frazzanò",
+        "lat": 38.07228,
+        "log": 14.743448,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fregona",
+        "lat": 46.000218,
+        "log": 12.338962,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Seyssel",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Court-Saint-Étienne",
+                "lat": 50.633333,
+                "log": 4.566667,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Nivelles",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fresagrandinaria",
+        "lat": 41.983333,
+        "log": 14.666667,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nowa Sól",
+                "lat": 51.8,
+                "log": 15.716667,
+                "stato": "Polonia",
+                "regione": "distretto di Nowa Sól",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Püttlingen",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Saint-Michel-sur-Orge",
+                "lat": 48.633333,
+                "log": 2.3,
+                "stato": "Francia",
+                "regione": "Dipartimento di Seine-et-Oise",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Senftenberg",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Veszprém",
+                "lat": 47.1,
+                "log": 17.916667,
+                "stato": "Ungheria",
+                "regione": "Distretto di Veszprém",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Žamberk",
+                "lat": 50.08722222,
+                "log": 16.46527778,
+                "stato": "Repubblica Ceca",
+                "regione": "Distretto di Ústí nad Orlicí",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fresonara",
+        "lat": 44.783889,
+        "log": 8.687222,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frigento",
+        "lat": 41.012222,
+        "log": 15.100556,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frignano",
+        "lat": 44.332701,
+        "log": 10.833118,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frinco",
+        "lat": 45.005,
+        "log": 8.173056,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frisa",
+        "lat": 42.266667,
+        "log": 14.366667,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frisanco",
+        "lat": 46.216667,
+        "log": 12.733333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Pordenone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Friuli-Venezia Giulia",
+        "lat": 45.63611111,
+        "log": 13.80416667,
+        "stato": "Italia",
+        "regione": "Italia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Front",
+        "lat": 45.280852,
+        "log": 7.663618,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frontino (Italia)",
+        "lat": 43.764531,
+        "log": 12.377931,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frontone (Italia)",
+        "lat": 43.514439,
+        "log": 12.73845,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frosinone",
+        "lat": 41.633333,
+        "log": 13.35,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Elmwood Park (Illinois)",
+                "lat": 41.9225,
+                "log": -87.815556,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Cook",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tecumseh (Ontario)",
+                "lat": 42.3,
+                "log": -82.8833,
+                "stato": "Canada",
+                "regione": "Contea di Essex",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nocera Umbra",
+                "lat": 43.116667,
+                "log": 12.783333,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ponza",
+                "lat": 40.9,
+                "log": 12.966667,
+                "stato": "Italia",
+                "regione": "provincia di Latina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Frosolone",
+        "lat": 41.6,
+        "log": 14.45,
+        "stato": "Italia",
+        "regione": "provincia di Isernia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Frossasco",
+        "lat": 44.932944,
+        "log": 7.350218,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Jean-de-Moirans",
+                "lat": 45.333333,
+                "log": 5.583333,
+                "stato": "Francia",
+                "regione": "cantone di Rives",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Piamonte",
+                "lat": 1.10888889,
+                "log": -76.28111111,
+                "stato": "Colombia",
+                "regione": "dipartimento di Cauca",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Frugarolo",
+        "lat": 44.838056,
+        "log": 8.6825,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fubine Monferrato",
+        "lat": 44.963611,
+        "log": 8.431111,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fucecchio",
+        "lat": 43.733333,
+        "log": 10.8,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nogent-sur-Oise",
+                "lat": 49.266667,
+                "log": 2.466667,
+                "stato": "Francia",
+                "regione": "cantone di Creil-Nogent-sur-Oise",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fuipiano Valle Imagna",
+        "lat": 45.85,
+        "log": 9.533333,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fumane",
+        "lat": 45.543167,
+        "log": 10.881778,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tratalias",
+                "lat": 39.102624,
+                "log": 8.579121,
+                "stato": "Italia",
+                "regione": "provincia di Carbonia-Iglesias",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Urdinarrain",
+                "lat": -32.685556,
+                "log": -58.886667,
+                "stato": "Argentina",
+                "regione": "Dipartimento di Gualeguaychú",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Atapuerca",
+                "lat": 42.3794,
+                "log": -3.5058,
+                "stato": "Spagna",
+                "regione": "provincia di Burgos",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fumone",
+        "lat": 41.725,
+        "log": 13.291111,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Funes (Italia)",
+        "lat": 46.642863,
+        "log": 11.681375,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Furci",
+        "lat": 42.032844,
+        "log": 14.612738,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bondy",
+                "lat": 48.9,
+                "log": 2.466667,
+                "stato": "Francia",
+                "regione": "arrondissement di Bobigny",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Furci Siculo",
+        "lat": 37.961389,
+        "log": 15.381944,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Octeville-sur-Mer",
+                "lat": 49.55,
+                "log": 0.116667,
+                "stato": "Francia",
+                "regione": "cantone di Montivilliers",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Furnari",
+        "lat": 38.10462,
+        "log": 15.125223,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Furore (Italia)",
+        "lat": 40.621389,
+        "log": 14.549444,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Furtei",
+        "lat": 39.562427,
+        "log": 8.947678,
+        "stato": "Italia",
+        "regione": "provincia del Medio Campidano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fuscaldo",
+        "lat": 39.416667,
+        "log": 16.033333,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pero (Italia){{!}}Pero",
+                "lat": 45.510788,
+                "log": 9.076998,
+                "stato": "Italia",
+                "regione": "provincia di Milano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fusignano",
+        "lat": 44.466667,
+        "log": 11.95,
+        "stato": "Italia",
+        "regione": "provincia di Ravenna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Biddulph",
+                "lat": null,
+                "log": null,
+                "stato": "Italia",
+                "regione": "Genova",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "La Côte-Saint-André",
+                "lat": 45.383333,
+                "log": 5.25,
+                "stato": "Francia",
+                "regione": "Cantone di La Côte-Saint-André",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Fusine (Italia)",
+        "lat": 46.149041,
+        "log": 9.749098,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fusione di comuni italiani",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Futani",
+        "lat": 40.151667,
+        "log": 15.322222,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Fénis",
+        "lat": 45.736013,
+        "log": 7.494371,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

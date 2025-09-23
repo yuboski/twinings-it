@@ -1,0 +1,5951 @@
+[
+    {
+        "comune": "Taceno",
+        "lat": 46.016667,
+        "log": 9.366667,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tadasuni",
+        "lat": 40.110278,
+        "log": 8.883611,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taggia",
+        "lat": 43.843858,
+        "log": 7.850928,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tagliacozzo",
+        "lat": 42.069444,
+        "log": 13.254722,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Yonkers",
+                "lat": 40.941389,
+                "log": -73.864444,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Westchester",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Taglio di Po",
+        "lat": 45,
+        "log": 12.216667,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Castelmuschio",
+                "lat": 45.2,
+                "log": 14.55,
+                "stato": "Croazia",
+                "regione": "regione litoraneo-montana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tagliolo Monferrato",
+        "lat": 44.639167,
+        "log": 8.666944,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taibon Agordino",
+        "lat": 46.3,
+        "log": 12.016667,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taino (Italia)",
+        "lat": 45.766667,
+        "log": 8.616667,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taipana",
+        "lat": 46.25,
+        "log": 13.333333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Talamello",
+        "lat": 43.90485,
+        "log": 12.286356,
+        "stato": "Italia",
+        "regione": "provincia di Rimini",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Talamona",
+        "lat": 42.555278,
+        "log": 11.133333,
+        "stato": "Italia",
+        "regione": "Orbetello",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Talana",
+        "lat": 40.042466,
+        "log": 9.496822,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taleggio (Italia)",
+        "lat": 45.9,
+        "log": 9.56667,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint Chaffrey",
+                "lat": 44.916667,
+                "log": 6.6,
+                "stato": "Francia",
+                "regione": "cantone di Monêtier-les-Bains",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Talla",
+        "lat": 43.602778,
+        "log": 11.788056,
+        "stato": "Italia",
+        "regione": "provincia di Arezzo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pont-du-Casse",
+                "lat": 44.233333,
+                "log": 0.683333,
+                "stato": "Francia",
+                "regione": "cantone di Agen-Nord-Est",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Talmassons",
+        "lat": 45.933333,
+        "log": 13.116667,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tambre",
+        "lat": 46.133333,
+        "log": 12.416667,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taormina",
+        "lat": 37.85179,
+        "log": 15.28565,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tarano",
+        "lat": 42.35,
+        "log": 12.6,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taranta Peligna",
+        "lat": 42.016667,
+        "log": 14.166667,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tarantasca",
+        "lat": 44.5,
+        "log": 7.55,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taranto",
+        "lat": 40.471111,
+        "log": 17.243056,
+        "stato": "Italia",
+        "regione": "provincia di Taranto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sparta (città moderna){{!}}Sparta",
+                "lat": 37.073889,
+                "log": 22.429444,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Brest",
+                "lat": 48.3667,
+                "log": -4.4833,
+                "stato": "Francia",
+                "regione": "arrondissement di Brest",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Donec'k",
+                "lat": 48.002778,
+                "log": 37.805278,
+                "stato": "Unione Sovietica",
+                "regione": "Ucraina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Islamabad",
+                "lat": 30,
+                "log": 71,
+                "stato": "Pakistan",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Alicante",
+                "lat": 38.350002,
+                "log": -0.483334,
+                "stato": "Spagna",
+                "regione": "Alacantí",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Acquaviva delle Fonti",
+                "lat": 40.9,
+                "log": 16.85,
+                "stato": "Italia",
+                "regione": "provincia di Bari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tirana",
+                "lat": 41.328889,
+                "log": 19.817778,
+                "stato": "Albania",
+                "regione": "comune di Tirana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tarcento",
+        "lat": 46.216667,
+        "log": 13.216667,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Unterföhring",
+                "lat": 48.191667,
+                "log": 11.652778,
+                "stato": "Germania",
+                "regione": "circondario di Monaco di Baviera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Plezzo",
+                "lat": 46.333333,
+                "log": 13.55,
+                "stato": "Slovenia",
+                "regione": "Slovenia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Arnoldstein",
+                "lat": 46.548718,
+                "log": 13.707125,
+                "stato": "Austria",
+                "regione": "distretto di Villach-Land",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tarquinia",
+        "lat": 42.249167,
+        "log": 11.756111,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Jaruco",
+                "lat": 23.042778,
+                "log": -82.009444,
+                "stato": "Cuba",
+                "regione": "provincia di Mayabeque",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rabat",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tarsia (Italia)",
+        "lat": 39.616667,
+        "log": 16.266667,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tartano",
+        "lat": 46.116667,
+        "log": 9.683333,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tarvisio",
+        "lat": 46.505262,
+        "log": 13.578373,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tarzo",
+        "lat": 45.9725,
+        "log": 12.233889,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tassarolo",
+        "lat": 44.729444,
+        "log": 8.7725,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taurano",
+        "lat": 40.883333,
+        "log": 14.633333,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taurasi",
+        "lat": 41.015186,
+        "log": 14.96356,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taurianova",
+        "lat": 38.35,
+        "log": 16.016667,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taurisano",
+        "lat": 39.956802,
+        "log": 18.22001,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Fregenal de la Sierra",
+                "lat": 38.1667,
+                "log": -6.65,
+                "stato": "Spagna",
+                "regione": "provincia di Badajoz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tavagnacco",
+        "lat": 46.133333,
+        "log": 13.216667,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Serrenti",
+                "lat": 39.492517,
+                "log": 8.976517,
+                "stato": "Italia",
+                "regione": "provincia del Medio Campidano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tavagnasco",
+        "lat": 45.55,
+        "log": 7.816667,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tavazzano con Villavesco",
+        "lat": 45.328333,
+        "log": 9.4075,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tavenna",
+        "lat": 41.916667,
+        "log": 14.766667,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taverna (Italia)",
+        "lat": 39.016667,
+        "log": 16.583333,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Zurrico",
+                "lat": 35.84439444,
+                "log": 14.46796389,
+                "stato": "Malta",
+                "regione": "Regione Occidentale (Malta)",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tavernerio",
+        "lat": 45.8,
+        "log": 9.15,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tavernola Bergamasca",
+        "lat": 45.716667,
+        "log": 10.05,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tavernole sul Mella",
+        "lat": 45.74618,
+        "log": 10.23952,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Taviano",
+        "lat": 39.983333,
+        "log": 18.083333,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tavigliano",
+        "lat": 45.669309,
+        "log": 8.013837,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tavoleto",
+        "lat": 43.845869,
+        "log": 12.5925,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tavullia",
+        "lat": 43.898,
+        "log": 12.753194,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Teana",
+        "lat": 40.127778,
+        "log": 16.155278,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Teano",
+        "lat": 41.25,
+        "log": 14.066667,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Calatafimi Segesta",
+                "lat": 37.9,
+                "log": 12.85,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Trapani",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Camogli",
+                "lat": 44.348397,
+                "log": 9.155758,
+                "stato": "Italia",
+                "regione": "provincia di Genova",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Quarto dei Mille",
+                "lat": 44.3892,
+                "log": 8.99194,
+                "stato": "Italia",
+                "regione": "Genova",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Marsala",
+                "lat": 37.798056,
+                "log": 12.434167,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Trapani",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Teggiano",
+        "lat": 40.383333,
+        "log": 15.533333,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Teglio",
+        "lat": 46.166667,
+        "log": 10.066667,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Teglio Veneto",
+        "lat": 45.816667,
+        "log": 12.883333,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Telese Terme",
+        "lat": 41.216667,
+        "log": 14.533333,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Telgate",
+        "lat": 45.633333,
+        "log": 9.85,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Šmartno pri Litiji",
+                "lat": 46.044083,
+                "log": 14.846636,
+                "stato": "Slovenia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Telti",
+        "lat": 40.883333,
+        "log": 9.35,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Telve",
+        "lat": 46.066667,
+        "log": 11.483333,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Telve di Sopra",
+        "lat": 46.066667,
+        "log": 11.466667,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tempio Pausania",
+        "lat": 40.90148,
+        "log": 9.104362,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Asiago",
+                "lat": 45.866667,
+                "log": 11.516667,
+                "stato": "Italia",
+                "regione": "provincia di Vicenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Foza",
+                "lat": 45.9,
+                "log": 11.633333,
+                "stato": "Italia",
+                "regione": "provincia di Vicenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sinnai",
+                "lat": 39.302557,
+                "log": 9.20311,
+                "stato": "Italia",
+                "regione": "provincia di Cagliari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Armungia",
+                "lat": 39.521853,
+                "log": 9.381208,
+                "stato": "Italia",
+                "regione": "provincia di Cagliari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fonni",
+                "lat": 40.118778,
+                "log": 9.253578,
+                "stato": "Italia",
+                "regione": "provincia di Nuoro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Porto Vecchio",
+                "lat": 41.59167,
+                "log": 9.28028,
+                "stato": "Francia",
+                "regione": "cantone di Porto-Vecchio",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sartene",
+                "lat": 41.621667,
+                "log": 8.974167,
+                "stato": "Francia",
+                "regione": "cantone di Sartena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Temù",
+        "lat": 46.249444,
+        "log": 10.468889,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tenna (comune)",
+        "lat": 46.016667,
+        "log": 11.266667,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tenno",
+        "lat": 45.919444,
+        "log": 10.832222,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Teolo",
+        "lat": 45.35,
+        "log": 11.666667,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Teora",
+        "lat": 40.852222,
+        "log": 15.253889,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Teramo",
+        "lat": 42.658853,
+        "log": 13.703911,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Berane",
+                "lat": 42.845,
+                "log": 19.87444444,
+                "stato": "Montenegro",
+                "regione": "Montenegro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Memmingen",
+                "lat": null,
+                "log": null,
+                "stato": "Germania",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ribeirão Preto",
+                "lat": -21.17777778,
+                "log": -47.81027778,
+                "stato": "Brasile",
+                "regione": "San Paolo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Praga{{!}}Praga (Distretto 7)",
+                "lat": 50.0875,
+                "log": 14.421389,
+                "stato": "Repubblica Ceca",
+                "regione": "Ducato di Boemia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gorzów Wielkopolski",
+                "lat": 52.733333,
+                "log": 15.25,
+                "stato": "Polonia",
+                "regione": "voivodato di Lubusz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Strovolos",
+                "lat": 35.25,
+                "log": 33.33333333,
+                "stato": "Cipro",
+                "regione": "distretto di Nicosia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Avila",
+                "lat": 40.659025,
+                "log": -4.694252,
+                "stato": "Spagna",
+                "regione": "provincia di Ávila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Aglantzia",
+                "lat": 35.26666667,
+                "log": 33.5,
+                "stato": "Cipro",
+                "regione": "distretto di Nicosia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Terdobbiate",
+        "lat": 45.383333,
+        "log": 8.7,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terelle",
+        "lat": 41.552139,
+        "log": 13.777806,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terento",
+        "lat": 46.8288,
+        "log": 11.776016,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terenzo",
+        "lat": 44.610139,
+        "log": 10.08775,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tergu",
+        "lat": 40.864722,
+        "log": 8.7125,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terlano",
+        "lat": 46.529301,
+        "log": 11.248678,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terlizzi",
+        "lat": 41.133333,
+        "log": 16.55,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sesto San Giovanni",
+                "lat": 45.533333,
+                "log": 9.233333,
+                "stato": "Italia",
+                "regione": "provincia di Milano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Terme Vigliatore",
+        "lat": 38.13674,
+        "log": 15.16268,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Termeno sulla Strada del Vino",
+        "lat": 46.34151,
+        "log": 11.24228,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Rödermark",
+                "lat": 49.9775,
+                "log": 8.828056,
+                "stato": "Germania",
+                "regione": "circondario di Offenbach",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mindelheim",
+                "lat": 48.04638889,
+                "log": 10.48833333,
+                "stato": "Germania",
+                "regione": "circondario della Bassa Algovia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Schwaz",
+                "lat": 47.35,
+                "log": 11.7,
+                "stato": "Austria",
+                "regione": "distretto di Schwaz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Verbania",
+                "lat": 45.922778,
+                "log": 8.551944,
+                "stato": "Italia",
+                "regione": "provincia del Verbano-Cusio-Ossola",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Termini Imerese",
+        "lat": 37.983333,
+        "log": 13.7,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Elk Grove Village",
+                "lat": 41.8,
+                "log": -87.716667,
+                "stato": "Stati Uniti d’America",
+                "regione": "Illinois",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "La Valletta",
+                "lat": 35.89489167,
+                "log": 14.50778889,
+                "stato": "Malta",
+                "regione": "Regione del Porto (Malta)",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zihuatanejo",
+                "lat": 17.64344,
+                "log": -101.55212,
+                "stato": "Messico",
+                "regione": "Zihuatanejo de Azueta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Vilnius",
+                "lat": 54.687222,
+                "log": 25.28,
+                "stato": "Lituania",
+                "regione": "comune urbano di Vilnius",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Maranello",
+                "lat": 44.526389,
+                "log": 10.866667,
+                "stato": "Italia",
+                "regione": "provincia di Modena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Termoli",
+        "lat": 42.002778,
+        "log": 14.994722,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Chorzów",
+                "lat": 50.3,
+                "log": 18.95,
+                "stato": "Polonia",
+                "regione": "voivodato della Slesia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pompano Beach",
+                "lat": 26.234722,
+                "log": -80.125556,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Broward",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Labico",
+                "lat": 41.783333,
+                "log": 12.883333,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ternate (Italia)",
+        "lat": 45.783333,
+        "log": 8.7,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ternengo",
+        "lat": 45.589455,
+        "log": 8.116769,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sonogno",
+                "lat": 46.35,
+                "log": 8.78388889,
+                "stato": "Svizzera",
+                "regione": "Verzasca",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Terni",
+        "lat": 42.566667,
+        "log": 12.65,
+        "stato": "Italia",
+        "regione": "provincia di Terni",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cartagena (Spagna){{!}}Cartagena",
+                "lat": 37.600002,
+                "log": -0.983334,
+                "stato": "Spagna",
+                "regione": "regione di Murcia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Saint-Ouen (Senna-Saint-Denis){{!}}Saint-Ouen",
+                "lat": 48.935556,
+                "log": 2.353889,
+                "stato": "Francia",
+                "regione": "Senna-Saint-Denis",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Praga{{!}}Praga",
+                "lat": 50.0875,
+                "log": 14.421389,
+                "stato": "Repubblica Ceca",
+                "regione": "Ducato di Boemia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dunaújváros",
+                "lat": 46.983333,
+                "log": 18.916667,
+                "stato": "Ungheria",
+                "regione": "Dunaújváros",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kōbe",
+                "lat": 34.690167,
+                "log": 135.195444,
+                "stato": "Giappone",
+                "regione": "prefettura di Hyōgo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Auserd{{!}}Wilaya di Auserd",
+                "lat": null,
+                "log": null,
+                "stato": "Algeria",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Terno d'Isola",
+        "lat": 45.683333,
+        "log": 9.533333,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terracina",
+        "lat": 41.283333,
+        "log": 13.25,
+        "stato": "Italia",
+        "regione": "provincia di Latina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bad Homburg",
+                "lat": 50.21666667,
+                "log": 8.6,
+                "stato": "Germania",
+                "regione": "circondario dell'Alto Taunus",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cabourg",
+                "lat": 49.283333,
+                "log": 0.133333,
+                "stato": "Francia",
+                "regione": "Calvados",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Coira",
+                "lat": 46.84833333,
+                "log": 9.53222222,
+                "stato": "Svizzera",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Exeter",
+                "lat": 42.981389,
+                "log": -70.947778,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Rockingham",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Jūrmala",
+                "lat": 56.966667,
+                "log": 23.75,
+                "stato": "Lettonia",
+                "regione": "Lettonia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mayrhofen",
+                "lat": 47.16777778,
+                "log": 11.86361111,
+                "stato": "Austria",
+                "regione": "distretto di Schwaz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mondorf-les-Bains",
+                "lat": 49.5,
+                "log": 6.28333333,
+                "stato": "Lussemburgo",
+                "regione": "cantone di Remich",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pécs",
+                "lat": 46.070833,
+                "log": 18.233056,
+                "stato": "Ungheria",
+                "regione": "Distretto di Pécs",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sergiev Posad",
+                "lat": 48.883333,
+                "log": 2.2,
+                "stato": "Francia",
+                "regione": "Hauts-de-Seine",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Terragnolo",
+        "lat": 45.883333,
+        "log": 11.15,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bento Gonçalves (Rio Grande do Sul)",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Terralba",
+        "lat": 39.719731,
+        "log": 8.636284,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terranova Sappo Minulio",
+        "lat": 38.316667,
+        "log": 16,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terranova da Sibari",
+        "lat": 39.65,
+        "log": 16.333333,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terranova dei Passerini",
+        "lat": 45.199509,
+        "log": 9.675981,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terranova di Pollino",
+        "lat": 39.983333,
+        "log": 16.3,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terranuova Bracciolini",
+        "lat": 43.553056,
+        "log": 11.589444,
+        "stato": "Italia",
+        "regione": "provincia di Arezzo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Hausa (città){{!}}Hausa",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Accumoli",
+                "lat": 42.694444,
+                "log": 13.2475,
+                "stato": "Italia",
+                "regione": "provincia di Rieti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Terrasini",
+        "lat": 38.15,
+        "log": 13.083333,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terrassa Padovana",
+        "lat": 45.25,
+        "log": 11.9,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terravecchia",
+        "lat": 39.46594,
+        "log": 16.94623,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terrazzo (comune)",
+        "lat": 45.173833,
+        "log": 11.398611,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terre Roveresche",
+        "lat": 43.688869,
+        "log": 12.9655,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Freyming-Merlebach",
+                "lat": 49.1425,
+                "log": 6.799722,
+                "stato": "Francia",
+                "regione": "Mosella",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Hombourg-Haut",
+                "lat": 49.133333,
+                "log": 6.766667,
+                "stato": "Francia",
+                "regione": "cantone di Saint-Avold-2",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Terre d'Adige",
+        "lat": 46.15161,
+        "log": 11.09722,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terre del Reno",
+        "lat": 44.827222,
+        "log": 11.461111,
+        "stato": "Italia",
+        "regione": "provincia di Ferrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terricciola",
+        "lat": 43.525556,
+        "log": 10.680833,
+        "stato": "Italia",
+        "regione": "provincia di Pisa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terruggia",
+        "lat": 45.083333,
+        "log": 8.444167,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "La Tour-de-Salvagny",
+                "lat": 45.816667,
+                "log": 4.716667,
+                "stato": "Francia",
+                "regione": "Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tertenia",
+        "lat": 39.696357,
+        "log": 9.578877,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terzigno",
+        "lat": 40.8,
+        "log": 14.5,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terzo (Italia)",
+        "lat": 44.671389,
+        "log": 8.422778,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terzo di Aquileia",
+        "lat": 45.8,
+        "log": 13.333333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terzolas",
+        "lat": 46.361309,
+        "log": 10.926108,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Terzorio",
+        "lat": 43.852903,
+        "log": 7.898103,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tesero",
+        "lat": 46.289338,
+        "log": 11.51134,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tesimo",
+        "lat": 46.563898,
+        "log": 11.169497,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tessennano",
+        "lat": 42.479167,
+        "log": 11.791111,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Testico",
+        "lat": 44.005233,
+        "log": 8.030317,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Teti (Italia)",
+        "lat": 40.095145,
+        "log": 9.118996,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Teulada",
+        "lat": 38.967951,
+        "log": 8.772326,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Teulada",
+                "lat": 38.967951,
+                "log": 8.772326,
+                "stato": "Italia",
+                "regione": "provincia di Cagliari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Teverola",
+        "lat": 41,
+        "log": 14.216667,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Portogruaro",
+                "lat": 45.775644,
+                "log": 12.837516,
+                "stato": "Italia",
+                "regione": "provincia di Venezia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Giovanni la Punta",
+                "lat": 37.578889,
+                "log": 15.095556,
+                "stato": "Italia",
+                "regione": "provincia di Catania",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tezze sul Brenta",
+        "lat": 45.686178,
+        "log": 11.704184,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Thiene",
+        "lat": 45.707222,
+        "log": 11.478611,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "São Caetano do Sul",
+                "lat": -23.62388889,
+                "log": -46.55361111,
+                "stato": "Brasile",
+                "regione": "San Paolo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Apt",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lussinpiccolo",
+                "lat": 44.53166667,
+                "log": 14.47194444,
+                "stato": "Croazia",
+                "regione": "regione litoraneo-montana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Thiesi",
+        "lat": 40.525,
+        "log": 8.716389,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tiana",
+        "lat": 40.068055,
+        "log": 9.147191,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tiana",
+                "lat": 40.068055,
+                "log": 9.147191,
+                "stato": "Italia",
+                "regione": "provincia di Nuoro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ticengo",
+        "lat": 45.366667,
+        "log": 9.833333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ticineto",
+        "lat": 45.097222,
+        "log": 8.552778,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tiggiano",
+        "lat": 39.9,
+        "log": 18.366667,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tiglieto",
+        "lat": 44.524964,
+        "log": 8.619811,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tigliole",
+        "lat": 44.887222,
+        "log": 8.077778,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tignale",
+        "lat": 45.733333,
+        "log": 10.716667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tinnura",
+        "lat": 40.269064,
+        "log": 8.548179,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tione degli Abruzzi",
+        "lat": 42.205,
+        "log": 13.636667,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tione di Trento",
+        "lat": 46.009363,
+        "log": 10.723195,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tirano",
+        "lat": 46.216389,
+        "log": 10.168889,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tires",
+        "lat": 46.46861,
+        "log": 11.52545,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tiriolo",
+        "lat": 38.95,
+        "log": 16.5,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tirolo (comune)",
+        "lat": 46.691101,
+        "log": 11.154223,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tissi",
+        "lat": 40.677778,
+        "log": 8.5625,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tito (Italia)",
+        "lat": 40.583333,
+        "log": 15.683333,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tivoli",
+        "lat": 41.966667,
+        "log": 12.8,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tizzano Val Parma",
+        "lat": 44.520667,
+        "log": 10.198611,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Toano",
+        "lat": 44.383333,
+        "log": 10.566667,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tocco Caudio",
+        "lat": 41.133333,
+        "log": 14.633333,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tocco da Casauria",
+        "lat": 42.216667,
+        "log": 13.916667,
+        "stato": "Italia",
+        "regione": "provincia di Pescara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Toceno",
+        "lat": 46.143611,
+        "log": 8.467222,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Todi",
+        "lat": 42.783333,
+        "log": 12.416667,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Dreux",
+                "lat": 48.733333,
+                "log": 1.366667,
+                "stato": "Francia",
+                "regione": "cantone di Dreux-Est",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Melsungen",
+                "lat": 51.133333,
+                "log": 9.55,
+                "stato": "Germania",
+                "regione": "Circondario dello Schwalm-Eder",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Enna",
+                "lat": 37.566667,
+                "log": 14.266667,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Enna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Toffia",
+        "lat": 42.216667,
+        "log": 12.75,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Toirano",
+        "lat": 44.127042,
+        "log": 8.207108,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tolentino",
+        "lat": 43.208611,
+        "log": 13.2841,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Émerainville",
+                "lat": 48.816667,
+                "log": 2.616667,
+                "stato": "Francia",
+                "regione": "Senna e Marna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Labastide-Murat",
+                "lat": 44.65,
+                "log": 1.566667,
+                "stato": "Francia",
+                "regione": "cantone di Labastide-Murat",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Isola d'Istria",
+                "lat": 45.5366,
+                "log": 13.6602,
+                "stato": "Slovenia",
+                "regione": "Slovenia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tolfa",
+        "lat": 42.15,
+        "log": 11.933333,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Dingle",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Għajnsielem",
+                "lat": 35.883333,
+                "log": 14.5,
+                "stato": "Malta",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Salobreña",
+                "lat": 36.733333,
+                "log": -3.583333,
+                "stato": "Spagna",
+                "regione": "provincia di Granada",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Slovenske Konjice",
+                "lat": 46.33666667,
+                "log": 15.42583333,
+                "stato": "Slovenia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tollegno",
+        "lat": 45.583333,
+        "log": 8.05,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tollo",
+        "lat": 42.34542,
+        "log": 14.3236,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tolmezzo",
+        "lat": 46.4,
+        "log": 13.016667,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Simbach am Inn",
+                "lat": 48.265556,
+                "log": 13.023056,
+                "stato": "Germania",
+                "regione": "Rottal-Inn",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sankt Florian",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nuoro",
+                "lat": 40.320062,
+                "log": 9.328079,
+                "stato": "Italia",
+                "regione": "provincia di Nuoro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tolve",
+        "lat": 40.7,
+        "log": 16.016667,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Chieri",
+                "lat": 45.013884,
+                "log": 7.822354,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Viggiano",
+                "lat": 40.333333,
+                "log": 15.9,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tombolo (Italia)",
+        "lat": 45.646944,
+        "log": 11.828056,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ton",
+        "lat": 46.266667,
+        "log": 11.083333,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tonara",
+        "lat": 40.023671,
+        "log": 9.171524,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tonco",
+        "lat": 45.025278,
+        "log": 8.191111,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tonezza del Cimone",
+        "lat": 45.85,
+        "log": 11.35,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tora e Piccilli",
+        "lat": 41.333333,
+        "log": 14.016667,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torano Castello",
+        "lat": 39.5,
+        "log": 16.15,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torano Nuovo",
+        "lat": 42.816667,
+        "log": 13.783333,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cacabelos",
+                "lat": 42.5833,
+                "log": -6.7167,
+                "stato": "Spagna",
+                "regione": "provincia di León",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torbole Casaglia",
+        "lat": 45.516667,
+        "log": 10.116667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torcegno",
+        "lat": 46.066667,
+        "log": 11.45,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torchiara",
+        "lat": 40.316667,
+        "log": 15.05,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torchiarolo",
+        "lat": 40.483333,
+        "log": 18.05,
+        "stato": "Italia",
+        "regione": "provincia di Brindisi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torella dei Lombardi",
+        "lat": 40.933333,
+        "log": 15.116667,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torella del Sannio",
+        "lat": 41.633333,
+        "log": 14.516667,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torgiano",
+        "lat": 43.025556,
+        "log": 12.434167,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torgnon",
+        "lat": 45.801628,
+        "log": 7.570307,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Thuin",
+                "lat": 50.339745,
+                "log": 4.287048,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Thuin",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torino",
+        "lat": 45.079167,
+        "log": 7.676111,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Chambéry",
+                "lat": 45.566389,
+                "log": 5.920833,
+                "stato": "Francia",
+                "regione": "arrondissement di Chambéry",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Colonia (Germania){{!}}Colonia",
+                "lat": null,
+                "log": null,
+                "stato": "Germania",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Córdoba (Argentina){{!}}Córdoba",
+                "lat": -31.4,
+                "log": -64.183333,
+                "stato": "Argentina",
+                "regione": "Argentina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Detroit",
+                "lat": 42.33138889,
+                "log": -83.04583333,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Wayne",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Esch-sur-Alzette",
+                "lat": 49.5,
+                "log": 5.983,
+                "stato": "Lussemburgo",
+                "regione": "Lussemburgo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gaza",
+                "lat": 31.516667,
+                "log": 34.45,
+                "stato": "Stato di Palestina",
+                "regione": "governatorato di Gaza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Glasgow",
+                "lat": 55.858,
+                "log": -4.259,
+                "stato": "Regno Unito",
+                "regione": "Città di Glasgow",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Liegi",
+                "lat": 50.63333333,
+                "log": 5.56666667,
+                "stato": "Belgio",
+                "regione": "Principato vescovile di Liegi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lilla",
+                "lat": 50.6333,
+                "log": 3.0667,
+                "stato": "Francia",
+                "regione": "metropoli europea di Lilla",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nagoya",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Quetzaltenango",
+                "lat": 14.833333,
+                "log": -91.516667,
+                "stato": "Guatemala",
+                "regione": "dipartimento di Quetzaltenango",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rotterdam",
+                "lat": 51.95,
+                "log": 4.4166,
+                "stato": "Paesi Bassi",
+                "regione": "Rotterdam",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Salt Lake City",
+                "lat": 40.233889,
+                "log": -111.658611,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Utah",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Shenyang",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torino di Sangro",
+        "lat": 42.183333,
+        "log": 14.533333,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Toritto",
+        "lat": 41,
+        "log": 16.683333,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Alfonsine",
+                "lat": 44.506111,
+                "log": 12.041111,
+                "stato": "Italia",
+                "regione": "provincia di Ravenna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Spello",
+                "lat": 42.983333,
+                "log": 12.666667,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torlino Vimercati",
+        "lat": 45.416667,
+        "log": 9.6,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tornaco",
+        "lat": 45.35,
+        "log": 8.716667,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tornareccio",
+        "lat": 42.033333,
+        "log": 14.416667,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tornata",
+        "lat": 45.1,
+        "log": 10.433333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tornimparte",
+        "lat": 42.29007,
+        "log": 13.30092,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torno",
+        "lat": 45.85,
+        "log": 9.116667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tornolo",
+        "lat": 44.483333,
+        "log": 9.633333,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Toro (Italia)",
+        "lat": 41.566667,
+        "log": 14.766667,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torpè",
+        "lat": 40.627731,
+        "log": 9.678226,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torraca",
+        "lat": 40.116667,
+        "log": 15.633333,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torralba (Italia)",
+        "lat": 40.513473,
+        "log": 8.764858,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torrazza Coste",
+        "lat": 44.962887,
+        "log": 9.097398,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torrazza Piemonte",
+        "lat": 45.216667,
+        "log": 7.966667,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torrazzo",
+        "lat": 45.1337,
+        "log": 10.0252,
+        "stato": "Italia",
+        "regione": "Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre Annunziata",
+        "lat": 40.756944,
+        "log": 14.444444,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "La Ciotat",
+                "lat": 43.166667,
+                "log": 5.6,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Emmendingen",
+                "lat": 48.121389,
+                "log": 7.849167,
+                "stato": "Germania",
+                "regione": "circondario di Emmendingen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Benevento",
+                "lat": 41.133333,
+                "log": 14.783333,
+                "stato": "Italia",
+                "regione": "provincia di Benevento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Valencia",
+                "lat": 39.483333,
+                "log": -0.366667,
+                "stato": "Spagna",
+                "regione": "Valencia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torre Beretti e Castellaro",
+        "lat": 45.059956,
+        "log": 8.670943,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre Boldone",
+        "lat": 45.716667,
+        "log": 9.7,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre Bormida",
+        "lat": 44.566667,
+        "log": 8.15,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre Cajetani",
+        "lat": 41.78672,
+        "log": 13.2652,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre Canavese",
+        "lat": 45.39912,
+        "log": 7.755812,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre Le Nocelle",
+        "lat": 41.030532,
+        "log": 14.918476,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre Mondovì",
+        "lat": 44.35,
+        "log": 7.9,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre Orsaia",
+        "lat": 40.133333,
+        "log": 15.466667,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre Pallavicina",
+        "lat": 45.45,
+        "log": 9.866667,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre Pellice",
+        "lat": 44.820278,
+        "log": 7.223333,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Guardia Piemontese",
+                "lat": 39.466667,
+                "log": 16,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mörfelden-Walldorf{{!}}Waldorf",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Guillestre",
+                "lat": 44.666667,
+                "log": 6.65,
+                "stato": "Francia",
+                "regione": "Alte Alpi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Valdese (Stati Uniti d'America){{!}}Valdese",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torre San Giorgio",
+        "lat": 40.833333,
+        "log": 14.333333,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre San Patrizio",
+        "lat": 43.183969,
+        "log": 13.611,
+        "stato": "Italia",
+        "regione": "provincia di Fermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Kells",
+                "lat": null,
+                "log": null,
+                "stato": "Irlanda",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torre Santa Susanna",
+        "lat": 40.466667,
+        "log": 17.733333,
+        "stato": "Italia",
+        "regione": "provincia di Brindisi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre d'Arese",
+        "lat": 45.236951,
+        "log": 9.320262,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre d'Isola",
+        "lat": 45.216667,
+        "log": 9.083333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre de' Busi",
+        "lat": 45.778596,
+        "log": 9.48451,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre de' Negri",
+        "lat": 45.15,
+        "log": 9.333333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre de' Passeri",
+        "lat": 42.253663,
+        "log": 13.933495,
+        "stato": "Italia",
+        "regione": "provincia di Pescara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Manteigas",
+                "lat": 40.4,
+                "log": -7.533333,
+                "stato": "Portogallo",
+                "regione": "Guarda",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torre de' Picenardi",
+        "lat": 45.15,
+        "log": 10.283333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre de' Roveri",
+        "lat": 45.7,
+        "log": 9.772222,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre del Greco",
+        "lat": 40.785278,
+        "log": 14.395278,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Montesarchio",
+                "lat": 41.066667,
+                "log": 14.633333,
+                "stato": "Italia",
+                "regione": "provincia di Benevento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pellezzano",
+                "lat": 40.733333,
+                "log": 14.766667,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torre di Mosto",
+        "lat": 45.683333,
+        "log": 12.716667,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre di Ruggiero",
+        "lat": 38.633333,
+        "log": 16.366667,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torre di Santa Maria",
+        "lat": 46.233333,
+        "log": 9.85,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torreano",
+        "lat": 46.133333,
+        "log": 13.433333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Sulpice-le-Guérétois",
+                "lat": 46.2,
+                "log": 1.833333,
+                "stato": "Francia",
+                "regione": "Creuse",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torrebelvicino",
+        "lat": 45.716667,
+        "log": 11.316667,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torrebruna",
+        "lat": 41.866667,
+        "log": 14.533333,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torrecuso",
+        "lat": 41.183333,
+        "log": 14.683333,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torreglia",
+        "lat": 45.333333,
+        "log": 11.733333,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torregrotta",
+        "lat": 38.2,
+        "log": 15.35,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torremaggiore",
+        "lat": 41.683333,
+        "log": 15.283333,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Canosa di Puglia",
+                "lat": 41.216667,
+                "log": 16.066667,
+                "stato": "Italia",
+                "regione": "provincia di Barletta-Andria-Trani",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Buffalo",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Villafalletto",
+                "lat": 44.55,
+                "log": 7.533333,
+                "stato": "Italia",
+                "regione": "provincia di Cuneo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torrenova",
+        "lat": 38.09246,
+        "log": 14.67917,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torresina",
+        "lat": 44.433333,
+        "log": 8.033333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torretta (Italia)",
+        "lat": 38.13036,
+        "log": 13.23549,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torrevecchia Pia",
+        "lat": 45.283333,
+        "log": 9.3,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Velká Bíteš",
+                "lat": 49.29361111,
+                "log": 16.22055556,
+                "stato": "Repubblica Ceca",
+                "regione": "Distretto di Žďár nad Sázavou",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torrevecchia Teatina",
+        "lat": 42.394256,
+        "log": 14.232871,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torri del Benaco",
+        "lat": 45.60944,
+        "log": 10.68739,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cadaqués",
+                "lat": 42.288611,
+                "log": 3.277778,
+                "stato": "Spagna",
+                "regione": "Alt Empordà",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ronzone",
+                "lat": 46.423073,
+                "log": 11.148899,
+                "stato": "Italia",
+                "regione": "provincia autonoma di Trento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torri di Quartesolo",
+        "lat": 45.516667,
+        "log": 11.616667,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torri in Sabina",
+        "lat": 42.35,
+        "log": 12.633333,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torrice",
+        "lat": 41.629556,
+        "log": 13.398167,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Komló",
+                "lat": 46.19111111,
+                "log": 18.26138889,
+                "stato": "Ungheria",
+                "regione": "Distretto di Komló",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torricella",
+        "lat": 40.35,
+        "log": 17.5,
+        "stato": "Italia",
+        "regione": "provincia di Taranto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torricella Peligna",
+        "lat": 42.016667,
+        "log": 14.266667,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torricella Sicura",
+        "lat": 42.66,
+        "log": 13.658056,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torricella Verzate",
+        "lat": 45.016667,
+        "log": 9.166667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torricella del Pizzo",
+        "lat": 45.016667,
+        "log": 10.3,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torricella in Sabina",
+        "lat": 42.261944,
+        "log": 12.869722,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torriglia",
+        "lat": 44.518733,
+        "log": 9.157978,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torrile",
+        "lat": 44.920861,
+        "log": 10.326361,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torrioni",
+        "lat": 41.035,
+        "log": 14.813333,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torrita Tiberina",
+        "lat": 42.233333,
+        "log": 12.616667,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Iași",
+                "lat": 47.15,
+                "log": 27.58333333,
+                "stato": "Romania",
+                "regione": "distretto di Iași",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Torrita di Siena",
+        "lat": 43.166667,
+        "log": 11.766667,
+        "stato": "Italia",
+        "regione": "provincia di Siena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tortolì",
+        "lat": 39.933333,
+        "log": 9.65,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Venosa",
+                "lat": 40.966667,
+                "log": 15.816667,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tortona",
+        "lat": 44.894167,
+        "log": 8.865556,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Privas",
+                "lat": 44.733333,
+                "log": 4.6,
+                "stato": "Francia",
+                "regione": "Ardèche",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Weilburg",
+                "lat": 50.483333,
+                "log": 8.25,
+                "stato": "Germania",
+                "regione": "circondario di Limburg-Weilburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zevenaar",
+                "lat": 51.9166,
+                "log": 6.0833,
+                "stato": "Paesi Bassi",
+                "regione": "Gheldria",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sanremo",
+                "lat": 43.8175,
+                "log": 7.775,
+                "stato": "Italia",
+                "regione": "provincia di Imperia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tortora (Italia)",
+        "lat": 39.941303,
+        "log": 15.805176,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tortorella",
+        "lat": 40.133333,
+        "log": 15.6,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tortoreto",
+        "lat": 42.8,
+        "log": 13.916667,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Habay",
+                "lat": 49.71666667,
+                "log": 5.63333333,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Virton",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tortorici",
+        "lat": 38.030833,
+        "log": 14.824167,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Torviscosa",
+        "lat": 45.816667,
+        "log": 13.283333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Champ-sur-Drac",
+                "lat": 45.041111,
+                "log": 5.435833,
+                "stato": "Francia",
+                "regione": "Isère",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Toscana",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Toscolano Maderno",
+        "lat": 45.63977,
+        "log": 10.6076,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tossicia",
+        "lat": 42.55,
+        "log": 13.65,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tovo San Giacomo",
+        "lat": 44.176561,
+        "log": 8.26845,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sant'Agata di Esaro",
+                "lat": 39.616667,
+                "log": 15.983333,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tovo di Sant'Agata",
+        "lat": 46.231976,
+        "log": 10.263823,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trabia",
+        "lat": 38,
+        "log": 13.65,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tradate",
+        "lat": 45.7,
+        "log": 8.916667,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tramatza",
+        "lat": 40.002931,
+        "log": 8.649502,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trambileno",
+        "lat": 45.834595,
+        "log": 11.125678,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bento Gonçalves (Rio Grande do Sul)",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tramonti",
+        "lat": 40.69426,
+        "log": 14.63988,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pézilla-la-Rivière",
+                "lat": 42.7,
+                "log": 2.766667,
+                "stato": "Francia",
+                "regione": "Rosselló",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tramonti di Sopra",
+        "lat": 46.316667,
+        "log": 12.8,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Pordenone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tramonti di Sotto",
+        "lat": 46.283333,
+        "log": 12.8,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Pordenone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tramutola",
+        "lat": 40.316667,
+        "log": 15.783333,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trana",
+        "lat": 45.033333,
+        "log": 7.416667,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trani",
+        "lat": 41.266667,
+        "log": 16.416667,
+        "stato": "Italia",
+        "regione": "provincia di Barletta-Andria-Trani",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ragusa (Croazia){{!}}Ragusa",
+                "lat": 42.640278,
+                "log": 18.108333,
+                "stato": "Croazia",
+                "regione": "regione raguseo-narentana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Traona",
+        "lat": 46.15,
+        "log": 9.516667,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trapani",
+        "lat": 38.0175,
+        "log": 12.515,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Trapani",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Costanza (Romania){{!}}Costanza",
+                "lat": 44.176716,
+                "log": 28.65076,
+                "stato": "Romania",
+                "regione": "distretto di Costanza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Les Sables-d'Olonne",
+                "lat": 46.5,
+                "log": -1.783333,
+                "stato": "Francia",
+                "regione": "Vandea",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Épernay",
+                "lat": 49.05,
+                "log": 3.95,
+                "stato": "Francia",
+                "regione": "arrondissement di Épernay",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Winnipeg",
+                "lat": 49.9,
+                "log": -97.13333333,
+                "stato": "Canada",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Roquefort-les-Pins",
+                "lat": 43.666389,
+                "log": 7.051389,
+                "stato": "Francia",
+                "regione": "cantone di Bar-sur-Loup",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Würselen",
+                "lat": 48.583333,
+                "log": -3.833333,
+                "stato": "Francia",
+                "regione": "Finistère",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trappeto",
+        "lat": 38.066667,
+        "log": 13.033333,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trarego Viggiona",
+        "lat": 46.0321,
+        "log": 8.69086,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trasacco",
+        "lat": 41.957778,
+        "log": 13.535278,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Capalbio",
+                "lat": 42.454167,
+                "log": 11.4225,
+                "stato": "Italia",
+                "regione": "provincia di Grosseto",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Donato Val di Comino",
+                "lat": 41.7,
+                "log": 13.816667,
+                "stato": "Italia",
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trasaghis",
+        "lat": 46.283333,
+        "log": 13.083333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trasquera",
+        "lat": 46.212778,
+        "log": 8.214167,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tratalias",
+        "lat": 39.102624,
+        "log": 8.579121,
+        "stato": "Italia",
+        "regione": "provincia di Carbonia-Iglesias",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Travacò Siccomario",
+        "lat": 45.15,
+        "log": 9.166667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Camaret-sur-Aigues",
+                "lat": 44.166667,
+                "log": 4.883333,
+                "stato": "Francia",
+                "regione": "cantone di Orange-Est",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Travagliato",
+        "lat": 45.523972,
+        "log": 10.079722,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Beaufort-en-Vallée",
+                "lat": 47.433333,
+                "log": -0.216667,
+                "stato": "Francia",
+                "regione": "Maine e Loira",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Travedona Monate",
+        "lat": 45.8039,
+        "log": 8.6725,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Traversella",
+        "lat": 45.516667,
+        "log": 7.75,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Traversetolo",
+        "lat": 44.639944,
+        "log": 10.38175,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Oraison",
+                "lat": 43.916667,
+                "log": 5.916667,
+                "stato": "Francia",
+                "regione": "cantone di Mées",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Majano",
+                "lat": 46.183333,
+                "log": 13.066667,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Udine",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Traves (Italia)",
+        "lat": 45.266667,
+        "log": 7.433333,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Travesio",
+        "lat": 46.1979,
+        "log": 12.87,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Pordenone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Travo",
+        "lat": 44.866667,
+        "log": 9.55,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tre Ville",
+        "lat": 46.066667,
+        "log": 10.75,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trebaseleghe",
+        "lat": 45.583333,
+        "log": 12.05,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trebisacce",
+        "lat": 39.866667,
+        "log": 16.533333,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trecase",
+        "lat": 40.766667,
+        "log": 14.433333,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trecastagni",
+        "lat": 37.616111,
+        "log": 15.078889,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trecastelli",
+        "lat": 43.67,
+        "log": 13.1068,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trecate",
+        "lat": 45.433333,
+        "log": 8.733333,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Paul-Trois-Châteaux",
+                "lat": 44.35,
+                "log": 4.766667,
+                "stato": "Francia",
+                "regione": "cantone di Saint-Paul-Trois-Châteaux",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Settingiano",
+                "lat": 38.916667,
+                "log": 16.516667,
+                "stato": "Italia",
+                "regione": "provincia di Catanzaro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trecchina",
+        "lat": 40.033333,
+        "log": 15.766667,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Jequié",
+                "lat": -13.85833333,
+                "log": -40.0825,
+                "stato": "Brasile",
+                "regione": "Bahia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trecenta",
+        "lat": 45.033333,
+        "log": 11.45,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tredozio",
+        "lat": 44.083333,
+        "log": 11.75,
+        "stato": "Italia",
+        "regione": "provincia di Forlì-Cesena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Arcevia",
+                "lat": 43.483333,
+                "log": 12.9396,
+                "stato": "Italia",
+                "regione": "provincia di Ancona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Hofbieber",
+                "lat": 50.58629,
+                "log": 9.83534,
+                "stato": "Germania",
+                "regione": "circondario di Fulda",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Treglio",
+        "lat": 42.266667,
+        "log": 14.416667,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tregnago",
+        "lat": 45.516667,
+        "log": 11.166667,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ollolai",
+                "lat": 40.168889,
+                "log": 9.179167,
+                "stato": "Italia",
+                "regione": "provincia di Nuoro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Treia",
+        "lat": 43.311369,
+        "log": 13.313053,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Treiso",
+        "lat": 44.689222,
+        "log": 8.086972,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tremestieri Etneo",
+        "lat": 37.5757,
+        "log": 15.0732,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tremezzina",
+        "lat": 45.98096,
+        "log": 9.20284,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tremosine sul Garda",
+        "lat": 45.772222,
+        "log": 10.758333,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "North Adams (Massachusetts)",
+                "lat": 42.700833,
+                "log": -73.109167,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Berkshire",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trentinara",
+        "lat": 40.4,
+        "log": 15.116667,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trentino-Alto Adige",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trento",
+        "lat": 46.066667,
+        "log": 11.116667,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Chieti",
+                "lat": 42.351114,
+                "log": 14.167428,
+                "stato": "Italia",
+                "regione": "provincia di Chieti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trentola Ducenta",
+        "lat": 40.976227,
+        "log": 14.177287,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trenzano",
+        "lat": 45.483333,
+        "log": 10.016667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Treppo Grande",
+        "lat": 46.2,
+        "log": 13.15,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Treppo Ligosullo",
+        "lat": 46.533232,
+        "log": 13.042915,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trepuzzi",
+        "lat": 40.4,
+        "log": 18.066667,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trequanda",
+        "lat": 43.183333,
+        "log": 11.666667,
+        "stato": "Italia",
+        "regione": "provincia di Siena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tresana",
+        "lat": 44.233333,
+        "log": 9.95,
+        "stato": "Italia",
+        "regione": "provincia di Massa-Carrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trescore Balneario",
+        "lat": 45.7,
+        "log": 9.85,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Zuera",
+                "lat": 41.8667,
+                "log": -0.7833,
+                "stato": "Spagna",
+                "regione": "provincia di Saragozza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Čelákovice",
+                "lat": 50.16055556,
+                "log": 14.75416667,
+                "stato": "Repubblica Ceca",
+                "regione": "Distretto di Praha-východ",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trescore Cremasco",
+        "lat": 45.4,
+        "log": 9.633333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tresignana",
+        "lat": 44.815981,
+        "log": 11.894719,
+        "stato": "Italia",
+        "regione": "provincia di Ferrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tresivio",
+        "lat": 46.166667,
+        "log": 9.95,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tresnuraghes",
+        "lat": 40.252886,
+        "log": 8.520756,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trevenzuolo",
+        "lat": 45.266667,
+        "log": 10.916667,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trevi",
+        "lat": 42.893333,
+        "log": 12.761667,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trevi nel Lazio",
+        "lat": 41.862222,
+        "log": 13.246944,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Rocca di Botte",
+                "lat": 42.027222,
+                "log": 13.068611,
+                "stato": "Italia",
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trevico",
+        "lat": 41.05,
+        "log": 15.233333,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Treviglio",
+        "lat": 45.521389,
+        "log": 9.592778,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trevignano",
+        "lat": 45.733501,
+        "log": 12.094016,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trevignano Romano",
+        "lat": 42.15,
+        "log": 12.25,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cittareale",
+                "lat": 42.616667,
+                "log": 13.166667,
+                "stato": "Italia",
+                "regione": "provincia di Rieti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Treville",
+        "lat": 45.097778,
+        "log": 8.360556,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Treviolo",
+        "lat": 45.672778,
+        "log": 9.615556,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Łęczna",
+                "lat": 51.3,
+                "log": 22.883333,
+                "stato": "Polonia",
+                "regione": "distretto di Łęczna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Borgo a Mozzano",
+                "lat": 43.979722,
+                "log": 10.546667,
+                "stato": "Italia",
+                "regione": "provincia di Lucca",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Treviso",
+        "lat": 45.672219,
+        "log": 12.242219,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Orléans",
+                "lat": 47.916667,
+                "log": 1.9,
+                "stato": "Francia",
+                "regione": "Loiret",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Timișoara",
+                "lat": 45.78333333,
+                "log": 21.28333333,
+                "stato": "Regno di Romania",
+                "regione": "distretto di Timiș",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sarasota",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Caen",
+                "lat": 49.166667,
+                "log": -0.366667,
+                "stato": "Francia",
+                "regione": "arrondissement di Caen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Curitiba",
+                "lat": -25.43583333,
+                "log": -49.2725,
+                "stato": "Brasile",
+                "regione": "Paraná",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Neuquén",
+                "lat": -38.95,
+                "log": -68.23333333,
+                "stato": "Argentina",
+                "regione": "Argentina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Treviso Bresciano",
+        "lat": 45.712386,
+        "log": 10.461367,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trezzano Rosa",
+        "lat": 45.58309,
+        "log": 9.48879,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trezzano sul Naviglio",
+        "lat": 45.433333,
+        "log": 9.066667,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Buie",
+                "lat": 45.4,
+                "log": 13.65,
+                "stato": "Croazia",
+                "regione": "regione istriana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Eching (Frisinga){{!}}Eching",
+                "lat": 48.3,
+                "log": 11.616667,
+                "stato": "Germania",
+                "regione": "circondario di Frisinga",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trezzo Tinella",
+        "lat": 44.683333,
+        "log": 8.1,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trezzo sull'Adda",
+        "lat": 45.60888,
+        "log": 9.52004,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trezzone",
+        "lat": 46.17146,
+        "log": 9.35226,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tribano",
+        "lat": 45.216667,
+        "log": 11.833333,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tribiano",
+        "lat": 45.416667,
+        "log": 9.383333,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tribogna",
+        "lat": 44.416364,
+        "log": 9.195906,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tricarico",
+        "lat": 40.616667,
+        "log": 16.15,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bickenbach (Assia)",
+                "lat": 49.754028,
+                "log": 8.611736,
+                "stato": "Germania",
+                "regione": "circondario di Darmstadt-Dieburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nusco",
+                "lat": 40.886944,
+                "log": 15.083889,
+                "stato": "Italia",
+                "regione": "provincia di Avellino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Scanzano Jonico",
+                "lat": 40.25,
+                "log": 16.7,
+                "stato": "Italia",
+                "regione": "provincia di Matera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Samugheo",
+                "lat": 39.947615,
+                "log": 8.940768,
+                "stato": "Italia",
+                "regione": "provincia di Oristano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montescaglioso",
+                "lat": 40.55,
+                "log": 16.666667,
+                "stato": "Italia",
+                "regione": "provincia di Matera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tricase",
+        "lat": 39.933333,
+        "log": 18.366667,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tricerro",
+        "lat": 45.233333,
+        "log": 8.333333,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tricesimo",
+        "lat": 46.1605,
+        "log": 13.2128,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Mittersill",
+                "lat": 47.266667,
+                "log": 12.466667,
+                "stato": "Austria",
+                "regione": "distretto di Zell am See",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Triei",
+        "lat": 40.036027,
+        "log": 9.640675,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trieste",
+        "lat": 45.650278,
+        "log": 13.770278,
+        "stato": "Regno d'Italia",
+        "regione": "ente di decentramento regionale di Trieste",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Beirut",
+                "lat": 33.901389,
+                "log": 35.518889,
+                "stato": "Libano",
+                "regione": "governatorato di Beirut",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Douala",
+                "lat": 4.05,
+                "log": 9.7,
+                "stato": "Camerun",
+                "regione": "Dipartimento di Wouri",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Graz",
+                "lat": 47.070833,
+                "log": 15.438611,
+                "stato": "Austria",
+                "regione": "Stiria",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Santos",
+                "lat": -23.933599,
+                "log": -46.32864,
+                "stato": "Brasile",
+                "regione": "San Paolo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Southampton",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Le Havre",
+                "lat": 49.5,
+                "log": 0.133333,
+                "stato": "Francia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Venezia",
+                "lat": 45.439722,
+                "log": 12.331944,
+                "stato": "Italia",
+                "regione": "Provincia veneta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lubiana",
+                "lat": 46.0555,
+                "log": 14.5083,
+                "stato": "Slovenia",
+                "regione": "Comune di Lubiana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Milano",
+                "lat": 45.466944,
+                "log": 9.19,
+                "stato": "Italia",
+                "regione": "provincia di Milano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rostock",
+                "lat": 54.14,
+                "log": 11.84,
+                "stato": "Germania",
+                "regione": "Bad Doberan",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Triggiano",
+        "lat": 41.066667,
+        "log": 16.916667,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Addison",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trigolo",
+        "lat": 45.3274,
+        "log": 9.8173,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trinitapoli",
+        "lat": 41.35,
+        "log": 16.1,
+        "stato": "Italia",
+        "regione": "provincia di Barletta-Andria-Trani",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trinità (Italia)",
+        "lat": 44.508277,
+        "log": 7.757897,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trinità d'Agultu e Vignola",
+        "lat": 40.985746,
+        "log": 8.914182,
+        "stato": "Italia",
+        "regione": "provincia di Olbia-Tempio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trino",
+        "lat": 45.2,
+        "log": 8.3,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Chauvigny",
+                "lat": 46.566667,
+                "log": 0.65,
+                "stato": "Francia",
+                "regione": "Vienne",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Geisenheim",
+                "lat": 49.983125,
+                "log": 7.965556,
+                "stato": "Germania",
+                "regione": "circondario di Rheingau-Taunus",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Banfora",
+                "lat": 10.63333333,
+                "log": -4.75,
+                "stato": "Burkina Faso",
+                "regione": "provincia di Comoé",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Garbagna Novarese",
+                "lat": 45.4,
+                "log": 8.666667,
+                "stato": "Italia",
+                "regione": "provincia di Novara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rio Saliceto",
+                "lat": 44.816667,
+                "log": 10.8,
+                "stato": "Italia",
+                "regione": "provincia di Reggio Emilia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Triora",
+        "lat": 44,
+        "log": 7.766667,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Briga Marittima",
+                "lat": 44.0625,
+                "log": 7.616389,
+                "stato": "Francia",
+                "regione": "Alpi Marittime",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tripi",
+        "lat": 38.048593,
+        "log": 15.098588,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trisobbio",
+        "lat": 44.6625,
+        "log": 8.587222,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trissino (Italia)",
+        "lat": 45.566667,
+        "log": 11.366667,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nuova Ulma",
+                "lat": 48.383333,
+                "log": 10,
+                "stato": "Germania",
+                "regione": "circondario di Nuova Ulma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Triuggio",
+        "lat": 45.666667,
+        "log": 9.266667,
+        "stato": "Italia",
+        "regione": "provincia di Monza e della Brianza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Fismes",
+                "lat": 49.3,
+                "log": 3.683333,
+                "stato": "Francia",
+                "regione": "cantone di Fismes",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trivento",
+        "lat": 41.766667,
+        "log": 14.55,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trivigliano",
+        "lat": 41.775806,
+        "log": 13.272806,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trivignano Udinese",
+        "lat": 45.95,
+        "log": 13.333333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trivigno",
+        "lat": 40.583333,
+        "log": 15.983333,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trivolzio",
+        "lat": 45.262199,
+        "log": 9.046835,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trodena nel parco naturale",
+        "lat": 46.32181,
+        "log": 11.34982,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trofarello",
+        "lat": 44.977125,
+        "log": 7.743803,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Le Teil",
+                "lat": 44.55,
+                "log": 4.683333,
+                "stato": "Francia",
+                "regione": "cantone di Viviers",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Raunheim",
+                "lat": 50.01666667,
+                "log": 8.45,
+                "stato": "Germania",
+                "regione": "circondario di Groß-Gerau",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Troia (Italia)",
+        "lat": 41.366667,
+        "log": 15.3,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Troina",
+        "lat": 37.783333,
+        "log": 14.6,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Enna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Coutances",
+                "lat": 49.05,
+                "log": -1.433333,
+                "stato": "Francia",
+                "regione": "Manica",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Hauteville-la-Guichard",
+                "lat": 49.127222,
+                "log": -1.300556,
+                "stato": "Francia",
+                "regione": "cantone di Saint-Sauveur-Lendelin",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tromello",
+        "lat": 45.216667,
+        "log": 8.866667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Trontano",
+        "lat": 46.122222,
+        "log": 8.333333,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tronzano Lago Maggiore",
+        "lat": 46.083333,
+        "log": 8.733333,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tronzano Vercellese",
+        "lat": 45.35,
+        "log": 8.166667,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Eyguières",
+                "lat": 43.7,
+                "log": 5.033333,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tropea",
+        "lat": 38.67538,
+        "log": 15.89479,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Zvenigorod",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Trovo",
+        "lat": 45.283333,
+        "log": 9.033333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Truccazzano",
+        "lat": 45.483333,
+        "log": 9.466667,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tubre",
+        "lat": 46.645612,
+        "log": 10.464153,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tufara",
+        "lat": 41.483333,
+        "log": 14.95,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tufillo",
+        "lat": 41.916667,
+        "log": 14.616667,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tufino",
+        "lat": 40.95,
+        "log": 14.566667,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tufo (Italia)",
+        "lat": 41.01262,
+        "log": 14.81784,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tuglie",
+        "lat": 40.07346,
+        "log": 18.09872,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tuili",
+        "lat": 39.714747,
+        "log": 8.959823,
+        "stato": "Italia",
+        "regione": "provincia del Medio Campidano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tula (Italia)",
+        "lat": 40.7325,
+        "log": 8.984722,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tuoro sul Trasimeno",
+        "lat": 43.206848,
+        "log": 12.074615,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Turania",
+        "lat": 42.133333,
+        "log": 13.016667,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Turano Lodigiano",
+        "lat": 45.249722,
+        "log": 9.6225,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Turate",
+        "lat": 45.658333,
+        "log": 9,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Turbigo",
+        "lat": 45.533333,
+        "log": 8.733333,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Turi",
+        "lat": 40.916667,
+        "log": 17.016667,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nona",
+                "lat": 44.239722,
+                "log": 15.181111,
+                "stato": "Croazia",
+                "regione": "regione zaratina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Roeser",
+                "lat": 49.55,
+                "log": 6.15,
+                "stato": "Lussemburgo",
+                "regione": "cantone di Esch-sur-Alzette",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dakhla",
+                "lat": 23.716667,
+                "log": -15.95,
+                "stato": "Sahara Occidentale",
+                "regione": "provincia di Oued Ed-Dahab",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Turri",
+        "lat": 39.70471,
+        "log": 8.916349,
+        "stato": "Italia",
+        "regione": "provincia del Medio Campidano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Turriaco",
+        "lat": 45.821463,
+        "log": 13.444422,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Gorizia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Turrivalignani",
+        "lat": 42.266667,
+        "log": 14.033333,
+        "stato": "Italia",
+        "regione": "provincia di Pescara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tursi",
+        "lat": 40.25,
+        "log": 16.466667,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Genova",
+                "lat": 44.407186,
+                "log": 8.933983,
+                "stato": "Italia",
+                "regione": "città metropolitana di Genova",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Valmontone",
+                "lat": 41.783333,
+                "log": 12.916667,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Tusa",
+        "lat": 37.983333,
+        "log": 14.233333,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Tuscania",
+        "lat": 42.421389,
+        "log": 11.871944,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ascoli Satriano",
+                "lat": 41.215556,
+                "log": 15.557778,
+                "stato": "Italia",
+                "regione": "provincia di Foggia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lavello (Italia){{!}}Lavello",
+                "lat": 41.05,
+                "log": 15.8,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Template:Comuni d'Italia",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

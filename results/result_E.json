@@ -1,0 +1,692 @@
+[
+    {
+        "comune": "Eboli",
+        "lat": 40.616944,
+        "log": 15.056389,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pastrana (Guadalajara)",
+                "lat": 40.4178,
+                "log": -2.9225,
+                "stato": "Spagna",
+                "regione": "provincia di Guadalajara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Giovanni Rotondo",
+                "lat": 41.7,
+                "log": 15.733333,
+                "stato": "Italia",
+                "regione": "provincia di Foggia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Edolo",
+        "lat": 46.178889,
+        "log": 10.33,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Egna",
+        "lat": 46.31777778,
+        "log": 11.27361111,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Rheinfelden",
+                "lat": 47.55416667,
+                "log": 7.79388889,
+                "stato": "Svizzera",
+                "regione": "distretto di Rheinfelden",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Elice (Italia)",
+        "lat": 42.516667,
+        "log": 13.966667,
+        "stato": "Italia",
+        "regione": "provincia di Pescara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Elini",
+        "lat": 39.899498,
+        "log": 9.530726,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ello",
+        "lat": 45.783333,
+        "log": 9.366667,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Elmas",
+        "lat": 39.267879,
+        "log": 9.049988,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Elva (Italia)",
+        "lat": 44.533333,
+        "log": 7.083333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Empoli",
+        "lat": 43.716667,
+        "log": 10.95,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Aubervilliers",
+                "lat": 48.916667,
+                "log": 2.383333,
+                "stato": "Francia",
+                "regione": "Senna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Besançon",
+                "lat": 47.25,
+                "log": 6.033333,
+                "stato": "Francia",
+                "regione": "Doubs",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Namur",
+                "lat": 50.45,
+                "log": 4.85,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Namur",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sankt Georgen an der Gusen",
+                "lat": 48.26666667,
+                "log": 14.45,
+                "stato": "Austria",
+                "regione": "distretto di Perg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Toledo",
+                "lat": 39.866665,
+                "log": -4.033333,
+                "stato": "Spagna",
+                "regione": "provincia di Toledo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Endine Gaiano",
+        "lat": 45.783333,
+        "log": 9.966667,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Enego",
+        "lat": 45.933333,
+        "log": 11.716667,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Enemonzo",
+        "lat": 46.410902,
+        "log": 12.878716,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Enna",
+        "lat": 37.566667,
+        "log": 14.266667,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Enna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Todi",
+                "lat": 42.783333,
+                "log": 12.416667,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kastoria",
+                "lat": 40.518131,
+                "log": 21.268761,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gharb",
+                "lat": 36.183333,
+                "log": -6.033333,
+                "stato": "Spagna",
+                "regione": "Barbate",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Costa del Sol",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Haz-Zebbug",
+                "lat": 35.87236111,
+                "log": 14.44049722,
+                "stato": "Malta",
+                "regione": "Regione Meridionale (Malta)",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Entracque",
+        "lat": 44.2424,
+        "log": 7.4,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Entratico",
+        "lat": 45.702681,
+        "log": 9.878066,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Envie",
+        "lat": 44.683333,
+        "log": 7.366667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Episcopia",
+        "lat": 40.07481,
+        "log": 16.09818,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Oliveto Citra",
+                "lat": 40.689444,
+                "log": 15.231111,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Eraclea",
+        "lat": 45.583333,
+        "log": 12.683333,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Erba (Italia)",
+        "lat": 45.816667,
+        "log": 9.216667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cortale",
+                "lat": 38.8396,
+                "log": 16.41,
+                "stato": "Italia",
+                "regione": "provincia di Catanzaro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fellbach",
+                "lat": 48.808611,
+                "log": 9.275833,
+                "stato": "Germania",
+                "regione": "circondario del Rems-Murr",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tain-l'Hermitage",
+                "lat": 45.066667,
+                "log": 4.85,
+                "stato": "Francia",
+                "regione": "Drôme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tournon-sur-Rhône",
+                "lat": 45.068056,
+                "log": 4.833333,
+                "stato": "Francia",
+                "regione": "Ardèche",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Erbezzo",
+        "lat": 45.6396,
+        "log": 11.00057,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Erbusco",
+        "lat": 45.6,
+        "log": 9.966667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Erbé",
+        "lat": 45.24092,
+        "log": 10.9685,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Erchie",
+        "lat": 40.433333,
+        "log": 17.733333,
+        "stato": "Italia",
+        "regione": "provincia di Brindisi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Siracusa",
+                "lat": 37.069167,
+                "log": 15.2875,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Siracusa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ercolano (comune)",
+        "lat": 40.806792,
+        "log": 14.352608,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pompano Beach",
+                "lat": 26.234722,
+                "log": -80.125556,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Broward",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Umm Qais",
+                "lat": 40.806792,
+                "log": 14.352608,
+                "stato": "Italia",
+                "regione": "provincia di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Erice",
+        "lat": 38.0375,
+        "log": 12.5875,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Trapani",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Erli",
+        "lat": 44.137272,
+        "log": 8.104097,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Erto e Casso",
+        "lat": 46.274427,
+        "log": 12.372088,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Pordenone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Erula",
+        "lat": 40.792239,
+        "log": 8.943815,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Erve",
+        "lat": 45.816667,
+        "log": 9.45,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Esanatoglia",
+        "lat": 43.25135,
+        "log": 12.945889,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Escalaplano",
+        "lat": 39.624731,
+        "log": 9.35194,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Escolca",
+        "lat": 39.698767,
+        "log": 9.122214,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Esine",
+        "lat": 45.926389,
+        "log": 10.251667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Esino Lario",
+        "lat": 45.993889,
+        "log": 9.333056,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Esperia (Italia)",
+        "lat": 41.383333,
+        "log": 13.683333,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Esporlatu",
+        "lat": 40.385556,
+        "log": 8.99,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Este (Italia)",
+        "lat": 45.22805556,
+        "log": 11.65527778,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Fiume",
+                "lat": 45.333333,
+                "log": 14.433333,
+                "stato": "Croazia",
+                "regione": "regione litoraneo-montana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pertuis",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Leek",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bad Windsheim",
+                "lat": 49.5,
+                "log": 10.416667,
+                "stato": "Germania",
+                "regione": "circondario di Neustadt an der Aisch-Bad Windsheim",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Betlemme",
+                "lat": 31.70305556,
+                "log": 35.19555556,
+                "stato": "Stato di Palestina",
+                "regione": "Governatorato di Betlemme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tapolca",
+                "lat": 46.882778,
+                "log": 17.441111,
+                "stato": "Ungheria",
+                "regione": "Distretto di Tapolca",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Esterzili",
+        "lat": 39.780278,
+        "log": 9.285556,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Eupilio",
+        "lat": 45.816667,
+        "log": 9.266667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Exilles",
+        "lat": 45.097383,
+        "log": 6.929065,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Château-Ville-Vieille",
+                "lat": 44.766667,
+                "log": 6.8,
+                "stato": "Francia",
+                "regione": "cantone di Aiguilles",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,5329 @@
+[
+    {
+        "comune": "Gabbioneta-Binanuova",
+        "lat": 45.216667,
+        "log": 10.216667,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gabiano",
+        "lat": 45.16233333,
+        "log": 8.19972222,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gabicce Mare",
+        "lat": 43.966839,
+        "log": 12.756261,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gaby",
+        "lat": 45.704444,
+        "log": 7.883889,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gadesco-Pieve Delmona",
+        "lat": 45.15,
+        "log": 10.1,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gadoni",
+        "lat": 39.91304,
+        "log": 9.18397,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gaeta",
+        "lat": 41.216667,
+        "log": 13.566667,
+        "stato": "Italia",
+        "regione": "provincia di Latina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Frontignan",
+                "lat": 43.45,
+                "log": 3.75,
+                "stato": "Francia",
+                "regione": "Hérault",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cambridge",
+                "lat": 52.202702,
+                "log": 0.119884,
+                "stato": "Regno Unito",
+                "regione": "Cambridgeshire",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Somerville",
+                "lat": 40.5698,
+                "log": -74.6077,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Somerset",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mobile",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cettigne",
+                "lat": 42.389444,
+                "log": 18.924722,
+                "stato": "Montenegro",
+                "regione": "Comune di Cettigne",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Babolsar",
+                "lat": 41.216667,
+                "log": 13.566667,
+                "stato": "Italia",
+                "regione": "provincia di Latina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gaggi",
+        "lat": 37.860139,
+        "log": 15.221531,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gaggiano",
+        "lat": 45.40484,
+        "log": 9.03488,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Albertirsa",
+                "lat": 47.24,
+                "log": 19.606667,
+                "stato": "Ungheria",
+                "regione": "Distretto di Cegléd",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bourg-Saint-Andéol",
+                "lat": 44.366667,
+                "log": 4.65,
+                "stato": "Francia",
+                "regione": "Ardèche",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gaggio Montano",
+        "lat": 44.2,
+        "log": 10.933333,
+        "stato": "Italia",
+        "regione": "provincia di Bologna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sauveterre (Gard)",
+                "lat": 44.026389,
+                "log": 4.793889,
+                "stato": "Francia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gaglianico",
+        "lat": 45.532432,
+        "log": 8.081768,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gagliano Aterno",
+        "lat": 42.1275,
+        "log": 13.700833,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Hamilton",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gagliano Castelferrato",
+        "lat": 37.716667,
+        "log": 14.533333,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Enna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "San Marco d'Alunzio",
+                "lat": 38.066667,
+                "log": 14.7,
+                "stato": "Italia",
+                "regione": "provincia di Messina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gagliano del Capo",
+        "lat": 39.85,
+        "log": 18.366667,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gagliato",
+        "lat": 38.683333,
+        "log": 16.466667,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gagliole",
+        "lat": 43.239081,
+        "log": 13.0678,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gaiarine",
+        "lat": 45.883333,
+        "log": 12.483333,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Botany Bay",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gaiba",
+        "lat": 44.95,
+        "log": 11.483333,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Alwernia",
+                "lat": 50.06666667,
+                "log": 19.53333333,
+                "stato": "Polonia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Collegno",
+                "lat": 45.077547,
+                "log": 7.572426,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rocchetta Sant'Antonio",
+                "lat": 41.1,
+                "log": 15.466667,
+                "stato": "Italia",
+                "regione": "provincia di Foggia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gaiola",
+        "lat": 44.333333,
+        "log": 7.4,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gaiole in Chianti",
+        "lat": 43.466667,
+        "log": 11.433333,
+        "stato": "Italia",
+        "regione": "provincia di Siena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gairo",
+        "lat": 39.846462,
+        "log": 9.506671,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gais (Italia)",
+        "lat": 46.833157,
+        "log": 11.947484,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Coburgo",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Galati Mamertino",
+        "lat": 38.033333,
+        "log": 14.766667,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galatina",
+        "lat": 40.166667,
+        "log": 18.166667,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galatone",
+        "lat": 40.15,
+        "log": 18.066667,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tripoli (Grecia){{!}}Tripoli",
+                "lat": 37.508333,
+                "log": 22.375,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ełk",
+                "lat": 53.82138889,
+                "log": 22.36222222,
+                "stato": "Polonia",
+                "regione": "distretto di Ełk",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Talsi",
+                "lat": 57.244722,
+                "log": 22.588889,
+                "stato": "Lettonia",
+                "regione": "Talsi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Civitella Alfedena",
+                "lat": 41.766389,
+                "log": 13.943611,
+                "stato": "Italia",
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nardò",
+                "lat": 40.179722,
+                "log": 18.033333,
+                "stato": "Italia",
+                "regione": "provincia di Lecce",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mascate",
+                "lat": null,
+                "log": null,
+                "stato": "Oman",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Galatro",
+        "lat": 38.466667,
+        "log": 16.116667,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galbiate",
+        "lat": 45.8,
+        "log": 9.383333,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galeata",
+        "lat": 44,
+        "log": 11.916667,
+        "stato": "Italia",
+        "regione": "provincia di Forlì-Cesena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galgagnano",
+        "lat": 45.358889,
+        "log": 9.446389,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gallarate",
+        "lat": 45.6649,
+        "log": 8.7914,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gallese (Italia)",
+        "lat": 42.374444,
+        "log": 12.399722,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galliate",
+        "lat": 45.483333,
+        "log": 8.7,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galliate Lombardo",
+        "lat": 45.783333,
+        "log": 8.766667,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galliavola",
+        "lat": 45.1,
+        "log": 8.816667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gallicano (Italia)",
+        "lat": 44.066667,
+        "log": 10.433333,
+        "stato": "Italia",
+        "regione": "provincia di Lucca",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gallicano nel Lazio",
+        "lat": 41.866667,
+        "log": 12.816667,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gallicchio",
+        "lat": 40.283333,
+        "log": 16.133333,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galliera",
+        "lat": 44.75,
+        "log": 11.39277778,
+        "stato": "Italia",
+        "regione": "provincia di Bologna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galliera Veneta",
+        "lat": 45.666667,
+        "log": 11.833333,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Carbonne",
+                "lat": 43.3,
+                "log": 1.233333,
+                "stato": "Francia",
+                "regione": "cantone di Carbonne",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gellegne",
+                "lat": null,
+                "log": null,
+                "stato": "Italia",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gallinaro",
+        "lat": 41.65777778,
+        "log": 13.79833333,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gallio (Italia)",
+        "lat": 45.883333,
+        "log": 11.55,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gallipoli",
+        "lat": 40.055556,
+        "log": 17.991667,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Monfalcone",
+                "lat": 45.8,
+                "log": 13.533333,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Gorizia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Betlemme",
+                "lat": 31.70305556,
+                "log": 35.19555556,
+                "stato": "Stato di Palestina",
+                "regione": "Governatorato di Betlemme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gallo Matese",
+        "lat": 41.466667,
+        "log": 14.216667,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gallodoro",
+        "lat": 37.901667,
+        "log": 15.293333,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galluccio",
+        "lat": 41.35,
+        "log": 13.95,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galtellì",
+        "lat": 40.385128,
+        "log": 9.611921,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Galzignano Terme",
+        "lat": 45.30798,
+        "log": 11.73134,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gamalero",
+        "lat": 44.81,
+        "log": 8.542778,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gambara",
+        "lat": 45.2562,
+        "log": 10.2945,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gambarana",
+        "lat": 45.033333,
+        "log": 8.766667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gambasca",
+        "lat": 44.633333,
+        "log": 7.35,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gambassi Terme",
+        "lat": 43.533333,
+        "log": 10.95,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gambatesa",
+        "lat": 41.5,
+        "log": 14.916667,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gambellara",
+        "lat": 45.46251,
+        "log": 11.33984,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Butera",
+                "lat": 37.183333,
+                "log": 14.183333,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Caltanissetta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gamberale",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gambettola",
+        "lat": 44.116667,
+        "log": 12.333333,
+        "stato": "Italia",
+        "regione": "provincia di Forlì-Cesena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Montichiari",
+                "lat": 45.4161,
+                "log": 10.3917,
+                "stato": "Italia",
+                "regione": "provincia di Brescia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gambolò",
+        "lat": 45.258611,
+        "log": 8.864722,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Kyrros",
+                "lat": 40.866667,
+                "log": 22.316667,
+                "stato": "Grecia",
+                "regione": "Pella",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mālpils",
+                "lat": 57.010556,
+                "log": 24.959722,
+                "stato": "Lettonia",
+                "regione": "Lettonia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gandellino",
+        "lat": 45.99,
+        "log": 9.946389,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gandino",
+        "lat": 45.811667,
+        "log": 9.903056,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gandosso",
+        "lat": 45.661427,
+        "log": 9.896349,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gangi",
+        "lat": 37.8,
+        "log": 14.2,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Palazzolo Acreide",
+                "lat": 37.061667,
+                "log": 14.902778,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Siracusa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pianezza",
+                "lat": 45.105847,
+                "log": 7.543418,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Garaguso",
+        "lat": 40.55,
+        "log": 16.233333,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Garbagna",
+        "lat": 44.781389,
+        "log": 8.998889,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Garbagna Novarese",
+        "lat": 45.4,
+        "log": 8.666667,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Rio Saliceto",
+                "lat": 44.816667,
+                "log": 10.8,
+                "stato": "Italia",
+                "regione": "provincia di Reggio Emilia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Trino Vercellese",
+                "lat": 45.2,
+                "log": 8.3,
+                "stato": "Italia",
+                "regione": "provincia di Vercelli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Garbagnate Milanese",
+        "lat": 45.57713,
+        "log": 9.0814,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Garbagnate Monastero",
+        "lat": 45.766667,
+        "log": 9.3,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Garda (comune)",
+        "lat": 45.5725,
+        "log": 10.671667,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gardone Riviera",
+        "lat": 45.616667,
+        "log": 10.566667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Arcachon",
+                "lat": 44.666667,
+                "log": -1.166667,
+                "stato": "Francia",
+                "regione": "cantone di Arcachon",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pescara",
+                "lat": 42.464278,
+                "log": 14.214189,
+                "stato": "Italia",
+                "regione": "provincia di Pescara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gardone Val Trompia",
+        "lat": 45.683333,
+        "log": 10.183333,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nanoro",
+                "lat": 12.683333,
+                "log": -2.183333,
+                "stato": "Burkina Faso",
+                "regione": "provincia di Boulkiemdé",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Garessio",
+        "lat": 44.2,
+        "log": 8.016667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Barjols",
+                "lat": 43.55,
+                "log": 6,
+                "stato": "Francia",
+                "regione": "cantone di Barjols",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gargallo",
+        "lat": 45.727571,
+        "log": 8.409192,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gargazzone",
+        "lat": 46.584781,
+        "log": 11.20273,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gargnano",
+        "lat": 45.6875,
+        "log": 10.66138889,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Garlasco",
+        "lat": 45.2,
+        "log": 8.916667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Garlate",
+        "lat": 45.8,
+        "log": 9.4,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Garlenda",
+        "lat": 44.033508,
+        "log": 8.097039,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Garniga Terme",
+        "lat": 46.00253,
+        "log": 11.08706,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Garzeno",
+        "lat": 46.133333,
+        "log": 9.25,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Garzigliana",
+        "lat": 44.837239,
+        "log": 7.37442,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gasperina",
+        "lat": 38.741408,
+        "log": 16.502132,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gassino Torinese",
+        "lat": 45.127113,
+        "log": 7.824792,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gattatico",
+        "lat": 44.8,
+        "log": 10.466667,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Melissa",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zierenberg",
+                "lat": 51.366667,
+                "log": 9.3,
+                "stato": "Germania",
+                "regione": "circondario di Kassel",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gatteo",
+        "lat": 44.1371,
+        "log": 12.404267,
+        "stato": "Italia",
+        "regione": "provincia di Forlì-Cesena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gattico-Veruno",
+        "lat": 45.702046,
+        "log": 8.52983,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gattinara",
+        "lat": 45.616667,
+        "log": 8.366667,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gavardo",
+        "lat": 45.5875,
+        "log": 10.438889,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gavello",
+        "lat": 45.021847,
+        "log": 11.914427,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gaverina Terme",
+        "lat": 45.766667,
+        "log": 9.883333,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gavi",
+        "lat": 44.688611,
+        "log": 8.810278,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gavignano (Italia)",
+        "lat": 41.7,
+        "log": 13.05,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gavirate",
+        "lat": 45.85,
+        "log": 8.716667,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gavoi",
+        "lat": 40.160378,
+        "log": 9.194698,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gavorrano",
+        "lat": 42.925,
+        "log": 10.908333,
+        "stato": "Italia",
+        "regione": "provincia di Grosseto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gazoldo degli Ippoliti",
+        "lat": 45.2,
+        "log": 10.583333,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pinzolo",
+                "lat": 46.1599,
+                "log": 10.766,
+                "stato": "Italia",
+                "regione": "provincia autonoma di Trento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gazzada Schianno",
+        "lat": 45.781036,
+        "log": 8.832177,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Seckach",
+                "lat": 49.445,
+                "log": 9.335278,
+                "stato": "Germania",
+                "regione": "Circondario di Neckar-Odenwald",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gazzaniga",
+        "lat": 45.8,
+        "log": 9.833333,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gazzo",
+        "lat": 45.582222,
+        "log": 11.706389,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Mioveni",
+                "lat": 44.95,
+                "log": 24.95,
+                "stato": "Romania",
+                "regione": "distretto di Argeș",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gazzo Veronese",
+        "lat": 45.15,
+        "log": 11.083333,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gazzola",
+        "lat": 44.960062,
+        "log": 9.548964,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gazzuolo",
+        "lat": 45.066667,
+        "log": 10.583333,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gela",
+        "lat": 37.066667,
+        "log": 14.25,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Caltanissetta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Eleusi",
+                "lat": 38.03333333,
+                "log": 23.53333333,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Wittingen",
+                "lat": 52.72805,
+                "log": 10.7391,
+                "stato": "Germania",
+                "regione": "circondario di Gifhorn",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nordkapp",
+                "lat": 70.978081,
+                "log": 25.974731,
+                "stato": "Norvegia",
+                "regione": "Finnmark",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Attard",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ouistreham",
+                "lat": 49.283333,
+                "log": -0.25,
+                "stato": "Francia",
+                "regione": "Calvados",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gemmano",
+        "lat": 43.9,
+        "log": 12.583333,
+        "stato": "Italia",
+        "regione": "provincia di Rimini",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gemona del Friuli",
+        "lat": 46.27405,
+        "log": 13.12237,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Velden am Wörther See",
+                "lat": 46.6125,
+                "log": 14.041944,
+                "stato": "Austria",
+                "regione": "distretto di Villach-Land",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Laakirchen",
+                "lat": 47.982778,
+                "log": 13.824167,
+                "stato": "Austria",
+                "regione": "distretto di Gmunden",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Foligno",
+                "lat": 42.956111,
+                "log": 12.703333,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gemonio",
+        "lat": 45.883333,
+        "log": 8.683333,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Genazzano",
+        "lat": 41.833318,
+        "log": 12.972838,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Le Lude",
+                "lat": 47.65,
+                "log": 0.15,
+                "stato": "Francia",
+                "regione": "Sarthe",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Vierkirchen",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Genga",
+        "lat": 43.430481,
+        "log": 12.935561,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Genivolta",
+        "lat": 45.333333,
+        "log": 9.883333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Genola",
+        "lat": 44.583333,
+        "log": 7.666667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Genoni",
+        "lat": 39.793897,
+        "log": 9.006987,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Genova",
+        "lat": 44.407186,
+        "log": 8.933983,
+        "stato": "Italia",
+        "regione": "città metropolitana di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Marsiglia",
+                "lat": 43.2975,
+                "log": 5.377223,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Columbus (Ohio){{!}}Columbus",
+                "lat": 39.962222,
+                "log": -83.000556,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Franklin",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Odessa",
+                "lat": 46.48333333,
+                "log": 30.73333333,
+                "stato": "Impero russo",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Baltimora",
+                "lat": 39.286389,
+                "log": -76.615,
+                "stato": "Stati Uniti d’America",
+                "regione": "Maryland",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Chio (isola){{!}}Chio",
+                "lat": 38.4,
+                "log": 26.016667,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fiume (Croazia){{!}}Fiume",
+                "lat": 45.333333,
+                "log": 14.433333,
+                "stato": "Croazia",
+                "regione": "regione litoraneo-montana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Beyoğlu",
+                "lat": 41.031944,
+                "log": 28.976111,
+                "stato": "Turchia",
+                "regione": "provincia di Istanbul",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rjazan'",
+                "lat": 44.407186,
+                "log": 8.933983,
+                "stato": "Italia",
+                "regione": "città metropolitana di Genova",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Carloforte",
+                "lat": 39.145006,
+                "log": 8.30545,
+                "stato": "Italia",
+                "regione": "provincia di Carbonia-Iglesias",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Calasetta",
+                "lat": 39.110516,
+                "log": 8.36823,
+                "stato": "Italia",
+                "regione": "provincia di Carbonia-Iglesias",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Murcia",
+                "lat": 37.983333,
+                "log": -1.133333,
+                "stato": "Spagna",
+                "regione": "regione di Murcia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Busan",
+                "lat": 35.179444,
+                "log": 129.075556,
+                "stato": "Corea del Sud",
+                "regione": "Corea del Sud",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Genuri",
+        "lat": 39.744088,
+        "log": 8.923731,
+        "stato": "Italia",
+        "regione": "provincia del Medio Campidano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Genzano di Lucania",
+        "lat": 40.85,
+        "log": 16.033333,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Genzano di Roma",
+        "lat": 41.702222,
+        "log": 12.6925,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gera Lario",
+        "lat": 46.166667,
+        "log": 9.366667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gerace",
+        "lat": 38.266667,
+        "log": 16.216667,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Geraci Siculo",
+        "lat": 37.866667,
+        "log": 14.15,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gerano",
+        "lat": 41.933333,
+        "log": 12.993611,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Għarb",
+                "lat": 36.05999167,
+                "log": 14.20995833,
+                "stato": "Malta",
+                "regione": "regione di Gozo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gerenzago",
+        "lat": 45.2,
+        "log": 9.366667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gerenzano",
+        "lat": 45.640556,
+        "log": 9.001944,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gergei",
+        "lat": 39.699345,
+        "log": 9.100703,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Germagnano",
+        "lat": 45.263872,
+        "log": 7.469483,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Germagno",
+        "lat": 45.8925,
+        "log": 8.388333,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Germignaga",
+        "lat": 45.99328,
+        "log": 8.72579,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gerocarne",
+        "lat": 38.583333,
+        "log": 16.216667,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gerola Alta",
+        "lat": 46.046969,
+        "log": 9.551604,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gerre de' Caprioli",
+        "lat": 45.083333,
+        "log": 10.05,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gesico",
+        "lat": 39.615574,
+        "log": 9.107451,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gessate",
+        "lat": 45.55,
+        "log": 9.433333,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gessopalena",
+        "lat": 42.05,
+        "log": 14.266667,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Porto San Giorgio",
+                "lat": 43.18485,
+                "log": 13.795489,
+                "stato": "Italia",
+                "regione": "provincia di Fermo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cupramontana",
+                "lat": 43.445981,
+                "log": 13.117369,
+                "stato": "Italia",
+                "regione": "provincia di Ancona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sambreville",
+                "lat": 50.43333333,
+                "log": 4.6,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Namur",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gesturi",
+        "lat": 39.733132,
+        "log": 9.020333,
+        "stato": "Italia",
+        "regione": "provincia del Medio Campidano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gesualdo (Italia)",
+        "lat": 41.007778,
+        "log": 15.073333,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Venosa",
+                "lat": 40.966667,
+                "log": 15.816667,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ghedi",
+        "lat": 45.402,
+        "log": 10.2803,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ghemme",
+        "lat": 45.6,
+        "log": 8.416667,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ghiffa",
+        "lat": 45.95,
+        "log": 8.616667,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bilieu",
+                "lat": 45.45,
+                "log": 5.55,
+                "stato": "Francia",
+                "regione": "cantone di Virieu",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ghilarza",
+        "lat": 40.12,
+        "log": 8.835,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ghisalba",
+        "lat": 45.6,
+        "log": 9.75,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ghislarengo",
+        "lat": 45.526565,
+        "log": 8.374462,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giacciano con Baruchella",
+        "lat": 45.066667,
+        "log": 11.45,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ludza",
+                "lat": 56.543889,
+                "log": 27.721111,
+                "stato": "Lettonia",
+                "regione": "Ludza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Giaglione",
+        "lat": 45.140239,
+        "log": 7.014756,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Val-Cenis",
+                "lat": 45.278333,
+                "log": 6.817778,
+                "stato": "Francia",
+                "regione": "Savoia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gianico",
+        "lat": 45.866389,
+        "log": 10.175833,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giano Vetusto",
+        "lat": 41.2,
+        "log": 14.2,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giano dell'Umbria",
+        "lat": 42.833333,
+        "log": 12.583333,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giardinello",
+        "lat": 38.08706,
+        "log": 13.15648,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giardini-Naxos",
+        "lat": 37.833333,
+        "log": 15.266667,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giarole",
+        "lat": 45.061389,
+        "log": 8.5675,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giarratana",
+        "lat": 37.05,
+        "log": 14.8,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Ragusa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giarre",
+        "lat": 37.727778,
+        "log": 15.196389,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giave",
+        "lat": 40.451944,
+        "log": 8.752222,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giaveno",
+        "lat": 45.042005,
+        "log": 7.351994,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Brinkmann",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Chevreuse",
+                "lat": 48.7,
+                "log": 2.05,
+                "stato": "Francia",
+                "regione": "Yvelines",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Novska",
+                "lat": 45.33333333,
+                "log": 16.96666667,
+                "stato": "Croazia",
+                "regione": "regione di Sisak e della Moslavina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Giovanni di Moriana",
+                "lat": 45.283333,
+                "log": 6.35,
+                "stato": "Francia",
+                "regione": "Savoia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Giavera del Montello",
+        "lat": 45.8,
+        "log": 12.166667,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giba",
+        "lat": 39.072112,
+        "log": 8.635554,
+        "stato": "Italia",
+        "regione": "provincia di Carbonia-Iglesias",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gibellina",
+        "lat": 37.80646,
+        "log": 12.8709,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Trapani",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Casamarciano",
+                "lat": 40.93191,
+                "log": 14.55324,
+                "stato": "Italia",
+                "regione": "provincia di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Città di Castello",
+                "lat": 43.457421,
+                "log": 12.240312,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Béja",
+                "lat": 36.751111,
+                "log": 5.064167,
+                "stato": "Algeria",
+                "regione": "distretto di Béjaïa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Testour",
+                "lat": 37.80646,
+                "log": 12.8709,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Trapani",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gifflenga",
+        "lat": 45.494605,
+        "log": 8.234635,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giffone",
+        "lat": 38.433333,
+        "log": 16.15,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giffoni Sei Casali",
+        "lat": 40.716667,
+        "log": 14.9,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giffoni Valle Piana",
+        "lat": 40.716667,
+        "log": 14.933333,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sacile",
+                "lat": 45.95412,
+                "log": 12.50274,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Pordenone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gignese",
+        "lat": 45.866667,
+        "log": 8.516667,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gignod",
+        "lat": 45.783333,
+        "log": 7.3,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gildone (Italia)",
+        "lat": 41.516667,
+        "log": 14.733333,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gimigliano",
+        "lat": 38.966667,
+        "log": 16.533333,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ginestra (Italia)",
+        "lat": 40.933333,
+        "log": 15.733333,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ginestra degli Schiavoni",
+        "lat": 41.279444,
+        "log": 15.042222,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ginosa",
+        "lat": 40.5,
+        "log": 16.75,
+        "stato": "Italia",
+        "regione": "provincia di Taranto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gioi",
+        "lat": 40.283333,
+        "log": 15.216667,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gioia Sannitica",
+        "lat": 41.3,
+        "log": 14.45,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Deruta",
+                "lat": 42.983333,
+                "log": 12.416667,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gioia Tauro",
+        "lat": 38.433333,
+        "log": 15.9,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gioia dei Marsi",
+        "lat": 41.958889,
+        "log": 13.690833,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pratola Peligna",
+                "lat": 42.099167,
+                "log": 13.874722,
+                "stato": "Italia",
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gioia del Colle",
+        "lat": 40.8,
+        "log": 16.933333,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Târgoviște",
+                "lat": 44.91666667,
+                "log": 25.45,
+                "stato": "Romania",
+                "regione": "distretto di Dâmbovița",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gioiosa Ionica",
+        "lat": 38.3,
+        "log": 16.333333,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gioiosa Marea",
+        "lat": 38.166667,
+        "log": 14.9,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giove (Italia)",
+        "lat": 42.516667,
+        "log": 12.333333,
+        "stato": "Italia",
+        "regione": "provincia di Terni",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giovinazzo",
+        "lat": 41.183333,
+        "log": 16.666667,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Guastalla",
+                "lat": 44.921389,
+                "log": 10.654167,
+                "stato": "Italia",
+                "regione": "provincia di Reggio Emilia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Leichhardt",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Giovo",
+        "lat": 46.159444,
+        "log": 11.1425,
+        "stato": "Italia",
+        "regione": "Giovo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Girasole (Italia)",
+        "lat": 39.95205,
+        "log": 9.66098,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Girifalco",
+        "lat": 38.816667,
+        "log": 16.433333,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gissi",
+        "lat": 42.016667,
+        "log": 14.55,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giuggianello",
+        "lat": 40.1,
+        "log": 18.366667,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giugliano in Campania",
+        "lat": 40.928346,
+        "log": 14.201085,
+        "stato": "Italia",
+        "regione": "città metropolitana di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giuliana",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giuliano Teatino",
+        "lat": 42.3,
+        "log": 14.283333,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giuliano di Roma",
+        "lat": 41.533333,
+        "log": 13.283333,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giulianova",
+        "lat": 42.752517,
+        "log": 13.956686,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Mantova",
+                "lat": 45.156389,
+                "log": 10.791111,
+                "stato": "Regno d'Italia",
+                "regione": "provincia di Mantova",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dakar",
+                "lat": 14.68333333,
+                "log": -17.45,
+                "stato": "Senegal",
+                "regione": "dipartimento di Dakar",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Giungano",
+        "lat": 40.390337,
+        "log": 15.093025,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giurdignano",
+        "lat": 40.121524,
+        "log": 18.432732,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giussago",
+        "lat": 45.284766,
+        "log": 9.140749,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giussano",
+        "lat": 45.7,
+        "log": 9.216667,
+        "stato": "Italia",
+        "regione": "provincia di Monza e della Brianza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giustenice",
+        "lat": 44.172156,
+        "log": 8.246153,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giustino (Italia)",
+        "lat": 46.14996,
+        "log": 10.76801,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Giusvalla",
+        "lat": 44.449986,
+        "log": 8.393458,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Givoletto",
+        "lat": 45.162248,
+        "log": 7.496416,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gizzeria",
+        "lat": 38.983333,
+        "log": 16.2,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Glorenza",
+        "lat": 46.671492,
+        "log": 10.553913,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Godega di Sant'Urbano",
+        "lat": 45.92859,
+        "log": 12.39687,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "L'Isle-en-Dodon",
+                "lat": 43.383333,
+                "log": 0.85,
+                "stato": "Francia",
+                "regione": "cantone di L'Isle-en-Dodon",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cordeirópolis",
+                "lat": -22.48138889,
+                "log": -47.45722222,
+                "stato": "Brasile",
+                "regione": "San Paolo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Godiasco Salice Terme",
+        "lat": 44.9,
+        "log": 9.05,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Challes-les-Eaux",
+                "lat": 45.55,
+                "log": 5.983333,
+                "stato": "Francia",
+                "regione": "Savoia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Godrano",
+        "lat": 37.9,
+        "log": 13.433333,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Goito",
+        "lat": 45.25,
+        "log": 10.666667,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Baienfurt",
+                "lat": 47.826944,
+                "log": 9.651667,
+                "stato": "Germania",
+                "regione": "circondario di Ravensburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Golasecca",
+        "lat": 45.7,
+        "log": 8.65,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Golferenzo",
+        "lat": 44.966667,
+        "log": 9.3,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Golfo Aranci",
+        "lat": 41.003836,
+        "log": 9.614883,
+        "stato": "Italia",
+        "regione": "provincia di Olbia-Tempio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ventotene (comune)",
+                "lat": 40.8,
+                "log": 13.43333333,
+                "stato": "Italia",
+                "regione": "Ventotene",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gombito",
+        "lat": 45.2628,
+        "log": 9.7296,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gonars",
+        "lat": 45.9,
+        "log": 13.233333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Goni",
+        "lat": 39.578537,
+        "log": 9.285421,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gonnesa",
+        "lat": 39.266484,
+        "log": 8.471746,
+        "stato": "Italia",
+        "regione": "provincia di Carbonia-Iglesias",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gonnoscodina",
+        "lat": 39.698602,
+        "log": 8.835068,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gonnosfanadiga",
+        "lat": 39.493311,
+        "log": 8.662891,
+        "stato": "Italia",
+        "regione": "provincia del Medio Campidano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gonnosnò",
+        "lat": 39.760552,
+        "log": 8.872404,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gonnostramatza",
+        "lat": 39.681694,
+        "log": 8.832836,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gonzaga (Italia)",
+        "lat": 44.95,
+        "log": 10.816667,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Brioude",
+                "lat": 45.3,
+                "log": 3.4,
+                "stato": "Francia",
+                "regione": "cantone di Brioude-Nord",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Civate",
+                "lat": 45.833333,
+                "log": 9.35,
+                "stato": "Italia",
+                "regione": "provincia di Lecco",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Reggiolo",
+                "lat": 44.916667,
+                "log": 10.816667,
+                "stato": "Italia",
+                "regione": "provincia di Reggio Emilia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gordona",
+        "lat": 46.283333,
+        "log": 9.366667,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorga (Italia)",
+        "lat": 41.65,
+        "log": 13.116667,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorgo al Monticano",
+        "lat": 45.783668,
+        "log": 12.566907,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorgoglione",
+        "lat": 40.4,
+        "log": 16.15,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorgonzola (Italia)",
+        "lat": 45.533333,
+        "log": 9.4,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ambert",
+                "lat": 45.55,
+                "log": 3.75,
+                "stato": "Francia",
+                "regione": "Puy-de-Dôme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Annweiler am Trifels",
+                "lat": 49.2,
+                "log": 7.96666667,
+                "stato": "Germania",
+                "regione": "Verbandsgemeinde Annweiler am Trifels",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Goriano Sicoli",
+        "lat": 42.081667,
+        "log": 13.775833,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorizia",
+        "lat": 45.9352,
+        "log": 13.6193,
+        "stato": "Italia",
+        "regione": "provincia di Gorizia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Klagenfurt",
+                "lat": 46.616667,
+                "log": 14.3,
+                "stato": "Austria",
+                "regione": "Carinzia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lienz",
+                "lat": 46.829722,
+                "log": 12.769722,
+                "stato": "Austria",
+                "regione": "distretto di Lienz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sassari",
+                "lat": 40.726667,
+                "log": 8.559167,
+                "stato": "Italia",
+                "regione": "provincia di Sassari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Venlo",
+                "lat": 51.368611,
+                "log": 6.1711,
+                "stato": "Paesi Bassi",
+                "regione": "Limburgo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kielce",
+                "lat": 50.88333333,
+                "log": 20.61666667,
+                "stato": "Polonia",
+                "regione": "voivodato della Santacroce",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zalaegerszeg",
+                "lat": 46.84538056,
+                "log": 16.84721111,
+                "stato": "Ungheria",
+                "regione": "Distretto di Zalaegerszeg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Banja Luka",
+                "lat": 44.77416667,
+                "log": 17.19555556,
+                "stato": "Bosnia ed Erzegovina",
+                "regione": "Repubblica Serba di Bosnia ed Erzegovina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gorla Maggiore",
+        "lat": 45.67194444,
+        "log": 8.9,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorla Minore",
+        "lat": 45.649234,
+        "log": 8.915462,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorlago",
+        "lat": 45.666667,
+        "log": 9.816667,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorle",
+        "lat": 45.703889,
+        "log": 9.719167,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gornate Olona",
+        "lat": 45.74158,
+        "log": 8.85994,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorno",
+        "lat": 45.866667,
+        "log": 9.833333,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Città di Kalgoorlie-Boulder",
+                "lat": -30.73333333,
+                "log": 121.45,
+                "stato": "Australia",
+                "regione": "Australia Occidentale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Goro",
+        "lat": 44.8518,
+        "log": 12.2959,
+        "stato": "Italia",
+        "regione": "provincia di Ferrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorreto",
+        "lat": 44.606067,
+        "log": 9.292433,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gorzegno",
+        "lat": 44.516667,
+        "log": 8.133333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gosaldo",
+        "lat": 46.222222,
+        "log": 11.956667,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Marcel-Bel-Accueil",
+                "lat": 45.65,
+                "log": 5.233333,
+                "stato": "Francia",
+                "regione": "cantone di Bourgoin-Jallieu-Nord",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gossolengo",
+        "lat": 45,
+        "log": 9.616667,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gottasecca",
+        "lat": 44.466667,
+        "log": 8.166667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gottolengo",
+        "lat": 45.2928,
+        "log": 10.2734,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Govone",
+        "lat": 44.8,
+        "log": 8.1,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gozzano",
+        "lat": null,
+        "log": null,
+        "stato": "Italia",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gradara",
+        "lat": 43.938866,
+        "log": 12.771253,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gradisca d'Isonzo",
+        "lat": 45.883333,
+        "log": 13.5,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Gorizia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Castua",
+                "lat": 45.372569,
+                "log": 14.348981,
+                "stato": "Croazia",
+                "regione": "regione litoraneo-montana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ibrány",
+                "lat": 48.128239,
+                "log": 21.713534,
+                "stato": "Ungheria",
+                "regione": "Distretto di Ibrány",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grado (Italia)",
+        "lat": 45.683333,
+        "log": 13.4,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Gorizia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sankt Lorenzen bei Knittelfeld",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Feistritz bei Knittelfeld",
+                "lat": 47.267617,
+                "log": 14.892031,
+                "stato": "Austria",
+                "regione": "distretto di Murtal",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gradoli",
+        "lat": 42.644444,
+        "log": 11.855556,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Graffignana",
+        "lat": 45.2075,
+        "log": 9.455278,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Graffignano",
+        "lat": 42.573333,
+        "log": 12.2025,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Graglia",
+        "lat": 45.558562,
+        "log": 7.978019,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gragnano",
+        "lat": 40.68888889,
+        "log": 14.52083333,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gragnano Trebbiense",
+        "lat": 45.016667,
+        "log": 9.566667,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grammichele",
+        "lat": 37.216667,
+        "log": 14.633333,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grana Monferrato",
+        "lat": 44.999167,
+        "log": 8.300556,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Granarolo dell'Emilia",
+        "lat": 44.554167,
+        "log": 11.443889,
+        "stato": "Italia",
+        "regione": "provincia di Bologna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bagnères-de-Bigorre",
+                "lat": 43.066667,
+                "log": 0.15,
+                "stato": "Francia",
+                "regione": "cantone di Bagnères-de-Bigorre",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grandate",
+        "lat": 45.771179,
+        "log": 9.058451,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pocé-sur-Cisse",
+                "lat": 47.433333,
+                "log": 0.983333,
+                "stato": "Francia",
+                "regione": "Indre e Loira",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grandola ed Uniti",
+        "lat": 46.050855,
+        "log": 9.195544,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Graniti",
+        "lat": 37.883333,
+        "log": 15.216667,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Granozzo con Monticello",
+        "lat": 45.366667,
+        "log": 8.566667,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grantola",
+        "lat": 45.95,
+        "log": 8.783333,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grantorto",
+        "lat": 45.6,
+        "log": 11.733333,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Fagnano Olona",
+                "lat": 45.666667,
+                "log": 8.866667,
+                "stato": "Italia",
+                "regione": "provincia di Varese",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Grottole",
+                "lat": 40.6,
+                "log": 16.383333,
+                "stato": "Italia",
+                "regione": "provincia di Matera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Granze",
+        "lat": 45.154188,
+        "log": 11.719731,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grassano",
+        "lat": 40.633333,
+        "log": 16.283333,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grassobbio",
+        "lat": 45.656667,
+        "log": 9.723889,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gratteri",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gravedona ed Uniti",
+        "lat": 46.14722222,
+        "log": 9.30194444,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gravellona Lomellina",
+        "lat": 45.333333,
+        "log": 8.766667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Linards",
+                "lat": 45.7,
+                "log": 1.533333,
+                "stato": "Francia",
+                "regione": "cantone di Châteauneuf-la-Forêt",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gravellona Toce",
+        "lat": 45.933333,
+        "log": 8.433333,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gravere",
+        "lat": 45.125342,
+        "log": 7.017507,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gravina di Catania",
+        "lat": 37.560357,
+        "log": 15.061781,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gravina in Puglia",
+        "lat": 40.820556,
+        "log": 16.423333,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "San Giuliano Milanese",
+                "lat": 45.4,
+                "log": 9.283333,
+                "stato": "Italia",
+                "regione": "provincia di Milano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mazara del Vallo",
+                "lat": 37.651661,
+                "log": 12.58751,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Trapani",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Asso (Italia)",
+                "lat": 45.861299,
+                "log": 9.269451,
+                "stato": "Italia",
+                "regione": "provincia di Como",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grazzanise",
+        "lat": 41.083333,
+        "log": 14.1,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Procida",
+                "lat": 40.7611,
+                "log": 14.0193,
+                "stato": "Italia",
+                "regione": "provincia di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grazzano Badoglio",
+        "lat": 45.041389,
+        "log": 8.311667,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Greccio",
+        "lat": 42.45,
+        "log": 12.75,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Betlemme",
+                "lat": 31.70305556,
+                "log": 35.19555556,
+                "stato": "Stato di Palestina",
+                "regione": "Governatorato di Betlemme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Donato Val di Comino",
+                "lat": 41.7,
+                "log": 13.816667,
+                "stato": "Italia",
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Guardea",
+                "lat": 42.616667,
+                "log": 12.3,
+                "stato": "Italia",
+                "regione": "provincia di Terni",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Chiusi della Verna",
+                "lat": 43.698333,
+                "log": 11.936111,
+                "stato": "Italia",
+                "regione": "provincia di Arezzo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Celano",
+                "lat": 42.084306,
+                "log": 13.54775,
+                "stato": "Italia",
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Třebechovice pod Orebem",
+                "lat": 50.20111111,
+                "log": 15.99305556,
+                "stato": "Repubblica Ceca",
+                "regione": "Distretto di Hradec Králové",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Greci (Italia)",
+        "lat": 41.252778,
+        "log": 15.17,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Greggio (Italia)",
+        "lat": 45.45,
+        "log": 8.383333,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gremiasco",
+        "lat": 44.797222,
+        "log": 9.107778,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gressan",
+        "lat": 45.716667,
+        "log": 7.283333,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gressoney-La-Trinité",
+        "lat": 45.833333,
+        "log": 7.833333,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gressoney-Saint-Jean",
+        "lat": 45.783333,
+        "log": 7.816667,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Greve in Chianti",
+        "lat": 43.583333,
+        "log": 11.316667,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Greve (Danimarca){{!}}Greve Strand",
+                "lat": 55.583889,
+                "log": 12.295278,
+                "stato": "Danimarca",
+                "regione": "Roskilde",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sonoma",
+                "lat": 38.288889,
+                "log": -122.458889,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Sonoma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rehoboth Beach",
+                "lat": 38.715833,
+                "log": -75.083056,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Sussex",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Veitshöchheim",
+                "lat": 49.832778,
+                "log": 9.881667,
+                "stato": "Germania",
+                "regione": "circondario di Würzburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Farsia",
+                "lat": null,
+                "log": null,
+                "stato": "Stati Uniti d’America",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Auxerre",
+                "lat": 47.8,
+                "log": 3.566667,
+                "stato": "Francia",
+                "regione": "arrondissement di Auxerre",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Verteneglio",
+                "lat": 45.36666667,
+                "log": 13.61666667,
+                "stato": "Croazia",
+                "regione": "regione istriana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Jasenice (Croazia)",
+                "lat": null,
+                "log": null,
+                "stato": "Croazia",
+                "regione": "regioni della Croazia",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ushiku",
+                "lat": 45.770278,
+                "log": 8.543333,
+                "stato": "Italia",
+                "regione": "Arona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grezzago",
+        "lat": 45.591111,
+        "log": 9.495,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grezzana",
+        "lat": 45.516667,
+        "log": 11.016667,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Griante",
+        "lat": 46,
+        "log": 9.233333,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gricignano di Aversa",
+        "lat": 40.983333,
+        "log": 14.233333,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grignasco",
+        "lat": 45.683333,
+        "log": 8.333333,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pont-Sainte-Maxence",
+                "lat": 49.3,
+                "log": 2.6,
+                "stato": "Francia",
+                "regione": "Oise",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grigno",
+        "lat": 46.01601,
+        "log": 11.63379,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grimacco",
+        "lat": 46.15554,
+        "log": 13.56966,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grimaldi (Italia)",
+        "lat": 39.15,
+        "log": 16.233333,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grinzane Cavour",
+        "lat": 44.660975,
+        "log": 7.996474,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Canosa di Puglia",
+                "lat": 41.216667,
+                "log": 16.066667,
+                "stato": "Italia",
+                "regione": "provincia di Barletta-Andria-Trani",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ménerbes",
+                "lat": 43.833333,
+                "log": 5.216667,
+                "stato": "Francia",
+                "regione": "cantone di Bonnieux",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grisignano di Zocco",
+        "lat": 45.483333,
+        "log": 11.7,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grisolia",
+        "lat": 39.713751,
+        "log": 15.897587,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grizzana Morandi",
+        "lat": 44.25,
+        "log": 11.15,
+        "stato": "Italia",
+        "regione": "provincia di Bologna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grognardo",
+        "lat": 44.631389,
+        "log": 8.493611,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gromo",
+        "lat": 45.964444,
+        "log": 9.9275,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grondona",
+        "lat": 44.6975,
+        "log": 8.966389,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grone",
+        "lat": 45.733333,
+        "log": 9.916667,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grontardo",
+        "lat": 45.2,
+        "log": 10.15,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gropello Cairoli",
+        "lat": 45.183333,
+        "log": 9,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gropparello",
+        "lat": 44.833333,
+        "log": 9.733333,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Groscavallo",
+        "lat": 45.368497,
+        "log": 7.258777,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grosio",
+        "lat": 46.3,
+        "log": 10.283333,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Lastra a Signa",
+                "lat": 43.766667,
+                "log": 11.1,
+                "stato": "Italia",
+                "regione": "provincia di Firenze",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grosotto",
+        "lat": 46.283333,
+        "log": 10.266667,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grosseto",
+        "lat": 42.772222,
+        "log": 11.108889,
+        "stato": "Italia",
+        "regione": "provincia di Grosseto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grosso (Italia)",
+        "lat": 45.257502,
+        "log": 7.557907,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grottaferrata",
+        "lat": 41.8,
+        "log": 12.666667,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pozzuolo del Friuli",
+                "lat": 45.968056,
+                "log": 13.196944,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Udine",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grottaglie",
+        "lat": 40.533333,
+        "log": 17.433333,
+        "stato": "Italia",
+        "regione": "provincia di Taranto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Portici",
+                "lat": 40.819722,
+                "log": 14.341111,
+                "stato": "Italia",
+                "regione": "provincia di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Atena Lucana",
+                "lat": 40.45,
+                "log": 15.55,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Marineo",
+                "lat": 37.95,
+                "log": 13.416667,
+                "stato": "Italia",
+                "regione": "provincia di Palermo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grottaminarda",
+        "lat": 41.070833,
+        "log": 15.059722,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grottammare",
+        "lat": 42.9891,
+        "log": 13.868069,
+        "stato": "Italia",
+        "regione": "provincia di Ascoli Piceno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Napoli",
+                "lat": 40.835833,
+                "log": 14.248611,
+                "stato": "Italia",
+                "regione": "città metropolitana di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ilha do Sal",
+                "lat": 16.72447778,
+                "log": -22.93020556,
+                "stato": "Capo Verde",
+                "regione": "contea di Sal",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Argirocastro",
+                "lat": 40.07583,
+                "log": 20.13889,
+                "stato": "Albania",
+                "regione": "prefettura di Argirocastro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Itiúba",
+                "lat": -10.69138889,
+                "log": -39.85444444,
+                "stato": "Brasile",
+                "regione": "Bahia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sant'Agata de' Goti",
+                "lat": 41.09027778,
+                "log": 14.5,
+                "stato": "Italia",
+                "regione": "provincia di Benevento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Brescia",
+                "lat": 45.53888889,
+                "log": 10.22027778,
+                "stato": "Italia",
+                "regione": "provincia di Brescia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grottazzolina",
+        "lat": 43.111031,
+        "log": 13.600939,
+        "stato": "Italia",
+        "regione": "provincia di Fermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grotte",
+        "lat": 40.883772,
+        "log": 17.167858,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grotte di Castro",
+        "lat": 42.675278,
+        "log": 11.873056,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grotteria",
+        "lat": 38.353889,
+        "log": 16.2725,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grottole",
+        "lat": 40.6,
+        "log": 16.383333,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grottolella",
+        "lat": 40.973611,
+        "log": 14.787778,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gruaro",
+        "lat": 45.833333,
+        "log": 12.833333,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grugliasco",
+        "lat": 45.068046,
+        "log": 7.57762,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Echirolles",
+                "lat": 45.133333,
+                "log": 5.716667,
+                "stato": "Francia",
+                "regione": "cantone di Échirolles-Ouest",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Barberà del Vallès",
+                "lat": 41.516389,
+                "log": 2.124444,
+                "stato": "Spagna",
+                "regione": "Vallès Occidental",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gourcy",
+                "lat": 13.2,
+                "log": -2.35,
+                "stato": "Burkina Faso",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grumello Cremonese ed Uniti",
+        "lat": 45.194138,
+        "log": 9.866335,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grumello del Monte",
+        "lat": 45.633333,
+        "log": 9.866667,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Eymet",
+                "lat": 44.666667,
+                "log": 0.4,
+                "stato": "Francia",
+                "regione": "cantone di Eymet",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Militello Rosmarino",
+                "lat": 38.046114,
+                "log": 14.676153,
+                "stato": "Italia",
+                "regione": "provincia di Messina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grumento Nova",
+        "lat": 40.283889,
+        "log": 15.889722,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grumo Appula",
+        "lat": 41.016667,
+        "log": 16.7,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Grumo Nevano",
+        "lat": 40.935734,
+        "log": 14.260356,
+        "stato": "Italia",
+        "regione": "città metropolitana di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Żagań",
+                "lat": 51.616667,
+                "log": 15.316667,
+                "stato": "Polonia",
+                "regione": "distretto di Żagań",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Grumolo delle Abbadesse",
+        "lat": 45.516667,
+        "log": 11.666667,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guagnano",
+        "lat": 40.4,
+        "log": 17.95,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gualdo",
+        "lat": 43.066944,
+        "log": 13.338056,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gualdo Cattaneo",
+        "lat": 42.916667,
+        "log": 12.55,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gualdo Tadino",
+        "lat": 43.233333,
+        "log": 12.783333,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Audun-le-Tiche",
+                "lat": 49.466667,
+                "log": 5.95,
+                "stato": "Francia",
+                "regione": "cantone di Fontoy",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "West Pittston",
+                "lat": 41.3293,
+                "log": -75.799,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Luzerne",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bra",
+                "lat": 44.7,
+                "log": 7.85,
+                "stato": "Italia",
+                "regione": "provincia di Cuneo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Krosno",
+                "lat": 49.566667,
+                "log": 21.683333,
+                "stato": "Polonia",
+                "regione": "distretto di Krosno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gualtieri",
+        "lat": 44.9,
+        "log": 10.633333,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gualtieri Sicaminò",
+        "lat": 38.166667,
+        "log": 15.316667,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guamaggiore",
+        "lat": 39.568448,
+        "log": 9.074192,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guanzate",
+        "lat": 45.733333,
+        "log": 9.016667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guarcino",
+        "lat": 41.8,
+        "log": 13.316667,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guarda Veneta",
+        "lat": 44.983333,
+        "log": 11.8,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardabosone",
+        "lat": 45.7,
+        "log": 8.25,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardamiglio",
+        "lat": 45.108611,
+        "log": 9.6825,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardavalle",
+        "lat": 38.5,
+        "log": 16.5,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardea",
+        "lat": 42.616667,
+        "log": 12.3,
+        "stato": "Italia",
+        "regione": "provincia di Terni",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Champignelles",
+                "lat": 47.766667,
+                "log": 3.066667,
+                "stato": "Francia",
+                "regione": "cantone di Bléneau",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Greccio",
+                "lat": 42.45,
+                "log": 12.75,
+                "stato": "Italia",
+                "regione": "provincia di Rieti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Guardia Lombardi",
+        "lat": 40.954722,
+        "log": 15.209722,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardia Perticara",
+        "lat": 40.366667,
+        "log": 16.1,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardia Piemontese",
+        "lat": 39.466667,
+        "log": 16,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardia Sanframondi",
+        "lat": 41.25,
+        "log": 14.6,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardiagrele",
+        "lat": 42.189222,
+        "log": 14.221592,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardialfiera",
+        "lat": 41.803611,
+        "log": 14.793333,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardiaregia",
+        "lat": 41.433333,
+        "log": 14.55,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guardistallo",
+        "lat": 43.313611,
+        "log": 10.633333,
+        "stato": "Italia",
+        "regione": "provincia di Pisa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guarene",
+        "lat": 44.739486,
+        "log": 8.034836,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guasila",
+        "lat": 39.560177,
+        "log": 9.044666,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guastalla",
+        "lat": 44.921389,
+        "log": 10.654167,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Forcalquier",
+                "lat": 43.966667,
+                "log": 5.783333,
+                "stato": "Francia",
+                "regione": "Alpi dell'Alta Provenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Giovinazzo",
+                "lat": 41.183333,
+                "log": 16.666667,
+                "stato": "Italia",
+                "regione": "provincia di Bari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gabicce Mare",
+                "lat": 43.966839,
+                "log": 12.756261,
+                "stato": "Italia",
+                "regione": "provincia di Pesaro e Urbino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Guazzora",
+        "lat": 45.014722,
+        "log": 8.8525,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gubbio",
+        "lat": 43.351788,
+        "log": 12.577267,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Thann",
+                "lat": 47.816667,
+                "log": 7.083333,
+                "stato": "Francia",
+                "regione": "cantone di Thann",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Jessup",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Livinallongo del Col di Lana",
+                "lat": 46.481577,
+                "log": 11.954265,
+                "stato": "Italia",
+                "regione": "provincia di Belluno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Salon-de-Provence",
+                "lat": 43.633333,
+                "log": 5.1,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Wertheim",
+                "lat": 49.75,
+                "log": 9.516669,
+                "stato": "Germania",
+                "regione": "Circondario del Meno-Tauber",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Szentendre",
+                "lat": 47.673333,
+                "log": 19.0725,
+                "stato": "Ungheria",
+                "regione": "Distretto di Szentendre",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Huntingdon",
+                "lat": 40.41,
+                "log": -77.98,
+                "stato": "Stati Uniti d’America",
+                "regione": "Pennsylvania",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Godmanchester",
+                "lat": 43.351788,
+                "log": 12.577267,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gudo Visconti",
+        "lat": 45.382198,
+        "log": 8.991296,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guglionesi",
+        "lat": 41.916667,
+        "log": 14.916667,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Castelnuovo di Cattaro",
+                "lat": 42.45,
+                "log": 18.67,
+                "stato": "Montenegro",
+                "regione": "Montenegro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Guidizzolo",
+        "lat": 45.316667,
+        "log": 10.583333,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Anghiari",
+                "lat": 43.541667,
+                "log": 12.055,
+                "stato": "Italia",
+                "regione": "provincia di Arezzo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Guidonia Montecelio",
+        "lat": 41.99682,
+        "log": 12.72614,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cape Canaveral",
+                "lat": 28.388333,
+                "log": -80.603611,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Brevard",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kašira",
+                "lat": 41.99682,
+                "log": 12.72614,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Guiglia",
+        "lat": 44.425,
+        "log": 10.963056,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guilmi",
+        "lat": 42,
+        "log": 14.483333,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gurro",
+        "lat": 46.0859,
+        "log": 8.57001,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Guspini",
+        "lat": 39.539959,
+        "log": 8.626671,
+        "stato": "Italia",
+        "regione": "provincia del Medio Campidano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Gussago",
+        "lat": 45.590391,
+        "log": 10.15247,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Aliap",
+                "lat": 45.590391,
+                "log": 10.15247,
+                "stato": "Italia",
+                "regione": "provincia di Brescia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Gussola",
+        "lat": 45.016667,
+        "log": 10.35,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

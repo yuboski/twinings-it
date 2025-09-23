@@ -1,0 +1,2675 @@
+[
+    {
+        "comune": "Occhieppo Inferiore",
+        "lat": 45.551,
+        "log": 8.0221,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Occhieppo Superiore",
+        "lat": 45.566,
+        "log": 8.0024,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Occhiobello",
+        "lat": 44.9216,
+        "log": 11.5812,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Mennecy",
+                "lat": 48.566667,
+                "log": 2.433333,
+                "stato": "Francia",
+                "regione": "Dipartimento di Seine-et-Oise",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Renningen",
+                "lat": 48.766111,
+                "log": 8.934722,
+                "stato": "Germania",
+                "regione": "circondario di Böblingen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Occimiano",
+        "lat": 45.061111,
+        "log": 8.508611,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ocre",
+        "lat": 42.28616,
+        "log": 13.47518,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Odalengo Grande",
+        "lat": 45.11,
+        "log": 8.168056,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Odalengo Piccolo",
+        "lat": 45.0725,
+        "log": 8.207222,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oderzo",
+        "lat": 45.780833,
+        "log": 12.492778,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Suffolk (Virginia){{!}}Suffolk",
+                "lat": 37.54083333,
+                "log": -77.43277778,
+                "stato": "Stati Uniti d’America",
+                "regione": "Stati Uniti d’America",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Odolo",
+        "lat": 45.65,
+        "log": 10.383333,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Gonnosfanadiga",
+                "lat": 39.493311,
+                "log": 8.662891,
+                "stato": "Italia",
+                "regione": "provincia del Medio Campidano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ofena",
+        "lat": 42.326667,
+        "log": 13.759722,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Offagna",
+        "lat": 43.527267,
+        "log": 13.4415,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Offanengo",
+        "lat": 45.383333,
+        "log": 9.733333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Offida",
+        "lat": 42.93535,
+        "log": 13.692,
+        "stato": "Italia",
+        "regione": "provincia di Ascoli Piceno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Offlaga",
+        "lat": 45.383333,
+        "log": 10.116667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oggebbio",
+        "lat": 45.983333,
+        "log": 8.65,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oggiona con Santo Stefano",
+        "lat": 45.70427,
+        "log": 8.81653,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oggiono",
+        "lat": 45.783333,
+        "log": 9.35,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Leisnig",
+                "lat": 51.1595,
+                "log": 12.9266,
+                "stato": "Germania",
+                "regione": "circondario della Sassonia Centrale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Halásztelek",
+                "lat": 47.360833,
+                "log": 18.987778,
+                "stato": "Ungheria",
+                "regione": "Distretto di Szigetszentmiklós",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Oglianico",
+        "lat": 45.342554,
+        "log": 7.693717,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ogliastro Cilento",
+        "lat": 40.35,
+        "log": 15.05,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olbia",
+        "lat": 40.916667,
+        "log": 9.5,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olcenengo",
+        "lat": 45.366667,
+        "log": 8.316667,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oldenico",
+        "lat": 45.4,
+        "log": 8.383333,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oleggio",
+        "lat": 45.6,
+        "log": 8.633333,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oleggio Castello",
+        "lat": 45.749722,
+        "log": 8.528333,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olevano Romano",
+        "lat": 41.860556,
+        "log": 13.031944,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Volgograd",
+                "lat": 48.7,
+                "log": 44.51666667,
+                "stato": "Russia",
+                "regione": "oblast' di Volgograd",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Olevano di Lomellina",
+        "lat": 45.2125,
+        "log": 8.716667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olevano sul Tusciano",
+        "lat": 40.65719,
+        "log": 15.02305,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Wilmington (Delaware)",
+                "lat": 39.16194444,
+                "log": -75.52666667,
+                "stato": "Stati Uniti d’America",
+                "regione": "Stati Uniti d’America",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Longueville (Senna e Marna)",
+                "lat": 48.516667,
+                "log": 3.25,
+                "stato": "Francia",
+                "regione": "Senna e Marna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Olgiate Comasco",
+        "lat": 45.783333,
+        "log": 8.966667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Liancourt",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pesterzsébet",
+                "lat": 47.498333,
+                "log": 19.040833,
+                "stato": "Ungheria",
+                "regione": "Ungheria",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Cataldo (Italia){{!}}San Cataldo",
+                "lat": 37.483333,
+                "log": 13.983333,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Caltanissetta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Olgiate Molgora",
+        "lat": 45.733333,
+        "log": 9.4,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Stocksmoor",
+                "lat": 45.733333,
+                "log": 9.4,
+                "stato": "Italia",
+                "regione": "provincia di Lecco",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Moergestel",
+                "lat": 51.55,
+                "log": 5.183333,
+                "stato": "Paesi Bassi",
+                "regione": "Oisterwijk",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Oisterwijk",
+                "lat": 51.5833,
+                "log": 5.2,
+                "stato": "Paesi Bassi",
+                "regione": "Brabante Settentrionale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Olgiate Olona",
+        "lat": 45.633333,
+        "log": 8.883333,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olginate",
+        "lat": 45.8,
+        "log": 9.416667,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oliena",
+        "lat": 40.271013,
+        "log": 9.402752,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Oliana",
+                "lat": 42.067136,
+                "log": 1.31419,
+                "stato": "Spagna",
+                "regione": "Alt Urgell",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Oliva Gessi",
+        "lat": 45,
+        "log": 9.183333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olivadi",
+        "lat": 38.733333,
+        "log": 16.416667,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oliveri",
+        "lat": 38.12348,
+        "log": 15.06085,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oliveto Citra",
+        "lat": 40.689444,
+        "log": 15.231111,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Szczawnica",
+                "lat": 49.416667,
+                "log": 20.483333,
+                "stato": "Polonia",
+                "regione": "distretto di Nowy Targ",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Collesano",
+                "lat": 37.916667,
+                "log": 13.933333,
+                "stato": "Italia",
+                "regione": "provincia di Palermo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dozza",
+                "lat": 44.358987,
+                "log": 11.62769,
+                "stato": "Italia",
+                "regione": "provincia di Bologna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Muro Lucano",
+                "lat": 40.75,
+                "log": 15.483333,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Episcopia",
+                "lat": 40.07481,
+                "log": 16.09818,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Oliveto Lario",
+        "lat": 45.95,
+        "log": 9.266667,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Friedberg (Hessen){{!}}Friedberg",
+                "lat": 45.918407,
+                "log": 9.245014,
+                "stato": "Italia",
+                "regione": "provincia di Como",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Oliveto Lucano",
+        "lat": 40.533333,
+        "log": 16.183333,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olivetta San Michele",
+        "lat": 43.879728,
+        "log": 7.515558,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olivola",
+        "lat": 45.037388,
+        "log": 8.367527,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ollastra",
+        "lat": 39.951389,
+        "log": 8.734722,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ollolai",
+        "lat": 40.168889,
+        "log": 9.179167,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ollomont",
+        "lat": 45.85,
+        "log": 7.316667,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olmedo (Italia)",
+        "lat": 40.651111,
+        "log": 8.379722,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Olmedo (Spagna){{!}}Olmedo",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Limena",
+                "lat": 45.466667,
+                "log": 11.85,
+                "stato": "Italia",
+                "regione": "provincia di Padova",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Olmeneta",
+        "lat": 45.233333,
+        "log": 10.016667,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olmo Gentile",
+        "lat": 44.586667,
+        "log": 8.248056,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olmo al Brembo",
+        "lat": 45.972222,
+        "log": 9.649167,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oltre il Colle",
+        "lat": 45.912029,
+        "log": 9.778824,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oltressenda Alta",
+        "lat": 45.944973,
+        "log": 9.981533,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oltrona di San Mamette",
+        "lat": 45.756389,
+        "log": 8.976667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Olzai",
+        "lat": 40.1825,
+        "log": 9.147778,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ome",
+        "lat": 45.627283,
+        "log": 10.121365,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Omegna",
+        "lat": 45.878056,
+        "log": 8.406944,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Lodi",
+                "lat": 45.316667,
+                "log": 9.5,
+                "stato": "Italia",
+                "regione": "provincia di Lodi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pornic",
+                "lat": 47.116667,
+                "log": -2.1,
+                "stato": "Francia",
+                "regione": "Loira Atlantica",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Omignano",
+        "lat": 40.250599,
+        "log": 15.102096,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Onano",
+        "lat": 42.692222,
+        "log": 11.816944,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Onanì",
+        "lat": 40.485082,
+        "log": 9.442406,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oncino",
+        "lat": 44.683333,
+        "log": 7.183333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oneta",
+        "lat": 45.871486,
+        "log": 9.819353,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Onifai",
+        "lat": 40.407778,
+        "log": 9.652222,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oniferi",
+        "lat": 40.271667,
+        "log": 9.170278,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ono San Pietro",
+        "lat": 46.017778,
+        "log": 10.329167,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Onore (Italia)",
+        "lat": 45.883333,
+        "log": 10.016667,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Onzo",
+        "lat": 44.070103,
+        "log": 8.054947,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Opera (Italia)",
+        "lat": 45.383333,
+        "log": 9.216667,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Opi (Italia)",
+        "lat": 41.777778,
+        "log": 13.83,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oppeano",
+        "lat": 45.3,
+        "log": 11.183333,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Montegranaro",
+                "lat": 43.233219,
+                "log": 13.6322,
+                "stato": "Italia",
+                "regione": "provincia di Fermo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mereto di Tomba",
+                "lat": 46.05,
+                "log": 13.033333,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Udine",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Croviana",
+                "lat": 46.344717,
+                "log": 10.904435,
+                "stato": "Italia",
+                "regione": "provincia autonoma di Trento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Oppido Lucano",
+        "lat": 40.766667,
+        "log": 15.983333,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Iquique",
+                "lat": -20.216667,
+                "log": -70.15,
+                "stato": "Cile",
+                "regione": "Iquique",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Oppido Mamertina",
+        "lat": 38.3,
+        "log": 15.983333,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ora (Italia)",
+        "lat": 46.34687,
+        "log": 11.29747,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orani (Italia)",
+        "lat": 40.249444,
+        "log": 9.178333,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oratino",
+        "lat": 41.583333,
+        "log": 14.583333,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orbassano",
+        "lat": 45.007263,
+        "log": 7.536919,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ełk",
+                "lat": 53.82138889,
+                "log": 22.36222222,
+                "stato": "Polonia",
+                "regione": "distretto di Ełk",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nogent-sur-Oise",
+                "lat": 49.266667,
+                "log": 2.466667,
+                "stato": "Francia",
+                "regione": "cantone di Creil-Nogent-sur-Oise",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Orbetello",
+        "lat": 42.439444,
+        "log": 11.2125,
+        "stato": "Italia",
+        "regione": "provincia di Grosseto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orciano Pisano",
+        "lat": 43.5,
+        "log": 10.516667,
+        "stato": "Italia",
+        "regione": "provincia di Pisa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orco Feglino",
+        "lat": 44.219525,
+        "log": 8.324994,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Le Crestet",
+                "lat": 45.016667,
+                "log": 4.65,
+                "stato": "Francia",
+                "regione": "Ardèche",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ordona",
+        "lat": 41.316667,
+        "log": 15.633333,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orero",
+        "lat": 44.406842,
+        "log": 9.27415,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orgiano",
+        "lat": 45.35,
+        "log": 11.466667,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orgosolo",
+        "lat": 40.204706,
+        "log": 9.352627,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oria",
+        "lat": 40.5,
+        "log": 17.633333,
+        "stato": "Italia",
+        "regione": "provincia di Brindisi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Lorch",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Miekinia",
+                "lat": 51.166667,
+                "log": 16.766667,
+                "stato": "Polonia",
+                "regione": "distretto di Środa Śląska",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sarteano",
+                "lat": 42.983333,
+                "log": 11.866667,
+                "stato": "Italia",
+                "regione": "provincia di Siena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Novoli",
+                "lat": 40.383333,
+                "log": 18.05,
+                "stato": "Italia",
+                "regione": "provincia di Lecce",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Oricola",
+        "lat": 42.050278,
+        "log": 13.039528,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Massieux",
+                "lat": 45.916667,
+                "log": 4.833333,
+                "stato": "Francia",
+                "regione": "Ain",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Origgio",
+        "lat": 45.596944,
+        "log": 9.018333,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orino",
+        "lat": 45.883333,
+        "log": 8.716667,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orio Canavese",
+        "lat": 45.329255,
+        "log": 7.861721,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orio Litta",
+        "lat": 45.160833,
+        "log": 9.555556,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orio al Serio",
+        "lat": 45.669294,
+        "log": 9.69562,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oriolo",
+        "lat": 40.053809,
+        "log": 16.446088,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Costigliole Saluzzo",
+                "lat": 44.566667,
+                "log": 7.483333,
+                "stato": "Italia",
+                "regione": "provincia di Cuneo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Oriolo Romano",
+        "lat": 42.1578,
+        "log": 12.1378,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Bonnet",
+                "lat": 45.483333,
+                "log": -0.1,
+                "stato": "Francia",
+                "regione": "cantone di Barbezieux-Saint-Hilaire",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Hawkhurst",
+                "lat": 42.1578,
+                "log": 12.1378,
+                "stato": "Italia",
+                "regione": "provincia di Viterbo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Oristano",
+        "lat": 39.905819,
+        "log": 8.591609,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ciutadella de Menorca",
+                "lat": 40.016667,
+                "log": 3.816667,
+                "stato": "Spagna",
+                "regione": "Minorca",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Garden City",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ormea",
+        "lat": 44.15,
+        "log": 7.916667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ormelle",
+        "lat": 45.780278,
+        "log": 12.419722,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Balatonboglár",
+                "lat": 46.778558,
+                "log": 17.654942,
+                "stato": "Ungheria",
+                "regione": "Distretto di Fonyód",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ornago",
+        "lat": 45.6,
+        "log": 9.416667,
+        "stato": "Italia",
+        "regione": "provincia di Monza e della Brianza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ornavasso",
+        "lat": 45.966667,
+        "log": 8.4,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ornica",
+        "lat": 45.988333,
+        "log": 9.579167,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orosei",
+        "lat": 40.379722,
+        "log": 9.694167,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Marsciano",
+                "lat": 42.916667,
+                "log": 12.333333,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Noli",
+                "lat": 44.205692,
+                "log": 8.41615,
+                "stato": "Italia",
+                "regione": "provincia di Savona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Orotelli",
+        "lat": 40.303553,
+        "log": 9.112558,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orria",
+        "lat": 40.3,
+        "log": 15.166667,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orroli",
+        "lat": 39.692262,
+        "log": 9.250317,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orsago",
+        "lat": 45.933333,
+        "log": 12.416667,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orsara Bormida",
+        "lat": 44.690278,
+        "log": 8.5625,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orsara di Puglia",
+        "lat": 41.283333,
+        "log": 15.266667,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "San Mauro Torinese",
+                "lat": 45.103889,
+                "log": 7.753611,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Unkel",
+                "lat": 50.6,
+                "log": 7.21666667,
+                "stato": "Germania",
+                "regione": "Verbandsgemeinde Unkel",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Orsenigo",
+        "lat": 45.783333,
+        "log": 9.183333,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orsogna",
+        "lat": 42.216667,
+        "log": 14.283333,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orsomarso",
+        "lat": 39.8,
+        "log": 15.916667,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orta Nova",
+        "lat": 41.330833,
+        "log": 15.711389,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Lavello (Italia){{!}}Lavello",
+                "lat": 41.05,
+                "log": 15.8,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Orta San Giulio",
+        "lat": 45.8,
+        "log": 8.4,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orta di Atella",
+        "lat": 40.966667,
+        "log": 14.266667,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ortacesus",
+        "lat": 39.538469,
+        "log": 9.084148,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orte",
+        "lat": 42.460278,
+        "log": 12.386111,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Idalion",
+                "lat": 42.460278,
+                "log": 12.386111,
+                "stato": "Italia",
+                "regione": "provincia di Viterbo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ortelle",
+        "lat": 40.034444,
+        "log": 18.393056,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ortezzano",
+        "lat": 43.031489,
+        "log": 13.607569,
+        "stato": "Italia",
+        "regione": "provincia di Fermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ortignano Raggiolo",
+        "lat": 43.680833,
+        "log": 11.749722,
+        "stato": "Italia",
+        "regione": "provincia di Arezzo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ortisei",
+        "lat": 46.575208,
+        "log": 11.672138,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ortona",
+        "lat": 42.355658,
+        "log": 14.403594,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cassino",
+                "lat": 41.491667,
+                "log": 13.833333,
+                "stato": "Italia",
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Chio (comune){{!}}Chio",
+                "lat": 38.4,
+                "log": 26.016667,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Volgograd",
+                "lat": 48.7,
+                "log": 44.51666667,
+                "stato": "Russia",
+                "regione": "oblast' di Volgograd",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Minturno",
+                "lat": 41.266667,
+                "log": 13.75,
+                "stato": "Italia",
+                "regione": "provincia di Latina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ortona dei Marsi",
+        "lat": 41.998333,
+        "log": 13.728889,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sauvigny-les-Bois",
+                "lat": 46.966667,
+                "log": 3.266667,
+                "stato": "Francia",
+                "regione": "Nièvre",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ortovero",
+        "lat": 44.053317,
+        "log": 8.087528,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ortucchio",
+        "lat": 41.956111,
+        "log": 13.646667,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Capalbio",
+                "lat": 42.454167,
+                "log": 11.4225,
+                "stato": "Italia",
+                "regione": "provincia di Grosseto",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ortueri",
+        "lat": 40.035369,
+        "log": 8.98613,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orune",
+        "lat": 40.406699,
+        "log": 9.369278,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orvieto",
+        "lat": 42.716667,
+        "log": 12.1,
+        "stato": "Italia",
+        "regione": "provincia di Terni",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Givors",
+                "lat": 45.583333,
+                "log": 4.766667,
+                "stato": "Francia",
+                "regione": "Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Maebashi",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Betlemme",
+                "lat": 31.70305556,
+                "log": 35.19555556,
+                "stato": "Stato di Palestina",
+                "regione": "Governatorato di Betlemme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Aiken (Carolina del Sud){{!}}Aiken",
+                "lat": 33.55,
+                "log": -81.64,
+                "stato": "Stati Uniti d’America",
+                "regione": "Carolina del Sud",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Seinäjoki",
+                "lat": 62.790278,
+                "log": 22.840278,
+                "stato": "Finlandia",
+                "regione": "Ostrobotnia meridionale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kercem",
+                "lat": 36.05610833,
+                "log": 14.23175833,
+                "stato": "Malta",
+                "regione": "regione di Gozo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Avignone",
+                "lat": 43.95,
+                "log": 4.816667,
+                "stato": "Francia",
+                "regione": "arrondissement di Avignon",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Orvinio",
+        "lat": 42.133333,
+        "log": 12.933333,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orzinuovi",
+        "lat": 45.4,
+        "log": 9.933333,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Orzivecchi",
+        "lat": 45.416667,
+        "log": 9.966667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Osasco (Italia)",
+        "lat": 44.849368,
+        "log": 7.343243,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Osasco",
+                "lat": -23.5375,
+                "log": -46.78138889,
+                "stato": "Brasile",
+                "regione": "San Paolo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Osasio",
+        "lat": 44.871442,
+        "log": 7.608024,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oschiri",
+        "lat": 40.71903,
+        "log": 9.101486,
+        "stato": "Italia",
+        "regione": "provincia di Olbia-Tempio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Osidda",
+        "lat": 40.524231,
+        "log": 9.218109,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Osiglia",
+        "lat": 44.281175,
+        "log": 8.201114,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Osilo",
+        "lat": 40.743611,
+        "log": 8.671111,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Narni",
+                "lat": 42.516667,
+                "log": 12.516667,
+                "stato": "Italia",
+                "regione": "provincia di Terni",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Osimo",
+        "lat": 43.486081,
+        "log": 13.4821,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Copertino",
+                "lat": 40.266667,
+                "log": 18.05,
+                "stato": "Italia",
+                "regione": "provincia di Lecce",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Armstrong",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sofia",
+                "lat": 42.697886,
+                "log": 23.321726,
+                "stato": "Bulgaria",
+                "regione": "comune della capitale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Osini",
+        "lat": 39.822447,
+        "log": 9.496694,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Osio Sopra",
+        "lat": 45.633333,
+        "log": 9.583333,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Osio Sotto",
+        "lat": 45.616667,
+        "log": 9.6,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Osnago",
+        "lat": 45.683333,
+        "log": 9.383333,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Osoppo",
+        "lat": 46.25,
+        "log": 13.083333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Rosegg",
+                "lat": 46.588611,
+                "log": 14.018611,
+                "stato": "Austria",
+                "regione": "distretto di Villach-Land",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ospedaletti",
+        "lat": 43.800589,
+        "log": 7.717694,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ospedaletto",
+        "lat": 46.04349,
+        "log": 11.55291,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ospedaletto Euganeo",
+        "lat": 45.223056,
+        "log": 11.611111,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ospedaletto Lodigiano",
+        "lat": 45.169722,
+        "log": 9.579722,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ospedaletto d'Alpinolo",
+        "lat": 40.933333,
+        "log": 14.75,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ospitale di Cadore",
+        "lat": 46.329167,
+        "log": 12.324167,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ospitaletto",
+        "lat": 45.555278,
+        "log": 10.073333,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ossago Lodigiano",
+        "lat": 45.246667,
+        "log": 9.538056,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ossana",
+        "lat": 46.3,
+        "log": 10.733333,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ossi",
+        "lat": 40.674682,
+        "log": 8.592167,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ossimo",
+        "lat": 45.946944,
+        "log": 10.231389,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ossona",
+        "lat": 45.5,
+        "log": 8.9,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ostana",
+        "lat": 44.692591,
+        "log": 7.187224,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ostellato",
+        "lat": 44.728447,
+        "log": 11.970556,
+        "stato": "Italia",
+        "regione": "provincia di Ferrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ostiano",
+        "lat": 45.216667,
+        "log": 10.25,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ostiglia",
+        "lat": 45.07039,
+        "log": 11.13641,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ostra (Italia)",
+        "lat": 43.61265,
+        "log": 13.158231,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Markt Schwaben",
+                "lat": 48.191667,
+                "log": 11.868056,
+                "stato": "Germania",
+                "regione": "circondario di Ebersberg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ostra Vetere",
+        "lat": 43.603711,
+        "log": 13.057264,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Assisi",
+                "lat": 43.07,
+                "log": 12.6175,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lugo di Vicenza",
+                "lat": 45.75,
+                "log": 11.533333,
+                "stato": "Italia",
+                "regione": "provincia di Vicenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Uggiano la Chiesa",
+                "lat": 40.101724,
+                "log": 18.449333,
+                "stato": "Italia",
+                "regione": "provincia di Lecce",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Poggio Bustone",
+                "lat": 42.5,
+                "log": 12.883333,
+                "stato": "Italia",
+                "regione": "provincia di Rieti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Urzy",
+                "lat": 47.05,
+                "log": 3.2,
+                "stato": "Francia",
+                "regione": "Nièvre",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Numana",
+                "lat": 43.5136,
+                "log": 13.621569,
+                "stato": "Italia",
+                "regione": "provincia di Ancona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Borgo Pace",
+                "lat": 43.6579,
+                "log": 12.29415,
+                "stato": "Italia",
+                "regione": "provincia di Pesaro e Urbino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Čitluk",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kamp-Bornhofen",
+                "lat": 50.23333333,
+                "log": 7.61666667,
+                "stato": "Germania",
+                "regione": "Verbandsgemeinde Loreley",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ostuni",
+        "lat": 40.732222,
+        "log": 17.577778,
+        "stato": "Italia",
+        "regione": "provincia di Brindisi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Otranto",
+        "lat": 40.147825,
+        "log": 18.485933,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Otricoli",
+        "lat": 42.416667,
+        "log": 12.483333,
+        "stato": "Italia",
+        "regione": "provincia di Terni",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Mstów",
+                "lat": 50.827778,
+                "log": 19.287222,
+                "stato": "Polonia",
+                "regione": "distretto di Częstochowa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ottana",
+        "lat": 40.234167,
+        "log": 9.0425,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ottati",
+        "lat": 40.466667,
+        "log": 15.316667,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ottaviano (Italia)",
+        "lat": 40.85,
+        "log": 14.4775,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ottiglio",
+        "lat": 45.055278,
+        "log": 8.339722,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ottobiano",
+        "lat": 45.15,
+        "log": 8.833333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ottone (Italia)",
+        "lat": 44.616667,
+        "log": 9.333333,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oulx",
+        "lat": 45.033052,
+        "log": 6.83251,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Donat-sur-l'Herbasse",
+                "lat": 45.116667,
+                "log": 5,
+                "stato": "Francia",
+                "regione": "cantone di Saint-Donat-sur-l'Herbasse",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ovada",
+        "lat": 44.639167,
+        "log": 8.646389,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ovaro",
+        "lat": 46.482943,
+        "log": 12.865389,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oviglio",
+        "lat": 44.862222,
+        "log": 8.488889,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ovindoli",
+        "lat": 42.138056,
+        "log": 13.516944,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Valmontone",
+                "lat": 41.783333,
+                "log": 12.916667,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tarxien",
+                "lat": 35.86971667,
+                "log": 14.51019167,
+                "stato": "Malta",
+                "regione": "Regione del Porto (Malta)",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ushuaia",
+                "lat": -54.8,
+                "log": -68.3,
+                "stato": "Argentina",
+                "regione": "Argentina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ovodda",
+        "lat": 40.095342,
+        "log": 9.160495,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Oyace",
+        "lat": 45.85,
+        "log": 7.383333,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Vex",
+                "lat": 46.21277778,
+                "log": 7.39888889,
+                "stato": "Svizzera",
+                "regione": "distretto di Hérens",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ozegna",
+        "lat": 45.34929,
+        "log": 7.742524,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ozieri",
+        "lat": 40.584871,
+        "log": 9.003285,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Fiorano Modenese",
+                "lat": 44.53666667,
+                "log": 10.82277778,
+                "stato": "Italia",
+                "regione": "provincia di Modena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Maranello",
+                "lat": 44.526389,
+                "log": 10.866667,
+                "stato": "Italia",
+                "regione": "provincia di Modena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Oliva",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ozzano Monferrato",
+        "lat": 45.109167,
+        "log": 8.373056,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ozzano dell'Emilia",
+        "lat": 44.45,
+        "log": 11.483333,
+        "stato": "Italia",
+        "regione": "provincia di Bologna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Staffanstorp",
+                "lat": 55.633333,
+                "log": 13.2,
+                "stato": "Svezia",
+                "regione": "contea della Scania",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ozzero",
+        "lat": 45.366667,
+        "log": 8.916667,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

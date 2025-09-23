@@ -1,0 +1,2055 @@
+[
+    {
+        "comune": "Nago-Torbole",
+        "lat": 45.875833,
+        "log": 10.891111,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nalles",
+        "lat": 46.543487,
+        "log": 11.204627,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nanto",
+        "lat": 45.433333,
+        "log": 11.583333,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Napoli",
+        "lat": 40.835833,
+        "log": 14.248611,
+        "stato": "Italia",
+        "regione": "città metropolitana di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Kagoshima",
+                "lat": 40.835833,
+                "log": 14.248611,
+                "stato": "Italia",
+                "regione": "città metropolitana di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gafsa",
+                "lat": 34.416667,
+                "log": 8.783333,
+                "stato": "Tunisia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sighet",
+                "lat": 47.93333333,
+                "log": 23.88333333,
+                "stato": "Regno d'Ungheria",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Călărași",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Budapest",
+                "lat": 47.498333,
+                "log": 19.040833,
+                "stato": "Ungheria",
+                "regione": "Ungheria",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kragujevac",
+                "lat": 43.98333333,
+                "log": 20.88333333,
+                "stato": "Serbia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Palma di Maiorca",
+                "lat": 39.566667,
+                "log": 2.65,
+                "stato": "Spagna",
+                "regione": "isole Baleari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Atene",
+                "lat": 37.96666667,
+                "log": 23.71666667,
+                "stato": "Grecia",
+                "regione": "comune di Atene",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Santiago di Cuba",
+                "lat": 20.019833,
+                "log": -75.813917,
+                "stato": "Cuba",
+                "regione": "provincia di Santiago di Cuba",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nosy Be",
+                "lat": -13.33333333,
+                "log": 48.25,
+                "stato": "Madagascar",
+                "regione": "regione di Diana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nablus",
+                "lat": 32.22027778,
+                "log": 35.27888889,
+                "stato": "Impero bizantino",
+                "regione": "governatorato di Nablus",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Naples (Florida)",
+                "lat": 26.153056,
+                "log": -81.798611,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Collier",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cancún",
+                "lat": 21.161416,
+                "log": -86.824811,
+                "stato": "Messico",
+                "regione": "Benito Juárez",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Narbolia",
+        "lat": 40.048056,
+        "log": 8.576389,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Narcao",
+        "lat": 39.166667,
+        "log": 8.683333,
+        "stato": "Italia",
+        "regione": "provincia di Carbonia-Iglesias",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bovegno",
+                "lat": 45.783333,
+                "log": 10.266667,
+                "stato": "Italia",
+                "regione": "provincia di Brescia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Les Rues-des-Vignes",
+                "lat": 50.083333,
+                "log": 3.233333,
+                "stato": "Francia",
+                "regione": "cantone di Marcoing",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nardodipace",
+        "lat": 38.464768,
+        "log": 16.34084,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nardò",
+        "lat": 40.179722,
+        "log": 18.033333,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Narni",
+        "lat": 42.516667,
+        "log": 12.516667,
+        "stato": "Italia",
+        "regione": "provincia di Terni",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Coimbra",
+                "lat": 40.25,
+                "log": -8.45,
+                "stato": "Portogallo",
+                "regione": "Coimbra distretto",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Osilo",
+                "lat": 40.743611,
+                "log": 8.671111,
+                "stato": "Italia",
+                "regione": "provincia di Sassari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Naro",
+        "lat": 37.296297,
+        "log": 13.791631,
+        "stato": "Italia",
+        "regione": "provincia di Agrigento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Narzole",
+        "lat": 44.6,
+        "log": 7.866667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tenda",
+                "lat": 44.087778,
+                "log": 7.593611,
+                "stato": "Francia",
+                "regione": "Alpi Marittime",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nasino",
+        "lat": 44.114406,
+        "log": 8.029714,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Naso (Italia)",
+        "lat": 38.124167,
+        "log": 14.787778,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Conversano",
+                "lat": 40.966667,
+                "log": 17.116667,
+                "stato": "Italia",
+                "regione": "provincia di Bari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Naturno",
+        "lat": 46.65,
+        "log": 10.9,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Axams",
+                "lat": 47.230278,
+                "log": 11.279167,
+                "stato": "Austria",
+                "regione": "distretto di Innsbruck-Land",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Circondario del Reno-Palatinato{{!}}Rhein-Pfalz-Kreis",
+                "lat": 49.42,
+                "log": 8.33,
+                "stato": "Germania",
+                "regione": "Renania-Palatinato",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nave (Italia)",
+        "lat": 45.585,
+        "log": 10.283333,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Navelli",
+        "lat": 42.23861111,
+        "log": 13.72944444,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Naz-Sciaves",
+        "lat": 46.769521,
+        "log": 11.665917,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nazzano",
+        "lat": 42.23018,
+        "log": 12.5944,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Iași",
+                "lat": 47.15,
+                "log": 27.58333333,
+                "stato": "Romania",
+                "regione": "distretto di Iași",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ne (Italia)",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nebbiuno",
+        "lat": 45.8,
+        "log": 8.533333,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Negrar di Valpolicella",
+        "lat": 45.53044,
+        "log": 10.93825,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Neirone",
+        "lat": 44.454294,
+        "log": 9.190856,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Neive",
+        "lat": 44.716667,
+        "log": 8.116667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nembro",
+        "lat": 45.743889,
+        "log": 9.759444,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nemi",
+        "lat": 41.72185,
+        "log": 12.71809,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nemoli",
+        "lat": 40.066667,
+        "log": 15.8,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Neoneli",
+        "lat": 40.065278,
+        "log": 8.946944,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nepi",
+        "lat": 42.243611,
+        "log": 12.346389,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nereto",
+        "lat": 42.82,
+        "log": 13.816944,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nerola",
+        "lat": 42.160833,
+        "log": 12.786944,
+        "stato": "Italia",
+        "regione": "",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nervesa della Battaglia",
+        "lat": 45.821641,
+        "log": 12.206734,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Lugo (Italia){{!}}Lugo",
+                "lat": 44.416667,
+                "log": 11.916667,
+                "stato": "Italia",
+                "regione": "provincia di Ravenna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nerviano",
+        "lat": 45.55,
+        "log": 8.983333,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nespolo (Italia)",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nesso (Italia)",
+        "lat": 45.916667,
+        "log": 9.166667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Netro",
+        "lat": 45.5375,
+        "log": 7.947222,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nettuno (Italia)",
+        "lat": 41.4575,
+        "log": 12.66111111,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ipswich",
+                "lat": 42.67916667,
+                "log": -70.84111111,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Essex",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Neviano",
+        "lat": 40.1,
+        "log": 18.116667,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Neviano degli Arduini",
+        "lat": 44.583472,
+        "log": 10.317472,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tarascona",
+                "lat": 43.8,
+                "log": 4.666667,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Neviglie",
+        "lat": 44.683333,
+        "log": 8.116667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Niardo",
+        "lat": 45.976667,
+        "log": 10.334167,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Reggiolo",
+                "lat": 44.916667,
+                "log": 10.816667,
+                "stato": "Italia",
+                "regione": "provincia di Reggio Emilia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Città del Messico",
+                "lat": 19.433888,
+                "log": -99.133766,
+                "stato": "Messico",
+                "regione": "Primo Impero Messicano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nibbiola",
+        "lat": 45.366667,
+        "log": 8.666667,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nibionno",
+        "lat": 45.751447,
+        "log": 9.26171,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nichelino",
+        "lat": 44.995518,
+        "log": 7.646618,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Caluire-et-Cuire",
+                "lat": 45.8,
+                "log": 4.85,
+                "stato": "Francia",
+                "regione": "cantone di Caluire-et-Cuire",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Victoria",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nicolosi",
+        "lat": 37.617222,
+        "log": 15.024167,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nicorvo",
+        "lat": 45.283333,
+        "log": 8.666667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nicosia (Italia)",
+        "lat": 37.75,
+        "log": 14.4,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Enna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nicotera",
+        "lat": 38.55,
+        "log": 15.933333,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Niella Belbo",
+        "lat": 44.516667,
+        "log": 8.083333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Niella Tanaro",
+        "lat": 44.416667,
+        "log": 7.916667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nimis",
+        "lat": 46.200278,
+        "log": 13.265,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Niscemi",
+        "lat": 37.15,
+        "log": 14.383333,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Caltanissetta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Collio",
+                "lat": 45.81111111,
+                "log": 10.33333333,
+                "stato": "Italia",
+                "regione": "provincia di Brescia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nissoria",
+        "lat": 37.65,
+        "log": 14.45,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Enna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nizza Monferrato",
+        "lat": 44.774722,
+        "log": 8.355,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Savignano sul Rubicone",
+                "lat": 44.088056,
+                "log": 12.393333,
+                "stato": "Italia",
+                "regione": "provincia di Forlì-Cesena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nizza di Sicilia",
+        "lat": 37.994722,
+        "log": 15.412778,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Noale",
+        "lat": 45.55012,
+        "log": 12.0709,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Arta Terme",
+                "lat": 46.47238,
+                "log": 13.026675,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Udine",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Noasca",
+        "lat": 45.453972,
+        "log": 7.314554,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nocara",
+        "lat": 40.1,
+        "log": 16.483333,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nocciano",
+        "lat": 42.333333,
+        "log": 13.983333,
+        "stato": "Italia",
+        "regione": "provincia di Pescara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nocera Inferiore",
+        "lat": 40.75,
+        "log": 14.633333,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Macarsca",
+                "lat": 43.293056,
+                "log": 17.02,
+                "stato": "Croazia",
+                "regione": "regione spalatino-dalmata",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nocera Superiore",
+        "lat": 40.741667,
+        "log": 14.672222,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nocera Terinese",
+        "lat": 39.033333,
+        "log": 16.15,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nocera Umbra",
+        "lat": 43.116667,
+        "log": 12.783333,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Frosinone",
+                "lat": 41.633333,
+                "log": 13.35,
+                "stato": "Italia",
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gabicce Mare",
+                "lat": 43.966839,
+                "log": 12.756261,
+                "stato": "Italia",
+                "regione": "provincia di Pesaro e Urbino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Noceto",
+        "lat": 44.80975,
+        "log": 10.177278,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Walnut Creek",
+                "lat": 37.906313,
+                "log": -122.064963,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Contra Costa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Noyers-sur-Serein",
+                "lat": 47.7,
+                "log": 4,
+                "stato": "Francia",
+                "regione": "cantone di Noyers",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cricova",
+                "lat": 47.138889,
+                "log": 28.861389,
+                "stato": "Moldavia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Noci (Italia)",
+        "lat": 40.8,
+        "log": 17.133333,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nociglia",
+        "lat": 40.033333,
+        "log": 18.333333,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Noepoli",
+        "lat": 40.083333,
+        "log": 16.333333,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nogara",
+        "lat": 45.17903,
+        "log": 11.06377,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nogaredo",
+        "lat": 45.908864,
+        "log": 11.019975,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nogarole Rocca",
+        "lat": 45.283333,
+        "log": 10.883333,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nogarole Vicentino",
+        "lat": 45.566667,
+        "log": 11.283333,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Noicattaro",
+        "lat": 41.033333,
+        "log": 16.983333,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nola",
+        "lat": 40.933333,
+        "log": 14.533333,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Viterbo",
+                "lat": 42.418611,
+                "log": 12.104167,
+                "stato": "Italia",
+                "regione": "provincia di Viterbo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gubbio",
+                "lat": 43.351788,
+                "log": 12.577267,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sassari",
+                "lat": 40.726667,
+                "log": 8.559167,
+                "stato": "Italia",
+                "regione": "provincia di Sassari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Palmi",
+                "lat": 38.366667,
+                "log": 15.85,
+                "stato": "Italia",
+                "regione": "città metropolitana di Reggio Calabria",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sutera",
+                "lat": 37.5244,
+                "log": 13.735278,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Caltanissetta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Comacchio",
+                "lat": 44.7,
+                "log": 12.183333,
+                "stato": "Italia",
+                "regione": "provincia di Ferrara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nole",
+        "lat": 45.243941,
+        "log": 7.572993,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Charvieu-Chavagneux",
+                "lat": 45.746389,
+                "log": 5.164722,
+                "stato": "Francia",
+                "regione": "cantone di Pont-de-Chéruy",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Noli",
+        "lat": 44.205692,
+        "log": 8.41615,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Langenargen",
+                "lat": 47.6,
+                "log": 9.541667,
+                "stato": "Germania",
+                "regione": "circondario del Lago di Costanza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ribeira Grande Santiago",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Orosei",
+                "lat": 40.379722,
+                "log": 9.694167,
+                "stato": "Italia",
+                "regione": "provincia di Nuoro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nomaglio",
+        "lat": 45.53616,
+        "log": 7.860317,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nomi (Italia)",
+        "lat": 45.933333,
+        "log": 11.066667,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nonantola",
+        "lat": 44.677671,
+        "log": 11.043007,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "None (Italia)",
+        "lat": 44.933143,
+        "log": 7.540121,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nonio",
+        "lat": 45.846111,
+        "log": 8.3775,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Noragugume",
+        "lat": 40.224167,
+        "log": 8.920833,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Norbello",
+        "lat": 40.135382,
+        "log": 8.832665,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Norcia",
+        "lat": 42.793333,
+        "log": 13.093889,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ottobeuren",
+                "lat": 47.941389,
+                "log": 10.299444,
+                "stato": "Germania",
+                "regione": "circondario della Bassa Algovia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Hamilton (Contea di Mercer, New Jersey){{!}}Hamilton",
+                "lat": 40.20833333,
+                "log": -74.67472222,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Mercer",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ascoli Piceno",
+                "lat": 42.854722,
+                "log": 13.575278,
+                "stato": "Italia",
+                "regione": "provincia di Ascoli Piceno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Norma (Italia)",
+        "lat": 41.583333,
+        "log": 12.966667,
+        "stato": "Italia",
+        "regione": "provincia di Latina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nosate",
+        "lat": 45.55,
+        "log": 8.733333,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Notaresco",
+        "lat": 42.65,
+        "log": 13.9,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Płońsk",
+                "lat": 52.623333,
+                "log": 20.375278,
+                "stato": "Polonia",
+                "regione": "distretto di Płońsk",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Noto (Italia)",
+        "lat": 36.883333,
+        "log": 15.083333,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Siracusa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pompei",
+                "lat": 40.75,
+                "log": 14.5,
+                "stato": "Italia",
+                "regione": "provincia di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nova Levante",
+        "lat": 46.430234,
+        "log": 11.538951,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nova Milanese",
+        "lat": 45.583333,
+        "log": 9.2,
+        "stato": "Italia",
+        "regione": "provincia di Monza e della Brianza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nova Ponente",
+        "lat": 46.413993,
+        "log": 11.425181,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nova Siri",
+        "lat": 40.15,
+        "log": 16.533333,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novafeltria",
+        "lat": 43.895369,
+        "log": 12.290419,
+        "stato": "Italia",
+        "regione": "provincia di Rimini",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novaledo",
+        "lat": 46.016667,
+        "log": 11.366667,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novalesa",
+        "lat": 45.18964,
+        "log": 7.015498,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Le Monêtier-les-Bains",
+                "lat": 44.983333,
+                "log": 6.516667,
+                "stato": "Francia",
+                "regione": "cantone di Monêtier-les-Bains",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Novara",
+        "lat": 45.45,
+        "log": 8.62,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novara di Sicilia",
+        "lat": 38.016667,
+        "log": 15.133333,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novate Mezzola",
+        "lat": 46.216667,
+        "log": 9.45,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novate Milanese",
+        "lat": 45.533333,
+        "log": 9.133333,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nove (Italia)",
+        "lat": 45.733333,
+        "log": 11.683333,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Welkenraedt",
+                "lat": 50.65,
+                "log": 5.96666667,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Verviers",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Langhirano",
+                "lat": 44.614528,
+                "log": 10.266167,
+                "stato": "Italia",
+                "regione": "provincia di Parma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montelupo Fiorentino",
+                "lat": 43.733333,
+                "log": 11.016667,
+                "stato": "Italia",
+                "regione": "provincia di Firenze",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Carlos Barbosa",
+                "lat": -29.29722222,
+                "log": -51.50138889,
+                "stato": "Brasile",
+                "regione": "Rio Grande do Sul",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Novedrate",
+        "lat": 45.700183,
+        "log": 9.13348,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novella (Italia)",
+        "lat": 46.39122,
+        "log": 11.05843,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novellara",
+        "lat": 44.85,
+        "log": 10.733333,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nový Jičín",
+                "lat": 49.595,
+                "log": 18.01277778,
+                "stato": "Repubblica Ceca",
+                "regione": "Distretto di Nový Jičín",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Neve Shalom",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sancti Spíritus",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Santa Gertrudes",
+                "lat": -22.45638889,
+                "log": -47.53027778,
+                "stato": "Brasile",
+                "regione": "San Paolo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Novello",
+        "lat": 44.583333,
+        "log": 7.933333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Noventa Padovana",
+        "lat": 45.414302,
+        "log": 11.951004,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Noventa Vicentina",
+        "lat": 45.283333,
+        "log": 11.533333,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Asiago",
+                "lat": 45.866667,
+                "log": 11.516667,
+                "stato": "Italia",
+                "regione": "provincia di Vicenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Messina",
+                "lat": null,
+                "log": null,
+                "stato": "Italia",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Noventa di Piave",
+        "lat": 45.666667,
+        "log": 12.533333,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novi Ligure",
+        "lat": 44.759167,
+        "log": 8.785556,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Marignane",
+                "lat": 43.9393,
+                "log": 12.7137,
+                "stato": "Italia",
+                "regione": "provincia di Rimini",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sorbiers",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Elbasan",
+                "lat": 41.113059,
+                "log": 20.08178,
+                "stato": "Albania",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bicester",
+                "lat": 51.75,
+                "log": -1.25,
+                "stato": "Regno Unito",
+                "regione": "Sud Est dell'Inghilterra",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Novi Velia",
+        "lat": 40.216667,
+        "log": 15.283333,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novi di Modena",
+        "lat": 44.89336,
+        "log": 10.90101,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Noviglio",
+        "lat": 45.366667,
+        "log": 9.05,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Novoli",
+        "lat": 40.383333,
+        "log": 18.05,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nucetto",
+        "lat": 44.3413,
+        "log": 8.061389,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nughedu San Nicolò",
+        "lat": 40.556167,
+        "log": 9.02132,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nughedu Santa Vittoria",
+        "lat": 40.101111,
+        "log": 8.951389,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nule",
+        "lat": 40.461667,
+        "log": 9.189167,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nulvi",
+        "lat": 40.783889,
+        "log": 8.743889,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Numana",
+        "lat": 43.5136,
+        "log": 13.621569,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ostra Vetere",
+                "lat": 43.603711,
+                "log": 13.057264,
+                "stato": "Italia",
+                "regione": "provincia di Ancona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bussolengo",
+                "lat": 45.466667,
+                "log": 10.85,
+                "stato": "Italia",
+                "regione": "provincia di Verona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nuoro",
+        "lat": 40.320062,
+        "log": 9.328079,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Corte (Francia){{!}}Corte",
+                "lat": 42.306389,
+                "log": 9.151389,
+                "stato": "Francia",
+                "regione": "Alta Corsica",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tolmezzo",
+                "lat": 46.4,
+                "log": 13.016667,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Udine",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nurachi",
+        "lat": 39.974444,
+        "log": 8.539167,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nuragus",
+        "lat": 39.777433,
+        "log": 9.036706,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nurallao",
+        "lat": 39.791028,
+        "log": 9.080286,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nuraminis",
+        "lat": 39.442291,
+        "log": 9.013252,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nureci",
+        "lat": 39.823287,
+        "log": 8.974736,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nurri",
+        "lat": 39.711281,
+        "log": 9.230404,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nus",
+        "lat": 45.807232,
+        "log": 7.487912,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Marignier",
+                "lat": 46.1,
+                "log": 6.516667,
+                "stato": "Francia",
+                "regione": "Alta Savoia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nusco",
+        "lat": 40.886944,
+        "log": 15.083889,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tricarico",
+                "lat": 40.616667,
+                "log": 16.15,
+                "stato": "Italia",
+                "regione": "provincia di Matera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Nuvolento",
+        "lat": 45.544444,
+        "log": 10.385,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nuvolera",
+        "lat": 45.533333,
+        "log": 10.372222,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Nuxis",
+        "lat": 39.154025,
+        "log": 8.739624,
+        "stato": "Italia",
+        "regione": "provincia di Carbonia-Iglesias",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

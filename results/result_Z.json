@@ -1,0 +1,619 @@
+[
+    {
+        "comune": "Zaccanopoli",
+        "lat": 38.660553,
+        "log": 15.944781,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zafferana Etnea",
+        "lat": 37.683333,
+        "log": 15.1,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nadur",
+                "lat": 35.883333,
+                "log": 14.5,
+                "stato": "Malta",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Zagarise",
+        "lat": 39,
+        "log": 16.666667,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zagarolo",
+        "lat": 41.833333,
+        "log": 12.833333,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nelahozeves",
+                "lat": 50.26166667,
+                "log": 14.30083333,
+                "stato": "Repubblica Ceca",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Six-Fours-les-Plages",
+                "lat": 43.10089,
+                "log": 5.822222,
+                "stato": "Francia",
+                "regione": "cantone di Six-Fours-les-Plages",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Zambrone",
+        "lat": 38.7,
+        "log": 15.983333,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zandobbio",
+        "lat": 45.688333,
+        "log": 9.8525,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zanica",
+        "lat": 45.639444,
+        "log": 9.684167,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zanè",
+        "lat": 45.716667,
+        "log": 11.466667,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zapponeta",
+        "lat": 41.45,
+        "log": 15.966667,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zavattarello",
+        "lat": 44.866667,
+        "log": 9.266667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zeccone",
+        "lat": 45.266667,
+        "log": 9.2,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zeddiani",
+        "lat": 39.989444,
+        "log": 8.595556,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zelbio",
+        "lat": 45.9,
+        "log": 9.183333,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zelo Buon Persico",
+        "lat": 45.413333,
+        "log": 9.433611,
+        "stato": "Italia",
+        "regione": "provincia di Lodi",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zeme",
+        "lat": 45.2,
+        "log": 8.666667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zenevredo",
+        "lat": 45.05,
+        "log": 9.333333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zenson di Piave",
+        "lat": 45.683333,
+        "log": 12.5,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zerba",
+        "lat": 44.66551,
+        "log": 9.28795,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zerbo",
+        "lat": 45.110464,
+        "log": 9.396058,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zerbolò",
+        "lat": 45.2,
+        "log": 9.016667,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zerfaliu",
+        "lat": 39.96,
+        "log": 8.71,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zeri",
+        "lat": 44.35,
+        "log": 9.766667,
+        "stato": "Italia",
+        "regione": "provincia di Massa-Carrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zermeghedo",
+        "lat": 45.476822,
+        "log": 11.375327,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zero Branco",
+        "lat": 45.6,
+        "log": 12.166667,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zevio",
+        "lat": 45.372778,
+        "log": 11.130278,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Arborea",
+                "lat": 39.77276,
+                "log": 8.58129,
+                "stato": "Italia",
+                "regione": "provincia di Oristano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ziano Piacentino",
+        "lat": 45,
+        "log": 9.4,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pont-de-l'Isère",
+                "lat": 45,
+                "log": 4.883333,
+                "stato": "Francia",
+                "regione": "Drôme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ziano di Fiemme",
+        "lat": 46.286445,
+        "log": 11.561278,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zibido San Giacomo",
+        "lat": 45.366667,
+        "log": 9.116667,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zignago",
+        "lat": 44.277611,
+        "log": 9.744633,
+        "stato": "Italia",
+        "regione": "provincia della Spezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zimella",
+        "lat": 45.343627,
+        "log": 11.352305,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zimone",
+        "lat": 45.450762,
+        "log": 8.040143,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zinasco",
+        "lat": 45.133333,
+        "log": 9.05,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zoagli",
+        "lat": 44.336969,
+        "log": 9.267092,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zocca",
+        "lat": 44.347264,
+        "log": 10.990407,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Boa Vista",
+                "lat": 2.82111111,
+                "log": -60.67277778,
+                "stato": "Brasile",
+                "regione": "Roraima",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lumaco",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montesilvano",
+                "lat": 42.51432222,
+                "log": 14.149175,
+                "stato": "Italia",
+                "regione": "provincia di Pescara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Broni",
+                "lat": 45.061944,
+                "log": 9.261111,
+                "stato": "Italia",
+                "regione": "provincia di Pavia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Zogno",
+        "lat": 45.793889,
+        "log": 9.665556,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zola Predosa",
+        "lat": 44.488333,
+        "log": 11.218056,
+        "stato": "Italia",
+        "regione": "provincia di Bologna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zollino",
+        "lat": 40.2,
+        "log": 18.25,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zone",
+        "lat": 45.766667,
+        "log": 10.116667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zoppola",
+        "lat": 45.966667,
+        "log": 12.766667,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Pordenone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tonneins",
+                "lat": 44.383333,
+                "log": 0.316667,
+                "stato": "Francia",
+                "regione": "Lot e Garonna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sankt Georgen am Längsee",
+                "lat": 46.78,
+                "log": 14.431944,
+                "stato": "Austria",
+                "regione": "distretto di Sankt Veit an der Glan",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Zoppè di Cadore",
+        "lat": 46.386667,
+        "log": 12.172778,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zovencedo",
+        "lat": 45.433333,
+        "log": 11.5,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zubiena",
+        "lat": 45.492939,
+        "log": 7.997202,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zuccarello",
+        "lat": 44.111029,
+        "log": 8.115849,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zugliano",
+        "lat": 45.73086,
+        "log": 11.503154,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Agordo",
+                "lat": 46.282222,
+                "log": 12.034444,
+                "stato": "Italia",
+                "regione": "provincia di Belluno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Zuglio",
+        "lat": 46.461796,
+        "log": 13.02604,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zumaglia",
+        "lat": 45.593056,
+        "log": 8.089444,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zumpano",
+        "lat": 39.319283,
+        "log": 16.279152,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zungoli",
+        "lat": 41.126389,
+        "log": 15.204444,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Zungri",
+        "lat": 38.65,
+        "log": 15.983333,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    }
+]
