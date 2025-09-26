@@ -452,7 +452,18 @@
         "regione": "provincia di Bologna",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Timrå (comune){{!}}Timrå",
+                "lat": 62.5,
+                "log": 17.333333,
+                "stato": "Svezia",
+                "regione": "Västernorrland",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Zollino",

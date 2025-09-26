@@ -93,11 +93,11 @@
     },
     {
         "comune": "Vaglio Basilicata",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 40.675147,
+        "log": 15.896061,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -802,7 +802,18 @@
         "regione": "provincia di Lecco",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Saint-Rémy-en-Rollat",
+                "lat": 46.183333,
+                "log": 3.4,
+                "stato": "Francia",
+                "regione": "Allier",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Valgrisenche (comune)",
@@ -1350,7 +1361,68 @@
         "regione": "provincia di Roma",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Benifaió",
+                "lat": 39.2833,
+                "log": -0.4167,
+                "stato": "Spagna",
+                "regione": "Ribera Alta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ovindoli",
+                "lat": 42.138056,
+                "log": 13.516944,
+                "stato": "Italia",
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Weiler-Simmerberg",
+                "lat": 47.583333,
+                "log": 9.933333,
+                "stato": "Germania",
+                "regione": "circondario di Lindau (Bodensee)",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tursi",
+                "lat": 40.25,
+                "log": 16.466667,
+                "stato": "Italia",
+                "regione": "provincia di Matera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fagnano Alto",
+                "lat": 42.254444,
+                "log": 13.575278,
+                "stato": "Italia",
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Goychay",
+                "lat": 41.783333,
+                "log": 12.916667,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Valmorea",
@@ -2720,11 +2792,11 @@
             },
             {
                 "comune": "Qingdao",
-                "lat": 36.66666667,
-                "log": 116.98333333,
-                "stato": "Cina",
-                "regione": "Cina",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -2884,11 +2956,11 @@
     },
     {
         "comune": "Ventotene (comune)",
-        "lat": 40.8,
-        "log": 13.43333333,
-        "stato": "Italia",
-        "regione": "Ventotene",
-        "found_coords": true,
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
         "gemelli": []
     },
@@ -2941,7 +3013,108 @@
         "regione": "provincia del Verbano-Cusio-Ossola",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Bourg-de-Péage",
+                "lat": 45.033333,
+                "log": 5.05,
+                "stato": "Francia",
+                "regione": "Drôme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Betlemme",
+                "lat": 31.70305556,
+                "log": 35.19555556,
+                "stato": "Stato di Palestina",
+                "regione": "Governatorato di Betlemme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cirquenizza",
+                "lat": 45.16666667,
+                "log": 14.68333333,
+                "stato": "Croazia",
+                "regione": "regione litoraneo-montana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "East Grinstead",
+                "lat": 51.128611,
+                "log": -0.014444,
+                "stato": "Regno Unito",
+                "regione": "Mid Sussex",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mindelheim",
+                "lat": 48.04638889,
+                "log": 10.48833333,
+                "stato": "Germania",
+                "regione": "circondario della Bassa Algovia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Piatra Neamț",
+                "lat": 46.9275,
+                "log": 26.370833,
+                "stato": "Romania",
+                "regione": "distretto di Neamț",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sant Feliu de Guíxols",
+                "lat": 41.780556,
+                "log": 3.030556,
+                "stato": "Spagna",
+                "regione": "Baix Empordà",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Schwaz",
+                "lat": 47.35,
+                "log": 11.7,
+                "stato": "Austria",
+                "regione": "distretto di Schwaz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Termeno",
+                "lat": 46.34151,
+                "log": 11.24228,
+                "stato": "Italia",
+                "regione": "provincia autonoma di Bolzano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Spinazzola",
+                "lat": 40.966667,
+                "log": 16.083333,
+                "stato": "Italia",
+                "regione": "provincia di Barletta-Andria-Trani",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Verbicaro",
@@ -2996,8 +3169,8 @@
     },
     {
         "comune": "Vercelli",
-        "lat": 45.325556,
-        "log": 8.423056,
+        "lat": 45.32615,
+        "log": 8.42341,
         "stato": "Italia",
         "regione": "provincia di Vercelli",
         "found_coords": true,
@@ -3326,7 +3499,28 @@
         "regione": "provincia di Frosinone",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Bruck an der Mur",
+                "lat": 47.41666667,
+                "log": 15.26666667,
+                "stato": "Austria",
+                "regione": "distretto di Bruck-Mürzzuschlag",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Spinea",
+                "lat": 45.49306,
+                "log": 12.16056,
+                "stato": "Italia",
+                "regione": "provincia di Venezia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Verona",
@@ -3643,8 +3837,8 @@
         "gemelli": [
             {
                 "comune": "Eichstätt",
-                "lat": 48.85,
-                "log": 11.466667,
+                "lat": 48.804722,
+                "log": 11.291667,
                 "stato": "Germania",
                 "regione": "circondario di Eichstätt",
                 "found_coords": true,
@@ -5221,34 +5415,13 @@
     },
     {
         "comune": "Villa Santa Maria",
-        "lat": 41.083333,
-        "log": 14.25,
+        "lat": 41.95,
+        "log": 14.35,
         "stato": "Italia",
-        "regione": "provincia di Caserta",
+        "regione": "provincia di Chieti",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": [
-            {
-                "comune": "Maratona (Attica)",
-                "lat": 38.15,
-                "log": 23.95,
-                "stato": "Grecia",
-                "regione": "",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Murcia",
-                "lat": 37.983333,
-                "log": -1.133333,
-                "stato": "Spagna",
-                "regione": "regione di Murcia",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            }
-        ]
+        "gemelli": []
     },
     {
         "comune": "Villa Santina",
@@ -5262,10 +5435,10 @@
     },
     {
         "comune": "Villa Santo Stefano",
-        "lat": 41.516667,
-        "log": 13.316667,
+        "lat": 44.547717,
+        "log": 9.450733,
         "stato": "Italia",
-        "regione": "provincia di Frosinone",
+        "regione": "provincia di Genova",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -6221,7 +6394,28 @@
         "regione": "provincia di Cagliari",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Bagnolo Piemonte",
+                "lat": 44.766667,
+                "log": 7.316667,
+                "stato": "Italia",
+                "regione": "provincia di Cuneo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bussoleno",
+                "lat": 45.139271,
+                "log": 7.147717,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Villasor",
@@ -6343,7 +6537,18 @@
         "regione": "Valle d'Aosta",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Aigueblanche",
+                "lat": 45.5,
+                "log": 6.5,
+                "stato": "Francia",
+                "regione": "Savoia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Villesse",
@@ -6781,7 +6986,18 @@
         "regione": "provincia di Macerata",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Recanati",
+                "lat": 43.39855,
+                "log": 13.552531,
+                "stato": "Italia",
+                "regione": "provincia di Macerata",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Vistarino",
@@ -6824,11 +7040,11 @@
         "gemelli": [
             {
                 "comune": "Binghamton",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 41.6536,
+                "log": -74.6906,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Sullivan",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -6854,10 +7070,10 @@
             },
             {
                 "comune": "Springfield (Massachusetts)",
-                "lat": 42.3,
-                "log": -71.8,
+                "lat": 42.10694444,
+                "log": -72.62027778,
                 "stato": "Stati Uniti d’America",
-                "regione": "Stati Uniti d’America",
+                "regione": "contea di Hampden",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -7259,7 +7475,18 @@
         "regione": "provincia del Verbano-Cusio-Ossola",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Lançon-Provence",
+                "lat": 43.583333,
+                "log": 5.133333,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Volano (Italia)",
@@ -7363,11 +7590,11 @@
         "gemelli": [
             {
                 "comune": "Castries",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 14.016667,
+                "log": -60.983333,
+                "stato": "Saint Lucia",
+                "regione": "quartiere di Castries",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -7411,7 +7638,48 @@
         "regione": "provincia di Pisa",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Mende (Francia){{!}}Mende",
+                "lat": 44.516667,
+                "log": 3.5,
+                "stato": "Francia",
+                "regione": "arrondissement di Mende",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Wunsiedel",
+                "lat": 50.037389,
+                "log": 11.999389,
+                "stato": "Germania",
+                "regione": "circondario di Wunsiedel im Fichtelgebirge",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bruchsal",
+                "lat": 49.133333,
+                "log": 8.6,
+                "stato": "Germania",
+                "regione": "circondario di Karlsruhe",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sandomierz",
+                "lat": 50.683333,
+                "log": 21.75,
+                "stato": "Polonia",
+                "regione": "distretto di Sandomierz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Voltido",

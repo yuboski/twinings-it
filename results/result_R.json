@@ -274,10 +274,10 @@
             },
             {
                 "comune": "Asunción",
-                "lat": 11.01666667,
-                "log": -63.85,
-                "stato": "Venezuela",
-                "regione": "Nueva Esparta",
+                "lat": -25.296389,
+                "log": -57.641389,
+                "stato": "Paraguay",
+                "regione": "Distretto Capitale",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -577,11 +577,11 @@
             },
             {
                 "comune": "Chichester",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 50.83652,
+                "log": -0.77918,
+                "stato": "Regno Unito",
+                "regione": "Chichester",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -814,13 +814,34 @@
     },
     {
         "comune": "Recanati",
-        "lat": 43.39855,
-        "log": 13.552531,
+        "lat": 43.429864,
+        "log": 13.664889,
         "stato": "Italia",
         "regione": "provincia di Macerata",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Kronberg im Taunus",
+                "lat": 50.23194444,
+                "log": 8.45722222,
+                "stato": "Germania",
+                "regione": "Assia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mar del Plata",
+                "lat": -34.91666667,
+                "log": -57.95,
+                "stato": "Argentina",
+                "regione": "partido di La Plata",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Recco",
@@ -1369,7 +1390,18 @@
         "regione": "provincia di Milano",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Atella (comune){{!}}Atella",
+                "lat": 40.966667,
+                "log": 14.266667,
+                "stato": "Italia",
+                "regione": "provincia di Caserta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Resia",
@@ -1543,7 +1575,18 @@
         "regione": "Valle d'Aosta",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Solarolo",
+                "lat": 44.366667,
+                "log": 11.85,
+                "stato": "Italia",
+                "regione": "provincia di Ravenna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Rhêmes-Saint-Georges",
@@ -2215,7 +2258,18 @@
         "regione": "provincia di Potenza",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Settimo Torinese",
+                "lat": 45.133333,
+                "log": 7.766667,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Ripa Teatina",
@@ -2228,11 +2282,11 @@
         "gemelli": [
             {
                 "comune": "Brockton",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 42.08333333,
+                "log": -71.01833333,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Plymouth",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -3466,7 +3520,28 @@
         "regione": "provincia di Roma",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Landsberg am Lech",
+                "lat": 48.052769,
+                "log": 10.868931,
+                "stato": "Germania",
+                "regione": "circondario di Landsberg am Lech",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Diamante",
+                "lat": 39.683333,
+                "log": 15.816667,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Roccabascerana",
@@ -3617,7 +3692,18 @@
         "regione": "provincia di Roma",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Dampierre-lès-Conflans",
+                "lat": 47.85,
+                "log": 6.183333,
+                "stato": "Francia",
+                "regione": "cantone di Vauvillers",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Roccagloriosa",
@@ -3745,7 +3831,7 @@
         "lat": 37.8,
         "log": 13.633333,
         "stato": "Italia",
-        "regione": "provincia di Palermo",
+        "regione": "",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -4240,10 +4326,10 @@
         "gemelli": [
             {
                 "comune": "Kürten",
-                "lat": 51.05,
-                "log": 7.26667,
+                "lat": 49.81666667,
+                "log": 7.3,
                 "stato": "Germania",
-                "regione": "Circondario del Reno-Berg",
+                "regione": "circondario di Birkenfeld",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -5446,10 +5532,10 @@
             },
             {
                 "comune": "Musselburgh",
-                "lat": 43.4,
-                "log": 10.466667,
-                "stato": "Italia",
-                "regione": "provincia di Livorno",
+                "lat": 48.816667,
+                "log": 2.516667,
+                "stato": "Francia",
+                "regione": "Valle della Marna",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -5607,7 +5693,28 @@
         "regione": "provincia di Torino",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Bojnice",
+                "lat": 43.95,
+                "log": 22.53333333,
+                "stato": "Bulgaria",
+                "regione": "distretto di Vidin",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Valle d'Istria",
+                "lat": 45.261,
+                "log": 13.904,
+                "stato": "Italia",
+                "regione": "regione istriana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Rosà",
@@ -6006,11 +6113,11 @@
             },
             {
                 "comune": "Bedford",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 52.13333333,
+                "log": -0.45,
+                "stato": "Regno Unito",
+                "regione": "Bedford",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },

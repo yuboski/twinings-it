@@ -1,0 +1,1442 @@
+[
+    {
+        "comune": "Dairago",
+        "lat": 45.57,
+        "log": 8.866389,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dalmine",
+        "lat": 45.65,
+        "log": 9.6,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dambel",
+        "lat": 46.4,
+        "log": 11.1,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Danta di Cadore",
+        "lat": 46.566029,
+        "log": 12.517302,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Darfo Boario Terme",
+        "lat": 45.894444,
+        "log": 10.186667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dasà",
+        "lat": 38.56642,
+        "log": 16.18048,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Davagna",
+        "lat": 44.466936,
+        "log": 9.089864,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Daverio",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Davoli",
+        "lat": 38.65,
+        "log": 16.483333,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dazio (Italia)",
+        "lat": 46.16129,
+        "log": 9.60064,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Decimomannu",
+        "lat": 39.311191,
+        "log": 8.970337,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Decimoputzu",
+        "lat": 39.33536,
+        "log": 8.91489,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Decollatura",
+        "lat": 39.05,
+        "log": 16.35,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Danbury",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dego",
+        "lat": 44.449319,
+        "log": 8.310983,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Deiva Marina",
+        "lat": 44.21870833,
+        "log": 9.52069167,
+        "stato": "Italia",
+        "regione": "provincia della Spezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Delebio",
+        "lat": 46.133333,
+        "log": 9.466667,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Delia (Italia)",
+        "lat": 37.35,
+        "log": 13.933333,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Caltanissetta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Vaughan",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Delianuova",
+        "lat": 38.233333,
+        "log": 15.916667,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Deliceto",
+        "lat": 41.216667,
+        "log": 15.383333,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dello",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Demonte",
+        "lat": 44.316667,
+        "log": 7.3,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Denice",
+        "lat": 44.599722,
+        "log": 8.334167,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Denno",
+        "lat": 46.283333,
+        "log": 11.05,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dernice",
+        "lat": 44.7675,
+        "log": 9.051389,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Derovere",
+        "lat": 45.110833,
+        "log": 10.248889,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Deruta",
+        "lat": 42.983333,
+        "log": 12.416667,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dervio",
+        "lat": 46.076389,
+        "log": 9.306667,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Desana",
+        "lat": 45.266667,
+        "log": 8.35,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Desenzano del Garda",
+        "lat": 45.468889,
+        "log": 10.535,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Amberg",
+                "lat": 48.066667,
+                "log": 10.683333,
+                "stato": "Germania",
+                "regione": "circondario della Bassa Algovia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Antibes Juan-les-Pins",
+                "lat": 43.571111,
+                "log": 7.109444,
+                "stato": "Francia",
+                "regione": "arrondissement di Grasse",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sal (Capo Verde){{!}}Isola di Sal",
+                "lat": 15.3,
+                "log": -23.7,
+                "stato": "Capo Verde",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Wiener Neustadt",
+                "lat": 47.816667,
+                "log": 16.25,
+                "stato": "Austria",
+                "regione": "Bassa Austria",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Desio",
+        "lat": 45.616667,
+        "log": 9.216667,
+        "stato": "Italia",
+        "regione": "provincia di Monza e della Brianza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Desulo",
+        "lat": 40.00796,
+        "log": 9.224997,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Montecchia di Crosara",
+                "lat": 45.483333,
+                "log": 11.25,
+                "stato": "Italia",
+                "regione": "provincia di Verona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Diamante (Italia)",
+        "lat": 39.683333,
+        "log": 15.816667,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nucșoara",
+                "lat": 45.33333333,
+                "log": 24.78333333,
+                "stato": "Romania",
+                "regione": "distretto di Argeș",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rocca di Papa",
+                "lat": 41.76197,
+                "log": 12.706867,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Satriano di Lucania",
+                "lat": 40.545,
+                "log": 15.639167,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Diano Arentino",
+        "lat": 43.948631,
+        "log": 8.042253,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Diano Castello",
+        "lat": 43.924042,
+        "log": 8.06695,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Diano Marina",
+        "lat": 43.909931,
+        "log": 8.082025,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Diano d'Alba",
+                "lat": 44.65,
+                "log": 8.033333,
+                "stato": "Italia",
+                "regione": "provincia di Cuneo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Granadilla de Abona",
+                "lat": 28.1167,
+                "log": -16.5667,
+                "stato": "Spagna",
+                "regione": "Tenerife",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Diano San Pietro",
+        "lat": 43.93095,
+        "log": 8.068692,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Diano d'Alba",
+        "lat": 44.65,
+        "log": 8.033333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Diano Marina",
+                "lat": 43.909931,
+                "log": 8.082025,
+                "stato": "Italia",
+                "regione": "provincia di Imperia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Néoules",
+                "lat": 43.3,
+                "log": 6.016667,
+                "stato": "Francia",
+                "regione": "Cantone di La Roquebrussanne",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dolegna del Collio",
+                "lat": 46.033333,
+                "log": 13.483333,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Gorizia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dicomano",
+        "lat": 43.9,
+        "log": 11.533333,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Groß-Umstadt",
+                "lat": 49.868398,
+                "log": 8.928994,
+                "stato": "Germania",
+                "regione": "circondario di Darmstadt-Dieburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dignano (Italia)",
+        "lat": 46.083333,
+        "log": 12.933333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dimaro Folgarida",
+        "lat": 46.325938,
+        "log": 10.874379,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dinami",
+        "lat": 38.533333,
+        "log": 16.15,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dipignano",
+        "lat": 39.233333,
+        "log": 16.25,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Diso",
+        "lat": 40.016667,
+        "log": 18.4,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Divignano",
+        "lat": 45.666667,
+        "log": 8.6,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dizzasco",
+        "lat": 45.943782,
+        "log": 9.099736,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dobbiaco",
+        "lat": 46.735375,
+        "log": 12.22227778,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Doberdò del Lago",
+        "lat": 45.85,
+        "log": 13.533333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Gorizia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bled",
+                "lat": 46.366667,
+                "log": 14.116667,
+                "stato": "Slovenia",
+                "regione": "Slovenia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Prevacina",
+                "lat": 45.8905,
+                "log": 13.7211,
+                "stato": "Slovenia",
+                "regione": "Comune di Nova Gorica",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dogliani",
+        "lat": 44.533333,
+        "log": 7.95,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Jarnac",
+                "lat": 45.683333,
+                "log": -0.166667,
+                "stato": "Francia",
+                "regione": "Charente",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lautertal",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dogliola",
+        "lat": 41.95,
+        "log": 14.633333,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dogna",
+        "lat": 46.447931,
+        "log": 13.315019,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dolceacqua",
+        "lat": 43.847978,
+        "log": 7.623817,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Principato di Monaco{{!}}Monaco",
+                "lat": 43.731111,
+                "log": 7.42,
+                "stato": "Monaco",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gorbio",
+                "lat": 43.783333,
+                "log": 7.45,
+                "stato": "Francia",
+                "regione": "cantone di Menton-Ouest",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Alpicat",
+                "lat": 41.668056,
+                "log": 0.556111,
+                "stato": "Spagna",
+                "regione": "Segrià",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nekrasovosky",
+                "lat": 43.847978,
+                "log": 7.623817,
+                "stato": "Italia",
+                "regione": "provincia di Imperia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dolcedo",
+        "lat": 43.906889,
+        "log": 7.951608,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dolcè",
+        "lat": 45.6,
+        "log": 10.85,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Undenheim",
+                "lat": 49.83333333,
+                "log": 8.21666667,
+                "stato": "Germania",
+                "regione": "Verbandsgemeinde Rhein-Selz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dolegna del Collio",
+        "lat": 46.033333,
+        "log": 13.483333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Gorizia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dolianova",
+        "lat": 39.378497,
+        "log": 9.178391,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dolo (Italia)",
+        "lat": 45.42488,
+        "log": 12.07581,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dolzago",
+        "lat": 45.766667,
+        "log": 9.333333,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Domanico",
+        "lat": 39.216667,
+        "log": 16.2,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Domaso",
+        "lat": 46.15,
+        "log": 9.333333,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Domegge di Cadore",
+        "lat": 46.460376,
+        "log": 12.415825,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Domicella",
+        "lat": 40.881111,
+        "log": 14.588611,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Domodossola",
+        "lat": 46.116111,
+        "log": 8.291111,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Briga-Glis",
+                "lat": 46.31611111,
+                "log": 7.98722222,
+                "stato": "Svizzera",
+                "regione": "distretto di Briga",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Busto Arsizio",
+                "lat": 45.611958,
+                "log": 8.8518,
+                "stato": "Italia",
+                "regione": "provincia di Varese",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Domus de Maria",
+        "lat": 38.943556,
+        "log": 8.862877,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Domusnovas",
+        "lat": 39.321111,
+        "log": 8.653056,
+        "stato": "Italia",
+        "regione": "provincia di Carbonia-Iglesias",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Donato (Italia)",
+        "lat": 45.5282,
+        "log": 7.9078,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dongo",
+        "lat": 46.12999,
+        "log": 9.28169,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Arromanches-les-Bains",
+                "lat": 49.333333,
+                "log": -0.616667,
+                "stato": "Francia",
+                "regione": "cantone di Ryes",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Donnas",
+        "lat": 45.6,
+        "log": 7.766667,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pianella",
+                "lat": 42.4,
+                "log": 14.05,
+                "stato": "Italia",
+                "regione": "provincia di Pescara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rocchetta Tanaro",
+                "lat": 44.859444,
+                "log": 8.344167,
+                "stato": "Italia",
+                "regione": "provincia di Asti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Donori",
+        "lat": 39.431718,
+        "log": 9.126678,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dorgali",
+        "lat": 40.291573,
+        "log": 9.587631,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dorio",
+        "lat": 46.1,
+        "log": 9.316667,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dormelletto",
+        "lat": 45.733333,
+        "log": 8.566667,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dorno",
+        "lat": 45.15,
+        "log": 8.95,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dorzano",
+        "lat": 45.426946,
+        "log": 8.119398,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dosolo",
+        "lat": 44.95,
+        "log": 10.633333,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dossena (Italia)",
+        "lat": 45.883333,
+        "log": 9.7,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dosso del Liro",
+        "lat": 46.166667,
+        "log": 9.266667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Doues",
+        "lat": 45.816667,
+        "log": 7.3,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dovadola",
+        "lat": 44.116667,
+        "log": 11.883333,
+        "stato": "Italia",
+        "regione": "provincia di Forlì-Cesena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dovera",
+        "lat": 45.366667,
+        "log": 9.533333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dozza",
+        "lat": 44.358987,
+        "log": 11.62769,
+        "stato": "Italia",
+        "regione": "provincia di Bologna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Oliveto Citra",
+                "lat": 40.689444,
+                "log": 15.231111,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Castello Tesino",
+                "lat": 46.06343,
+                "log": 11.63331,
+                "stato": "Italia",
+                "regione": "provincia autonoma di Trento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Calvisson",
+                "lat": 43.783333,
+                "log": 4.183333,
+                "stato": "Francia",
+                "regione": "cantone di Sommières",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dragoni (Italia)",
+        "lat": 41.266667,
+        "log": 14.3,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Drapia",
+        "lat": 38.666667,
+        "log": 15.916667,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Drena",
+        "lat": 45.966667,
+        "log": 10.95,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Drenchia",
+        "lat": 46.183889,
+        "log": 13.636389,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dresano",
+        "lat": 45.366667,
+        "log": 9.366667,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dro",
+        "lat": 45.966667,
+        "log": 10.916667,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Szikszó",
+                "lat": 48.195,
+                "log": 20.946111,
+                "stato": "Ungheria",
+                "regione": "Distretto di Szikszó",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dronero",
+        "lat": 44.466667,
+        "log": 7.366667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Castelnuovo di Garfagnana",
+                "lat": 44.121944,
+                "log": 10.405556,
+                "stato": "Italia",
+                "regione": "provincia di Lucca",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Druento",
+        "lat": 45.134748,
+        "log": 7.576618,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Druogno",
+        "lat": 46.134722,
+        "log": 8.433056,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dualchi",
+        "lat": 40.230037,
+        "log": 8.898411,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dubino",
+        "lat": 46.15,
+        "log": 9.45,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Due Carrare",
+        "lat": 45.283333,
+        "log": 11.833333,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dueville",
+        "lat": 45.633333,
+        "log": 11.55,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Calatayud",
+                "lat": 41.35,
+                "log": -1.633333,
+                "stato": "Spagna",
+                "regione": "provincia di Saragozza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Schorndorf",
+                "lat": 48.8,
+                "log": 9.533333,
+                "stato": "Germania",
+                "regione": "circondario del Rems-Murr",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tulle",
+                "lat": 45.266667,
+                "log": 1.766667,
+                "stato": "Francia",
+                "regione": "cantone di Tulle-Urbain-Nord",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lousada",
+                "lat": 41.283333,
+                "log": -8.283333,
+                "stato": "Portogallo",
+                "regione": "Porto",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dugenta",
+        "lat": 41.133333,
+        "log": 14.45,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Duino-Aurisina",
+        "lat": 45.770371,
+        "log": 13.648628,
+        "stato": "Italia",
+        "regione": "Principesca Contea di Gorizia e Gradisca",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Buje",
+                "lat": 45.4,
+                "log": 13.65,
+                "stato": "Croazia",
+                "regione": "regione istriana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ilirska Bistrica",
+                "lat": 45.565132,
+                "log": 14.24926,
+                "stato": "Slovenia",
+                "regione": "Comune di Bisterza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Dumenza",
+        "lat": 46.016667,
+        "log": 8.783333,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Duno",
+        "lat": 45.9141,
+        "log": 8.7373,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Durazzano",
+        "lat": 41.06286,
+        "log": 14.44947,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Duronia",
+        "lat": 41.666667,
+        "log": 14.466667,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Dusino San Michele",
+        "lat": 44.91982,
+        "log": 7.9732,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Discussioni template:Comuni d'Italia",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

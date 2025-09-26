@@ -386,11 +386,11 @@
             },
             {
                 "comune": "Rabat",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 34.025278,
+                "log": -6.836111,
+                "stato": "Marocco",
+                "regione": "prefettura di Rabat",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -708,7 +708,38 @@
         "regione": "provincia di Salerno",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "San Mauro Pascoli",
+                "lat": 44.1,
+                "log": 12.416667,
+                "stato": "Italia",
+                "regione": "provincia di Forlì-Cesena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Toledo",
+                "lat": 39.866665,
+                "log": -4.033333,
+                "stato": "Spagna",
+                "regione": "provincia di Toledo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lobos",
+                "lat": 32.65,
+                "log": -16.966667,
+                "stato": "Portogallo",
+                "regione": "Madera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Teglio",
@@ -946,6 +977,16 @@
                 "lat": null,
                 "log": null,
                 "stato": "Germania",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rishon LeZion",
+                "lat": null,
+                "log": null,
+                "stato": "",
                 "regione": "",
                 "found_coords": false,
                 "found_claims": true,
@@ -1460,11 +1501,11 @@
             },
             {
                 "comune": "Sergiev Posad",
-                "lat": 48.883333,
-                "log": 2.2,
-                "stato": "Francia",
-                "regione": "Hauts-de-Seine",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -2342,11 +2383,11 @@
             },
             {
                 "comune": "Sankt Florian",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 48.21666667,
+                "log": 14.38333333,
+                "stato": "Austria",
+                "regione": "distretto di Linz-Land",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -3101,11 +3142,11 @@
     },
     {
         "comune": "Torre San Giorgio",
-        "lat": 40.833333,
-        "log": 14.333333,
-        "stato": "Italia",
-        "regione": "provincia di Napoli",
-        "found_coords": true,
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
         "gemelli": []
     },
@@ -4146,7 +4187,18 @@
         "regione": "provincia di Carbonia-Iglesias",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Fumane",
+                "lat": 45.543167,
+                "log": 10.881778,
+                "stato": "Italia",
+                "regione": "provincia di Verona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Travacò Siccomario",
@@ -4299,7 +4351,18 @@
         "regione": "provincia di Cosenza",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Villa María",
+                "lat": 41.083333,
+                "log": 14.25,
+                "stato": "Italia",
+                "regione": "provincia di Caserta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Trecase",
@@ -4585,7 +4648,28 @@
         "regione": "ente di decentramento regionale di Udine",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Scheggia e Pascelupo",
+                "lat": 43.403889,
+                "log": 12.666111,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Strassburg",
+                "lat": 46.895556,
+                "log": 14.330833,
+                "stato": "Austria",
+                "regione": "distretto di Sankt Veit an der Glan",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Treppo Ligosullo",
@@ -4971,7 +5055,18 @@
         "regione": "provincia di Milano",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Cevo",
+                "lat": 46.082222,
+                "log": 10.369444,
+                "stato": "Italia",
+                "regione": "provincia di Brescia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Trezzone",
@@ -5176,11 +5271,11 @@
             },
             {
                 "comune": "Southampton",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 50.89694444,
+                "log": -1.40416667,
+                "stato": "Regno Unito",
+                "regione": "Città di Southampton",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -5220,6 +5315,16 @@
                 "log": 9.19,
                 "stato": "Italia",
                 "regione": "provincia di Milano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fiume (Croazia){{!}}Fiume",
+                "lat": 45.333333,
+                "log": 14.433333,
+                "stato": "Croazia",
+                "regione": "regione litoraneo-montana",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -5723,7 +5828,18 @@
         "regione": "provincia di Lecce",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Villaverla",
+                "lat": 45.65,
+                "log": 11.5,
+                "stato": "Italia",
+                "regione": "provincia di Vicenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Tuili",

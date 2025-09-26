@@ -27,7 +27,58 @@
         "regione": "provincia di Pesaro e Urbino",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Ötigheim",
+                "lat": 48.891111,
+                "log": 8.236389,
+                "stato": "Germania",
+                "regione": "circondario di Rastatt",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bruxelles",
+                "lat": 50.846667,
+                "log": 4.351667,
+                "stato": "Belgio",
+                "regione": "arrondissement di Bruxelles-Capitale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Eguisheim",
+                "lat": 48.05,
+                "log": 7.3,
+                "stato": "Francia",
+                "regione": "Alto Reno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Guastalla",
+                "lat": 44.921389,
+                "log": 10.654167,
+                "stato": "Italia",
+                "regione": "provincia di Reggio Emilia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nocera Umbra",
+                "lat": 43.116667,
+                "log": 12.783333,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Gaby",
@@ -405,7 +456,28 @@
         "regione": "provincia di Lecce",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Novi Grad",
+                "lat": 45.03333333,
+                "log": 16.38,
+                "stato": "Bosnia ed Erzegovina",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sapes",
+                "lat": 41.033333,
+                "log": 25.7,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Galatone",
@@ -470,7 +542,7 @@
                 "comune": "Mascate",
                 "lat": null,
                 "log": null,
-                "stato": "Oman",
+                "stato": "",
                 "regione": "",
                 "found_coords": false,
                 "found_claims": true,
@@ -496,7 +568,18 @@
         "regione": "provincia di Lecco",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "La Londe-les-Maures",
+                "lat": 43.133333,
+                "log": 6.233333,
+                "stato": "Francia",
+                "regione": "Var",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Galeata",
@@ -550,10 +633,10 @@
     },
     {
         "comune": "Galliate Lombardo",
-        "lat": 45.783333,
-        "log": 8.766667,
+        "lat": 45.483333,
+        "log": 8.7,
         "stato": "Italia",
-        "regione": "provincia di Varese",
+        "regione": "provincia di Novara",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -1267,7 +1350,18 @@
         "regione": "provincia di Vercelli",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Montbard",
+                "lat": 47.616667,
+                "log": 4.333333,
+                "stato": "Francia",
+                "regione": "Côte-d’Or",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Gavardo",
@@ -1633,7 +1727,18 @@
         "regione": "provincia di Cuneo",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Marcos Juárez",
+                "lat": -32.7,
+                "log": -62.1,
+                "stato": "Argentina",
+                "regione": "Dipartimento di Marcos Juárez",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Genoni",
@@ -1804,7 +1909,48 @@
         "regione": "provincia di Roma",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Châtillon",
+                "lat": 45.75,
+                "log": 7.616667,
+                "stato": "Italia",
+                "regione": "Valle d'Aosta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Merseburg",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mokotów",
+                "lat": 52.2323,
+                "log": 21.00843333,
+                "stato": "Polonia",
+                "regione": "Varsavia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Aubière",
+                "lat": 45.75,
+                "log": 3.116667,
+                "stato": "Francia",
+                "regione": "Puy-de-Dôme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Gera Lario",
@@ -2433,7 +2579,18 @@
         "regione": "Valle d'Aosta",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Pontlevoy",
+                "lat": 47.383333,
+                "log": 1.25,
+                "stato": "Francia",
+                "regione": "Loir-et-Cher",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Gildone (Italia)",
@@ -2619,11 +2776,11 @@
             },
             {
                 "comune": "Leichhardt",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 41.183333,
+                "log": 16.666667,
+                "stato": "Italia",
+                "regione": "provincia di Bari",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -2631,10 +2788,10 @@
     },
     {
         "comune": "Giovo",
-        "lat": 46.159444,
-        "log": 11.1425,
+        "lat": 46.155833,
+        "log": 11.152778,
         "stato": "Italia",
-        "regione": "Giovo",
+        "regione": "provincia autonoma di Trento",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -3012,7 +3169,18 @@
         "regione": "provincia di Carbonia-Iglesias",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Collio",
+                "lat": 45.81111111,
+                "log": 10.33333333,
+                "stato": "Italia",
+                "regione": "provincia di Brescia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Gonnoscodina",
@@ -4370,7 +4538,88 @@
         "regione": "provincia di Grosseto",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Birchircara",
+                "lat": 35.883333,
+                "log": 14.5,
+                "stato": "Malta",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cottbus",
+                "lat": 51.760806,
+                "log": 14.331861,
+                "stato": "Germania",
+                "regione": "Brandeburgo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dimitrovgrad (Bulgaria){{!}}Dimitrovgrad",
+                "lat": 42.05,
+                "log": 25.6,
+                "stato": "Bulgaria",
+                "regione": "distretto di Haskovo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Şımkent",
+                "lat": 48,
+                "log": 68,
+                "stato": "Kazakistan",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kashiwara",
+                "lat": 42.772222,
+                "log": 11.108889,
+                "stato": "Italia",
+                "regione": "provincia di Grosseto",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montreuil (Senna-Saint-Denis){{!}}Montreuil",
+                "lat": 48.866667,
+                "log": 2.433333,
+                "stato": "Francia",
+                "regione": "Senna-Saint-Denis",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Narbona",
+                "lat": 43.183333,
+                "log": 3,
+                "stato": "Francia",
+                "regione": "arrondissement di Narbonne",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Saintes-Maries-de-la-Mer",
+                "lat": 43.45,
+                "log": 4.433333,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Grosso (Italia)",
@@ -4391,6 +4640,96 @@
         "found_coords": true,
         "found_claims": true,
         "gemelli": [
+            {
+                "comune": "Vandœuvre-lès-Nancy",
+                "lat": 48.65,
+                "log": 6.183333,
+                "stato": "Francia",
+                "regione": "cantone di Vandœuvre-lès-Nancy-Est",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Patmos",
+                "lat": 37.31666667,
+                "log": 26.53333333,
+                "stato": "Grecia",
+                "regione": "Dodecaneso",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bisignano",
+                "lat": 39.50727,
+                "log": 16.28106,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bracigliano",
+                "lat": 40.8226,
+                "log": 14.7057,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Oria",
+                "lat": 40.5,
+                "log": 17.633333,
+                "stato": "Italia",
+                "regione": "provincia di Brindisi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rofrano",
+                "lat": 40.216667,
+                "log": 15.433333,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rossano",
+                "lat": 39.583796,
+                "log": 16.576481,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sant'Elia Fiumerapido",
+                "lat": 41.55,
+                "log": 13.866667,
+                "stato": "Italia",
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Mauro La Bruca",
+                "lat": 40.116667,
+                "log": 15.283333,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
             {
                 "comune": "Pozzuolo del Friuli",
                 "lat": 45.968056,
@@ -4799,10 +5138,10 @@
             },
             {
                 "comune": "Krosno",
-                "lat": 49.566667,
-                "log": 21.683333,
+                "lat": 50.033611,
+                "log": 22.004722,
                 "stato": "Polonia",
-                "regione": "distretto di Krosno",
+                "regione": "Polonia",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -4958,7 +5297,18 @@
         "regione": "provincia di Cosenza",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Bobbio Pellice",
+                "lat": 44.807952,
+                "log": 7.116765,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Guardia Sanframondi",

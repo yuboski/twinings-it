@@ -1,0 +1,6404 @@
+[
+    {
+        "comune": "Rabbi (comune)",
+        "lat": 46.4,
+        "log": 10.85,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Racale",
+        "lat": 39.966667,
+        "log": 18.1,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Racalmuto",
+        "lat": 37.408333,
+        "log": 13.734722,
+        "stato": "Italia",
+        "regione": "provincia di Agrigento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Hamilton",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Castronovo di Sicilia",
+                "lat": 37.666667,
+                "log": 13.6,
+                "stato": "Italia",
+                "regione": "provincia di Palermo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Finale Ligure",
+                "lat": 44.169072,
+                "log": 8.343536,
+                "stato": "Italia",
+                "regione": "provincia di Savona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Opole Lubelskie",
+                "lat": 51.15,
+                "log": 21.966667,
+                "stato": "Polonia",
+                "regione": "distretto di Opole Lubelskie",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Racconigi",
+        "lat": 44.766667,
+        "log": 7.683333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bonneville",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cascais",
+                "lat": 38.68333333,
+                "log": -9.41666667,
+                "stato": "Portogallo",
+                "regione": "distretto di Lisbona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Raccuja",
+        "lat": 38.055586,
+        "log": 14.910608,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Racines (Italia)",
+        "lat": 46.880128,
+        "log": 11.376056,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Radda in Chianti",
+        "lat": 43.483333,
+        "log": 11.383333,
+        "stato": "Italia",
+        "regione": "provincia di Siena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Brice (Charente){{!}}Saint Brice",
+                "lat": 45.683333,
+                "log": -0.283333,
+                "stato": "Francia",
+                "regione": "cantone di Cognac-Nord",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Raddusa",
+        "lat": 37.466667,
+        "log": 14.533333,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Radicofani",
+        "lat": 42.9,
+        "log": 11.766667,
+        "stato": "Italia",
+        "regione": "provincia di Siena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Radicondoli",
+        "lat": 43.266667,
+        "log": 11.05,
+        "stato": "Italia",
+        "regione": "provincia di Siena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Raffadali",
+        "lat": 37.404722,
+        "log": 13.533889,
+        "stato": "Italia",
+        "regione": "provincia di Agrigento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ragalna",
+        "lat": 37.633333,
+        "log": 14.933333,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ragogna",
+        "lat": 46.173522,
+        "log": 12.98242,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Weitensfeld im Gurktal",
+                "lat": 46.848611,
+                "log": 14.191667,
+                "stato": "Austria",
+                "regione": "distretto di Sankt Veit an der Glan",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sainte-Bazeille",
+                "lat": 44.533333,
+                "log": 0.1,
+                "stato": "Francia",
+                "regione": "cantone di Marmande-Ouest",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ragusa",
+        "lat": 36.925,
+        "log": 14.730556,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Ragusa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ragusa (Croazia){{!}}Ragusa di Dalmazia",
+                "lat": 42.640278,
+                "log": 18.108333,
+                "stato": "Croazia",
+                "regione": "regione raguseo-narentana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rădăuți (Suceava){{!}}Rădăuți",
+                "lat": 47.85,
+                "log": 25.91666667,
+                "stato": "Romania",
+                "regione": "distretto di Suceava",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mosta",
+                "lat": 35.90963056,
+                "log": 14.4302,
+                "stato": "Malta",
+                "regione": "Regione Settentrionale (Malta)",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Little Rock",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Asunción",
+                "lat": 11.01666667,
+                "log": -63.85,
+                "stato": "Venezuela",
+                "regione": "Nueva Esparta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Oise{{!}}Dipartimento dell'Oise",
+                "lat": 49.430278,
+                "log": 2.0952,
+                "stato": "Francia",
+                "regione": "Alta Francia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Milano",
+                "lat": 45.466944,
+                "log": 9.19,
+                "stato": "Italia",
+                "regione": "provincia di Milano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tours",
+                "lat": 47.383333,
+                "log": 0.683333,
+                "stato": "Francia",
+                "regione": "Indre e Loira",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Raiano",
+        "lat": 42.103333,
+        "log": 13.815556,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Montebello di Bertona",
+                "lat": 42.416667,
+                "log": 13.866667,
+                "stato": "Italia",
+                "regione": "provincia di Pescara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ramacca",
+        "lat": 37.383333,
+        "log": 14.7,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rancio Valcuvia",
+        "lat": 45.916368,
+        "log": 8.770257,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ranco",
+        "lat": 45.8,
+        "log": 8.566667,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Randazzo",
+        "lat": 37.87736,
+        "log": 14.95012,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Monte Cerignone",
+                "lat": 43.841111,
+                "log": 12.412778,
+                "stato": "Italia",
+                "regione": "provincia di Pesaro e Urbino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Brisbane",
+                "lat": -27.46885,
+                "log": 153.023602,
+                "stato": "Australia",
+                "regione": "Queensland",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ranica",
+        "lat": 45.733333,
+        "log": 9.716667,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ranzanico",
+        "lat": 45.783333,
+        "log": 9.933333,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ranzo",
+        "lat": 44.059419,
+        "log": 8.014611,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rapagnano",
+        "lat": 43.161111,
+        "log": 13.592911,
+        "stato": "Italia",
+        "regione": "provincia di Fermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rapallo",
+        "lat": 44.35,
+        "log": 9.233333,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rapino (Italia)",
+        "lat": 42.211033,
+        "log": 14.187358,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rapolano Terme",
+        "lat": 43.283333,
+        "log": 11.6,
+        "stato": "Italia",
+        "regione": "provincia di Siena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rapolla",
+        "lat": 40.98867,
+        "log": 15.695882,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rapone",
+        "lat": 40.85,
+        "log": 15.5,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rassa",
+        "lat": 45.766667,
+        "log": 8.016667,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rasun-Anterselva",
+        "lat": 46.781894,
+        "log": 12.048894,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rasura",
+        "lat": 46.1,
+        "log": 9.55,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ravanusa",
+        "lat": 37.267778,
+        "log": 13.969722,
+        "stato": "Italia",
+        "regione": "provincia di Agrigento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ravarino",
+        "lat": 44.716667,
+        "log": 11.1,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ravascletto",
+        "lat": 46.522936,
+        "log": 12.922115,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ravello",
+        "lat": 40.65,
+        "log": 14.616667,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ravenna",
+        "lat": 44.416111,
+        "log": 12.201667,
+        "stato": "Italia",
+        "regione": "provincia di Ravenna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Chartres",
+                "lat": 48.45,
+                "log": 1.5,
+                "stato": "Francia",
+                "regione": "arrondissement di Chartres",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Chichester",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ragusa (Croazia){{!}}Ragusa",
+                "lat": 42.640278,
+                "log": 18.108333,
+                "stato": "Croazia",
+                "regione": "regione raguseo-narentana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Spira (Germania){{!}}Spira",
+                "lat": 49.316555,
+                "log": 8.433615,
+                "stato": "Germania",
+                "regione": "Renania-Palatinato",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Szekszárd",
+                "lat": 46.355833,
+                "log": 18.703889,
+                "stato": "Ungheria",
+                "regione": "Distretto di Szekszárd",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tønsberg",
+                "lat": 59.298056,
+                "log": 10.423611,
+                "stato": "Norvegia",
+                "regione": "Vestfold",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Laguna (Brasile)",
+                "lat": -28.48333333,
+                "log": -48.78111111,
+                "stato": "Brasile",
+                "regione": "Santa Catarina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Raveo",
+        "lat": 46.434428,
+        "log": 12.871113,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Raviscanina",
+        "lat": 41.366667,
+        "log": 14.25,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Castellammare di Stabia",
+                "lat": 40.694722,
+                "log": 14.480278,
+                "stato": "Italia",
+                "regione": "provincia di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Re (Italia)",
+        "lat": 46.130556,
+        "log": 8.544167,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Togliatti",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Soriso",
+                "lat": 45.741111,
+                "log": 8.410556,
+                "stato": "Italia",
+                "regione": "provincia di Novara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rea (Italia)",
+        "lat": 45.116667,
+        "log": 9.15,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Realmonte",
+        "lat": 37.310278,
+        "log": 13.462778,
+        "stato": "Italia",
+        "regione": "provincia di Agrigento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Hornaing",
+                "lat": 50.366667,
+                "log": 3.333333,
+                "stato": "Francia",
+                "regione": "cantone di Marchiennes",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Perm'",
+                "lat": null,
+                "log": null,
+                "stato": "Unione Sovietica",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Eppelborn'",
+                "lat": 49.4022,
+                "log": 6.9706,
+                "stato": "Germania",
+                "regione": "circondario di Neunkirchen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Reana del Rojale",
+        "lat": 46.15,
+        "log": 13.233333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Križevci",
+                "lat": 46.033333,
+                "log": 16.533333,
+                "stato": "Croazia",
+                "regione": "regione di Koprivnica e Križevci",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Salagnon",
+                "lat": 45.666667,
+                "log": 5.35,
+                "stato": "Francia",
+                "regione": "cantone di Bourgoin-Jallieu-Nord",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Reano",
+        "lat": 45.052056,
+        "log": 7.430403,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Recale",
+        "lat": 41.05,
+        "log": 14.3,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bovino",
+                "lat": 41.25,
+                "log": 15.35,
+                "stato": "Italia",
+                "regione": "provincia di Foggia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Recanati",
+        "lat": 43.39855,
+        "log": 13.552531,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Recco",
+        "lat": 44.362089,
+        "log": 9.143475,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ponte di Legno",
+                "lat": 46.259444,
+                "log": 10.509444,
+                "stato": "Italia",
+                "regione": "provincia di Brescia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Recetto",
+        "lat": 45.466667,
+        "log": 8.433333,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Recoaro Terme",
+        "lat": 45.7,
+        "log": 11.233333,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Neustadt an der Donau",
+                "lat": 48.8,
+                "log": 11.766667,
+                "stato": "Germania",
+                "regione": "circondario di Kelheim",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Colonia Carolina",
+                "lat": 34.000556,
+                "log": -81.044167,
+                "stato": "Stati Uniti d’America",
+                "regione": "Stati Uniti d’America",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Redavalle",
+        "lat": 45.047777,
+        "log": 9.20711,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Vaux-en-Bugey",
+                "lat": 45.916667,
+                "log": 5.35,
+                "stato": "Francia",
+                "regione": "Ain",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Redondesco",
+        "lat": 45.166667,
+        "log": 10.516667,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Refrancore",
+        "lat": 44.937222,
+        "log": 8.341944,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Refrontolo",
+        "lat": 45.916667,
+        "log": 12.2,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Regalbuto",
+        "lat": 37.65,
+        "log": 14.633333,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Enna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Reggello",
+        "lat": 43.683333,
+        "log": 11.533333,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Reggio Calabria",
+        "lat": 38.114439,
+        "log": 15.65,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Atene",
+                "lat": 37.96666667,
+                "log": 23.71666667,
+                "stato": "Grecia",
+                "regione": "comune di Atene",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Calcide",
+                "lat": 38.4625,
+                "log": 23.595,
+                "stato": "Grecia",
+                "regione": "Eubea",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Diego",
+                "lat": 32.715,
+                "log": -117.1625,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di San Diego",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Egaleo",
+                "lat": 37.9902,
+                "log": 23.68,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Patrasso",
+                "lat": 38.25,
+                "log": 21.733333,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montesilvano",
+                "lat": 42.51432222,
+                "log": 14.149175,
+                "stato": "Italia",
+                "regione": "provincia di Pescara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Reggio Emilia",
+        "lat": 44.7,
+        "log": 10.633333,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bydgoszcz",
+                "lat": 53.116667,
+                "log": 18,
+                "stato": "Polonia",
+                "regione": "voivodato della Cuiavia-Pomerania",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Digione",
+                "lat": 47.316667,
+                "log": 5.033333,
+                "stato": "Francia",
+                "regione": "Côte-d’Or",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Schwerin",
+                "lat": 53.628889,
+                "log": 11.415,
+                "stato": "Germania",
+                "regione": "Distretto di Schwerin",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zara",
+                "lat": 44.1,
+                "log": 15.216667,
+                "stato": "Croazia",
+                "regione": "regione zaratina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gerona",
+                "lat": 41.983333,
+                "log": 2.816667,
+                "stato": "Spagna",
+                "regione": "Gironès",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fort Worth",
+                "lat": 32.756389,
+                "log": -97.3325,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Tarrant",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Chișinău",
+                "lat": 47.022778,
+                "log": 28.835278,
+                "stato": "Moldavia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kragujevac",
+                "lat": 43.98333333,
+                "log": 20.88333333,
+                "stato": "Serbia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Polokwane",
+                "lat": 44.7,
+                "log": 10.633333,
+                "stato": "Italia",
+                "regione": "provincia di Reggio Emilia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pemba",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Beit Jala",
+                "lat": 31.71472222,
+                "log": 35.18694444,
+                "stato": "Stato di Palestina",
+                "regione": "Governatorato di Betlemme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Centar",
+                "lat": 42,
+                "log": 21.47,
+                "stato": "Macedonia del Nord",
+                "regione": "Grande Skopje",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "African National Congress",
+                "lat": null,
+                "log": null,
+                "stato": "Sudafrica",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rio Branco",
+                "lat": -9.978056,
+                "log": -67.811667,
+                "stato": "Brasile",
+                "regione": "Acre",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rizhao",
+                "lat": 36.66666667,
+                "log": 116.98333333,
+                "stato": "Cina",
+                "regione": "Cina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Smara",
+                "lat": 26.739444,
+                "log": -11.670278,
+                "stato": "Sahara Occidentale",
+                "regione": "Provincia di Es-Semara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ekurhuleni",
+                "lat": -26.217778,
+                "log": 28.167222,
+                "stato": "Sudafrica",
+                "regione": "Gauteng",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nablus",
+                "lat": 32.22027778,
+                "log": 35.27888889,
+                "stato": "Impero bizantino",
+                "regione": "governatorato di Nablus",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Reggiolo",
+        "lat": 44.916667,
+        "log": 10.816667,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bon Encontre",
+                "lat": 44.183333,
+                "log": 0.683333,
+                "stato": "Francia",
+                "regione": "cantone di Agen-Sud-Est",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Regioni d'Italia",
+        "lat": null,
+        "log": null,
+        "stato": "Italia",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Reino",
+        "lat": 41.283333,
+        "log": 14.816667,
+        "stato": "Italia",
+        "regione": "provincia di Benevento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Reitano",
+        "lat": 37.97285,
+        "log": 14.34427,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Remanzacco",
+        "lat": 46.083333,
+        "log": 13.316667,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Rangersdorf",
+                "lat": 46.863611,
+                "log": 12.964722,
+                "stato": "Austria",
+                "regione": "distretto di Spittal an der Drau",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Remedello",
+        "lat": 45.279167,
+        "log": 10.372778,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Renate",
+        "lat": 45.722495,
+        "log": 9.278348,
+        "stato": "Italia",
+        "regione": "provincia di Monza e della Brianza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rende",
+        "lat": 39.333333,
+        "log": 16.183333,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Renon",
+        "lat": 46.54039,
+        "log": 11.457027,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Kirchheimbolanden",
+                "lat": 49.66666667,
+                "log": 8.01666667,
+                "stato": "Germania",
+                "regione": "circondario del Donnersberg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Resana",
+        "lat": 45.633333,
+        "log": 11.95,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Montville (Francia){{!}}Montville",
+                "lat": 49.547222,
+                "log": 1.076389,
+                "stato": "Francia",
+                "regione": "cantone di Clères",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rescaldina",
+        "lat": 45.616667,
+        "log": 8.95,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Resia",
+        "lat": 46.373884,
+        "log": 13.304364,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Frjazino",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Resiutta",
+        "lat": 46.373718,
+        "log": 13.231267,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Resuttano",
+        "lat": 37.683333,
+        "log": 14.033333,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Caltanissetta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Retorbido",
+        "lat": 44.95,
+        "log": 9.033333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Revello",
+        "lat": 44.65,
+        "log": 7.383333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Revigliasco d'Asti",
+        "lat": 44.858611,
+        "log": 8.161389,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Garons",
+                "lat": 43.769167,
+                "log": 4.429167,
+                "stato": "Francia",
+                "regione": "cantone di La Vistrenque",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Revine Lago",
+        "lat": 46.001033,
+        "log": 12.225549,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Mitterdorf an der Raab",
+                "lat": 47.16666667,
+                "log": 15.6,
+                "stato": "Austria",
+                "regione": "distretto di Weiz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rezzago",
+        "lat": 45.866667,
+        "log": 9.25,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rezzato",
+        "lat": 45.515,
+        "log": 10.3175,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bogorodick",
+                "lat": 45.515,
+                "log": 10.3175,
+                "stato": "Italia",
+                "regione": "provincia di Brescia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rezzo",
+        "lat": 44.02040278,
+        "log": 7.87203056,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rezzoaglio",
+        "lat": 44.526261,
+        "log": 9.386653,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rho",
+        "lat": 45.533333,
+        "log": 9.033333,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rhêmes-Notre-Dame",
+        "lat": 45.56965,
+        "log": 7.1187,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rhêmes-Saint-Georges",
+        "lat": 45.65417,
+        "log": 7.155338,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riace",
+        "lat": 38.418056,
+        "log": 16.481111,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rialto (Italia)",
+        "lat": 44.22455556,
+        "log": 8.26365278,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cauto Cristo",
+                "lat": 20.55709,
+                "log": -76.4727,
+                "stato": "Cuba",
+                "regione": "provincia di Granma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Riano (Italia)",
+        "lat": 42.091111,
+        "log": 12.522778,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riardo",
+        "lat": 41.266667,
+        "log": 14.15,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ribera",
+        "lat": 37.499444,
+        "log": 13.265,
+        "stato": "Italia",
+        "regione": "provincia di Agrigento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Oinousses",
+                "lat": 38.51666667,
+                "log": 26.21666667,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Elizabeth",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ribordone",
+        "lat": 45.43204,
+        "log": 7.50195,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ricadi",
+        "lat": 38.626111,
+        "log": 15.865556,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Mogliano Veneto",
+                "lat": 45.561944,
+                "log": 12.236389,
+                "stato": "Italia",
+                "regione": "provincia di Treviso",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ricaldone",
+        "lat": 44.733333,
+        "log": 8.469167,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riccia",
+        "lat": 41.483333,
+        "log": 14.833333,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riccione",
+        "lat": 44,
+        "log": 12.65,
+        "stato": "Italia",
+        "regione": "provincia di Rimini",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riccò del Golfo di Spezia",
+        "lat": 44.153056,
+        "log": 9.763889,
+        "stato": "Italia",
+        "regione": "provincia della Spezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ricengo",
+        "lat": 45.4,
+        "log": 9.733333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ricigliano",
+        "lat": 40.666667,
+        "log": 15.483333,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riese Pio X",
+        "lat": 45.7299,
+        "log": 11.92,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Griffith (Australia)",
+                "lat": -25,
+                "log": 133,
+                "stato": "Australia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Guelph",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sochaczew",
+                "lat": 52.229167,
+                "log": 20.238611,
+                "stato": "Polonia",
+                "regione": "distretto di Sochaczew",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zahorska Bystrica",
+                "lat": 48.24138889,
+                "log": 17.03805556,
+                "stato": "Slovacchia",
+                "regione": "Bratislava",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Riesi",
+        "lat": 37.283333,
+        "log": 14.083333,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Caltanissetta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rieti",
+        "lat": 42.40443,
+        "log": 12.856702,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Itō",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Caleruega",
+                "lat": 41.8167,
+                "log": -3.4833,
+                "stato": "Spagna",
+                "regione": "provincia di Burgos",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Saint-Pierre-lès-Elbeuf",
+                "lat": 49.266667,
+                "log": 1.05,
+                "stato": "Francia",
+                "regione": "Senna Marittima",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nordhorn",
+                "lat": 52.433333,
+                "log": 7.066667,
+                "stato": "Germania",
+                "regione": "circondario della Contea di Bentheim",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Laguna (Brasile)",
+                "lat": -28.48333333,
+                "log": -48.78111111,
+                "stato": "Brasile",
+                "regione": "Santa Catarina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rifiano",
+        "lat": 46.70364,
+        "log": 11.181443,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rifreddo",
+        "lat": 44.65,
+        "log": 7.35,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rignano Flaminio",
+        "lat": 42.2,
+        "log": 12.483333,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rignano Garganico",
+        "lat": 41.683333,
+        "log": 15.583333,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rignano sull'Arno",
+        "lat": 43.7237,
+        "log": 11.4507,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Groß-Zimmern",
+                "lat": 49.872639,
+                "log": 8.834306,
+                "stato": "Germania",
+                "regione": "circondario di Darmstadt-Dieburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Aguenit",
+                "lat": 22.18333333,
+                "log": -13.13333333,
+                "stato": "Sahara Occidentale",
+                "regione": "Repubblica Araba Saharaui Democratica",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Stazzema",
+                "lat": 43.993056,
+                "log": 10.310556,
+                "stato": "Italia",
+                "regione": "provincia di Lucca",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rigolato",
+        "lat": 46.552831,
+        "log": 12.85211,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bethoncourt",
+                "lat": 47.533333,
+                "log": 6.8,
+                "stato": "Francia",
+                "regione": "cantone di Montbéliard-Est",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rimella",
+        "lat": 45.9,
+        "log": 8.183333,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rimini",
+        "lat": 44.059444,
+        "log": 12.568333,
+        "stato": "Italia",
+        "regione": "provincia di Rimini",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Yangzhou",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Saint-Maur-des-Fossés",
+                "lat": 48.8,
+                "log": 2.5,
+                "stato": "Francia",
+                "regione": "Valle della Marna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Seraing",
+                "lat": 50.58333333,
+                "log": 5.5,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Liegi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Soči",
+                "lat": 43.72821,
+                "log": 11.81096,
+                "stato": "Italia",
+                "regione": "Bibbiena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ziguinchor",
+                "lat": 12.56194444,
+                "log": -16.28388889,
+                "stato": "Senegal",
+                "regione": "dipartimento di Ziguinchor",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fort Lauderdale",
+                "lat": 26.135833,
+                "log": -80.141944,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Broward",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rio (Italia)",
+        "lat": 42.813444,
+        "log": 10.417361,
+        "stato": "Italia",
+        "regione": "provincia di Livorno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rio Saliceto",
+        "lat": 44.816667,
+        "log": 10.8,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Waldzell",
+                "lat": 48.13333333,
+                "log": 13.43333333,
+                "stato": "Austria",
+                "regione": "distretto di Ried im Innkreis",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Garbagna Novarese",
+                "lat": 45.4,
+                "log": 8.666667,
+                "stato": "Italia",
+                "regione": "provincia di Novara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Trino Vercellese",
+                "lat": 45.2,
+                "log": 8.3,
+                "stato": "Italia",
+                "regione": "provincia di Vercelli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rio di Pusteria",
+        "lat": 46.795946,
+        "log": 11.666827,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Bolzano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riofreddo",
+        "lat": 42.05875,
+        "log": 12.99661,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Domokos",
+                "lat": 39.13,
+                "log": 22.3,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Riola Sardo",
+        "lat": 39.993889,
+        "log": 8.541667,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riolo Terme",
+        "lat": 44.283333,
+        "log": 11.733333,
+        "stato": "Italia",
+        "regione": "provincia di Ravenna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Oberasbach",
+                "lat": 49.421944,
+                "log": 10.958333,
+                "stato": "Germania",
+                "regione": "circondario di Fürth",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sant'Agostino (Terre del Reno)",
+                "lat": 44.791984,
+                "log": 11.386852,
+                "stato": "Italia",
+                "regione": "provincia di Ferrara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Communauté de communes l'Aurence et Glane Développement",
+                "lat": 44.283333,
+                "log": 11.733333,
+                "stato": "Italia",
+                "regione": "provincia di Ravenna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Riolunato",
+        "lat": 44.233333,
+        "log": 10.65,
+        "stato": "Italia",
+        "regione": "provincia di Modena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tórshavn",
+                "lat": 62.011667,
+                "log": -6.7675,
+                "stato": "Fær Øer",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Riomaggiore",
+        "lat": 44.099286,
+        "log": 9.73745,
+        "stato": "Italia",
+        "regione": "provincia della Spezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rionero Sannitico",
+        "lat": 41.716667,
+        "log": 14.133333,
+        "stato": "Italia",
+        "regione": "provincia di Isernia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rionero in Vulture",
+        "lat": 40.916667,
+        "log": 15.666667,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ripa Teatina",
+        "lat": 42.35,
+        "log": 14.233333,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Brockton",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sequals",
+                "lat": 46.166667,
+                "log": 12.833333,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Pordenone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Bartolomeo in Galdo",
+                "lat": 41.416667,
+                "log": 15.016667,
+                "stato": "Italia",
+                "regione": "provincia di Benevento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ripabottoni",
+        "lat": 41.683333,
+        "log": 14.816667,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ripacandida",
+        "lat": 40.912778,
+        "log": 15.725556,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Anzi",
+                "lat": 40.516667,
+                "log": 15.916667,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Assisi",
+                "lat": 43.07,
+                "log": 12.6175,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Auletta",
+                "lat": 40.561111,
+                "log": 15.424444,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Blue Island (Illinois){{!}}Blue Island",
+                "lat": 41.65833333,
+                "log": -87.67944444,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Cook",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Caposele",
+                "lat": 40.815278,
+                "log": 15.224167,
+                "stato": "Italia",
+                "regione": "provincia di Avellino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Contursi Terme",
+                "lat": 40.633333,
+                "log": 15.233333,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Muro Lucano",
+                "lat": 40.75,
+                "log": 15.483333,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ripalimosani",
+        "lat": 41.616667,
+        "log": 14.666667,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Borgo Tossignano",
+                "lat": 44.283333,
+                "log": 11.583333,
+                "stato": "Italia",
+                "regione": "provincia di Bologna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ripalta Arpina",
+        "lat": 45.3,
+        "log": 9.733333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ripalta Cremasca",
+        "lat": 45.328585,
+        "log": 9.683545,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ripalta Guerina",
+        "lat": 45.306686,
+        "log": 9.704706,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riparbella",
+        "lat": 43.366667,
+        "log": 10.6,
+        "stato": "Italia",
+        "regione": "provincia di Pisa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ripatransone",
+        "lat": 43.000217,
+        "log": 13.762492,
+        "stato": "Italia",
+        "regione": "provincia di Ascoli Piceno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sapri",
+                "lat": 40.066667,
+                "log": 15.633333,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zante",
+                "lat": 37.8,
+                "log": 20.75,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Certaldo",
+                "lat": 43.547778,
+                "log": 11.041111,
+                "stato": "Italia",
+                "regione": "provincia di Firenze",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ripe San Ginesio",
+        "lat": 43.142731,
+        "log": 13.36715,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ripi",
+        "lat": 41.616667,
+        "log": 13.433333,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riposto",
+        "lat": 37.727778,
+        "log": 15.196389,
+        "stato": "Italia",
+        "regione": "provincia di Catania",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rittana",
+        "lat": 44.35,
+        "log": 7.4,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riva Ligure",
+        "lat": 43.837478,
+        "log": 7.881881,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riva del Garda",
+        "lat": 45.883333,
+        "log": 10.85,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bensheim",
+                "lat": 49.681111,
+                "log": 8.622778,
+                "stato": "Germania",
+                "regione": "circondario della Bergstraße",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Riva del Po",
+        "lat": 44.963826,
+        "log": 11.909866,
+        "stato": "Italia",
+        "regione": "provincia di Ferrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riva di Solto",
+        "lat": 45.766667,
+        "log": 10.033333,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Riva presso Chieri",
+        "lat": 44.986444,
+        "log": 7.869471,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivalba",
+        "lat": 45.11835,
+        "log": 7.888125,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Els Hostalets de Pierola",
+                "lat": 41.535556,
+                "log": 1.771944,
+                "stato": "Spagna",
+                "regione": "Anoia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rivalta Bormida",
+        "lat": 44.710833,
+        "log": 8.552778,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivalta di Torino",
+        "lat": 45.034045,
+        "log": 7.518419,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivamonte Agordino",
+        "lat": 46.253889,
+        "log": 12.023889,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivanazzano Terme",
+        "lat": 44.930767,
+        "log": 9.014159,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivara",
+        "lat": 45.332553,
+        "log": 7.632916,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivarolo Canavese",
+        "lat": 45.331216,
+        "log": 7.717134,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sunchales",
+                "lat": -30.944167,
+                "log": -61.561389,
+                "stato": "Argentina",
+                "regione": "Dipartimento di Castellanos",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ginestra degli Schiavoni",
+                "lat": 41.279444,
+                "log": 15.042222,
+                "stato": "Italia",
+                "regione": "provincia di Benevento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rivarolo Mantovano",
+        "lat": 45.066667,
+        "log": 10.433333,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivarolo del Re ed Uniti",
+        "lat": 45.03116,
+        "log": 10.47253,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivarone",
+        "lat": 44.977778,
+        "log": 8.716667,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivarossa",
+        "lat": 45.250497,
+        "log": 7.717727,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rive",
+        "lat": 45.216667,
+        "log": 8.416667,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rive d'Arcano",
+        "lat": 46.133333,
+        "log": 13.033333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivello",
+        "lat": 40.07821,
+        "log": 15.75798,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivergaro",
+        "lat": 44.9,
+        "log": 9.6,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Julien-les-Villas",
+                "lat": 48.266667,
+                "log": 4.1,
+                "stato": "Francia",
+                "regione": "cantone di Troyes-7",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rivignano Teor",
+        "lat": 45.87972222,
+        "log": 13.0425,
+        "stato": "Italia",
+        "regione": "provincia di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivisondoli",
+        "lat": 41.871111,
+        "log": 14.0675,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivodutri",
+        "lat": 42.516667,
+        "log": 12.85,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Seregélyes",
+                "lat": 47.110919,
+                "log": 18.577311,
+                "stato": "Ungheria",
+                "regione": "Székesfehérvár",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Candelario",
+                "lat": 40.3681,
+                "log": -5.7444,
+                "stato": "Spagna",
+                "regione": "provincia di Salamanca",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rivoli",
+        "lat": 45.069715,
+        "log": 7.517676,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Mollet del Vallès",
+                "lat": 41.535572,
+                "log": 2.210705,
+                "stato": "Spagna",
+                "regione": "Vallès Oriental",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ravensburg",
+                "lat": 47.783056,
+                "log": 9.611389,
+                "stato": "Germania",
+                "regione": "circondario di Ravensburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kranj",
+                "lat": 46.2422,
+                "log": 14.3577,
+                "stato": "Slovenia",
+                "regione": "Slovenia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montélimar",
+                "lat": 44.566667,
+                "log": 4.75,
+                "stato": "Francia",
+                "regione": "arrondissement di Nyons",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rivoli Veronese",
+        "lat": 45.566667,
+        "log": 10.816667,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rivolta d'Adda",
+        "lat": 45.466667,
+        "log": 9.516667,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rizziconi",
+        "lat": 38.412222,
+        "log": 15.958889,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roana",
+        "lat": 45.876389,
+        "log": 11.462778,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pojana Maggiore",
+                "lat": 45.29039,
+                "log": 11.5025,
+                "stato": "Italia",
+                "regione": "provincia di Vicenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Velden (Bassa Baviera)",
+                "lat": 48.366667,
+                "log": 12.25,
+                "stato": "Germania",
+                "regione": "circondario di Landshut",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roaschia",
+        "lat": 44.266667,
+        "log": 7.45,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roascio",
+        "lat": 44.416667,
+        "log": 8.033333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roasio",
+        "lat": 45.597533,
+        "log": 8.290208,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roatto",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Robassomero",
+        "lat": 45.200049,
+        "log": 7.568917,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Robbiate",
+        "lat": 45.683333,
+        "log": 9.433333,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Robbio",
+        "lat": 45.291389,
+        "log": 8.592222,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Robecchetto con Induno",
+        "lat": 45.533333,
+        "log": 8.766667,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Robecco Pavese",
+        "lat": 45.05,
+        "log": 9.15,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Robecco d'Oglio",
+        "lat": 45.266667,
+        "log": 10.083333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Robecco sul Naviglio",
+        "lat": 45.433333,
+        "log": 8.883333,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Fosses-la-Ville",
+                "lat": 50.38333333,
+                "log": 4.68333333,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Namur",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Robella",
+        "lat": 45.101652,
+        "log": 8.10193,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Robilante",
+        "lat": 44.3,
+        "log": 7.516667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roburent",
+        "lat": 44.316667,
+        "log": 7.883333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca Canavese",
+        "lat": 45.308854,
+        "log": 7.575863,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca Canterano",
+        "lat": 41.95,
+        "log": 13.016667,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca Cigliè",
+        "lat": 44.45,
+        "log": 7.95,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca Grimalda",
+        "lat": 44.6725,
+        "log": 8.649444,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca Imperiale",
+        "lat": 40.106408,
+        "log": 16.594899,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Valenza",
+                "lat": 45.014025,
+                "log": 8.645821,
+                "stato": "Italia",
+                "regione": "provincia di Alessandria",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocca Massima",
+        "lat": 41.67833,
+        "log": 12.92063,
+        "stato": "Italia",
+        "regione": "provincia di Latina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "San Mauro Castelverde",
+                "lat": 37.914444,
+                "log": 14.190556,
+                "stato": "Italia",
+                "regione": "provincia di Palermo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocca Pia",
+        "lat": 41.934444,
+        "log": 13.977778,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca Pietore",
+        "lat": 46.433868,
+        "log": 11.977162,
+        "stato": "Italia",
+        "regione": "provincia di Belluno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca Priora",
+        "lat": 41.783333,
+        "log": 12.766667,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sohland an der Spree",
+                "lat": 51.05,
+                "log": 14.43333333,
+                "stato": "Germania",
+                "regione": "circondario di Bautzen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Maratea",
+                "lat": 39.992778,
+                "log": 15.716667,
+                "stato": "Italia",
+                "regione": "provincia di Potenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Città del Guatemala",
+                "lat": 14.62111111,
+                "log": -90.52694444,
+                "stato": "Guatemala",
+                "regione": "dipartimento di Guatemala",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zacapa",
+                "lat": 14.966667,
+                "log": -89.533333,
+                "stato": "Guatemala",
+                "regione": "dipartimento di Zacapa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocca San Casciano",
+        "lat": 44.066667,
+        "log": 11.85,
+        "stato": "Italia",
+        "regione": "provincia di Forlì-Cesena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Hofbieber",
+                "lat": 50.58629,
+                "log": 9.83534,
+                "stato": "Germania",
+                "regione": "circondario di Fulda",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocca San Felice",
+        "lat": 40.95,
+        "log": 15.166667,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tavernola San Felice",
+                "lat": 40.894722,
+                "log": 14.821944,
+                "stato": "Italia",
+                "regione": "Aiello del Sabato",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocca San Giovanni",
+        "lat": 42.25,
+        "log": 14.466667,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Chaingy",
+                "lat": 47.883333,
+                "log": 1.766667,
+                "stato": "Francia",
+                "regione": "Loiret",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocca Santa Maria",
+        "lat": 42.683333,
+        "log": 13.533333,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca Santo Stefano",
+        "lat": 41.91052,
+        "log": 13.02379,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Ta' Xbiex",
+                "lat": 35.89989722,
+                "log": 14.48993611,
+                "stato": "Malta",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocca Sinibalda",
+        "lat": 42.272639,
+        "log": 12.9245,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca Susella",
+        "lat": 44.912927,
+        "log": 9.095881,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca d'Arazzo",
+        "lat": 44.873056,
+        "log": 8.285833,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca d'Arce",
+        "lat": 41.583333,
+        "log": 13.583333,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca d'Evandro",
+        "lat": 41.37438,
+        "log": 13.907115,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca de' Baldi",
+        "lat": 44.4295,
+        "log": 7.7475,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca de' Giorgi",
+        "lat": 44.95,
+        "log": 9.25,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca di Botte",
+        "lat": 42.027222,
+        "log": 13.068611,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Trevi nel Lazio",
+                "lat": 41.862222,
+                "log": 13.246944,
+                "stato": "Italia",
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocca di Cambio",
+        "lat": 42.237222,
+        "log": 13.49,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saas-Fee",
+                "lat": 46.109722,
+                "log": 7.929167,
+                "stato": "Svizzera",
+                "regione": "distretto di Visp",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Martín de los Andes",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocca di Cave",
+        "lat": 41.85,
+        "log": 12.95,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca di Mezzo",
+        "lat": 42.205833,
+        "log": 13.520278,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca di Neto",
+        "lat": 39.188333,
+        "log": 17.004167,
+        "stato": "Italia",
+        "regione": "provincia di Crotone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocca di Papa",
+        "lat": 41.76197,
+        "log": 12.706867,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccabascerana",
+        "lat": 41.016667,
+        "log": 14.716667,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccabernarda",
+        "lat": 39.133333,
+        "log": 16.866667,
+        "stato": "Italia",
+        "regione": "provincia di Crotone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccabianca",
+        "lat": 45.008634,
+        "log": 10.219839,
+        "stato": "Italia",
+        "regione": "provincia di Parma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccabruna (Italia)",
+        "lat": 44.5,
+        "log": 7.333333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccacasale",
+        "lat": 42.123889,
+        "log": 13.888889,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccadaspide",
+        "lat": 40.433333,
+        "log": 15.2,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccafiorita",
+        "lat": 37.930542,
+        "log": 15.268581,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Antonovo",
+                "lat": 43.15,
+                "log": 26.16666667,
+                "stato": "Bulgaria",
+                "regione": "distretto di Tărgovište",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roccafluvione",
+        "lat": 42.86666667,
+        "log": 13.48333333,
+        "stato": "Italia",
+        "regione": "provincia di Ascoli Piceno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccaforte Ligure",
+        "lat": 44.678333,
+        "log": 9.029722,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccaforte Mondovì",
+        "lat": 44.316667,
+        "log": 7.75,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccaforte del Greco",
+        "lat": 38.05,
+        "log": 15.9,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccaforzata",
+        "lat": 40.433333,
+        "log": 17.4,
+        "stato": "Italia",
+        "regione": "provincia di Taranto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccafranca",
+        "lat": 45.466667,
+        "log": 9.916667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccagiovine",
+        "lat": 42.05,
+        "log": 12.9,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccagloriosa",
+        "lat": 40.116667,
+        "log": 15.433333,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccagorga",
+        "lat": 41.533333,
+        "log": 13.15,
+        "stato": "Italia",
+        "regione": "provincia di Latina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccalbegna",
+        "lat": 42.786944,
+        "log": 11.51,
+        "stato": "Italia",
+        "regione": "provincia di Grosseto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccalumera",
+        "lat": 37.970556,
+        "log": 15.39,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccamandolfi",
+        "lat": 41.5,
+        "log": 14.35,
+        "stato": "Italia",
+        "regione": "provincia di Isernia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccamena",
+        "lat": 37.835278,
+        "log": 13.155556,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccamonfina (Italia)",
+        "lat": 41.3,
+        "log": 13.983333,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "San Giovanni in Persiceto",
+                "lat": 44.640833,
+                "log": 11.185,
+                "stato": "Italia",
+                "regione": "provincia di Bologna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roccamontepiano",
+        "lat": 42.244728,
+        "log": 14.127325,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccamorice",
+        "lat": 42.216667,
+        "log": 14.033333,
+        "stato": "Italia",
+        "regione": "provincia di Pescara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccanova",
+        "lat": 40.216667,
+        "log": 16.2,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccantica",
+        "lat": 42.316667,
+        "log": 12.7,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccapalumba",
+        "lat": 37.8,
+        "log": 13.633333,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccapiemonte",
+        "lat": 40.761667,
+        "log": 14.693333,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccarainola",
+        "lat": 40.966667,
+        "log": 14.566667,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccaraso",
+        "lat": 41.846647,
+        "log": 14.078528,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Kelmend",
+                "lat": 42.35,
+                "log": 19.533333,
+                "stato": "Albania",
+                "regione": "prefettura di Scutari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Borgosesia",
+                "lat": 45.716944,
+                "log": 8.276389,
+                "stato": "Italia",
+                "regione": "provincia di Vercelli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roccaromana",
+        "lat": 41.266667,
+        "log": 14.216667,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccascalegna",
+        "lat": 42.062172,
+        "log": 14.306525,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccasecca",
+        "lat": 41.55,
+        "log": 13.666667,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Croissy-Beaubourg",
+                "lat": 48.833333,
+                "log": 2.666667,
+                "stato": "Francia",
+                "regione": "Senna e Marna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Priverno",
+                "lat": 41.466667,
+                "log": 13.183333,
+                "stato": "Italia",
+                "regione": "provincia di Latina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Belcastro",
+                "lat": 39.016667,
+                "log": 16.783333,
+                "stato": "Italia",
+                "regione": "provincia di Catanzaro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roccasecca dei Volsci",
+        "lat": 41.483333,
+        "log": 13.216667,
+        "stato": "Italia",
+        "regione": "provincia di Latina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Romans",
+                "lat": 45.05,
+                "log": 5.05,
+                "stato": "Francia",
+                "regione": "cantone di Romans-sur-Isère-1",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roccasicura",
+        "lat": 41.7,
+        "log": 14.233333,
+        "stato": "Italia",
+        "regione": "provincia di Isernia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccasparvera",
+        "lat": 44.333333,
+        "log": 7.45,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Reillanne",
+                "lat": 43.883333,
+                "log": 5.666667,
+                "stato": "Francia",
+                "regione": "Alpi dell'Alta Provenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roccaspinalveti",
+        "lat": 41.933333,
+        "log": 14.466667,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccastrada",
+        "lat": 43.009722,
+        "log": 11.168333,
+        "stato": "Italia",
+        "regione": "provincia di Grosseto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Zeiskam",
+                "lat": 49.23333333,
+                "log": 8.25,
+                "stato": "Germania",
+                "regione": "Verbandsgemeinde Bellheim",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Artannes-sur-Indre",
+                "lat": 47.266667,
+                "log": 0.6,
+                "stato": "Francia",
+                "regione": "cantone di Montbazon",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bonrepòs i Mirambell",
+                "lat": 39.5206,
+                "log": -0.365,
+                "stato": "Spagna",
+                "regione": "Horta Nord",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roccavaldina",
+        "lat": 38.18147,
+        "log": 15.37255,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccaverano",
+        "lat": 44.593333,
+        "log": 8.273333,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccavignale",
+        "lat": 44.361639,
+        "log": 8.192825,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccavione",
+        "lat": 44.316667,
+        "log": 7.483333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccavivara",
+        "lat": 41.833333,
+        "log": 14.6,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roccella Ionica",
+        "lat": 38.316667,
+        "log": 16.4,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Arco (Italia){{!}}Arco",
+                "lat": 45.91922222,
+                "log": 10.88616667,
+                "stato": "Italia",
+                "regione": "provincia autonoma di Trento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roccella Valdemone",
+        "lat": 37.93298,
+        "log": 15.00845,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocchetta Belbo",
+        "lat": 44.636111,
+        "log": 8.175,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocchetta Ligure",
+        "lat": 44.7075,
+        "log": 9.051389,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocchetta Nervina",
+        "lat": 43.889997,
+        "log": 7.600203,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocchetta Palafea",
+        "lat": 44.708333,
+        "log": 8.346389,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocchetta Sant'Antonio",
+        "lat": 41.1,
+        "log": 15.466667,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Gaiba",
+                "lat": 44.95,
+                "log": 11.483333,
+                "stato": "Italia",
+                "regione": "provincia di Rovigo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Collegno",
+                "lat": 45.077547,
+                "log": 7.572426,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocchetta Tanaro",
+        "lat": 44.859444,
+        "log": 8.344167,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Donnas",
+                "lat": 45.6,
+                "log": 7.766667,
+                "stato": "Italia",
+                "regione": "Valle d'Aosta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rocchetta a Volturno",
+        "lat": 41.616667,
+        "log": 14.083333,
+        "stato": "Italia",
+        "regione": "provincia di Isernia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocchetta di Vara",
+        "lat": 44.251025,
+        "log": 9.7572,
+        "stato": "Italia",
+        "regione": "provincia della Spezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rocchetta e Croce",
+        "lat": 41.23716,
+        "log": 14.15765,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rodano (Italia)",
+        "lat": 45.483333,
+        "log": 9.35,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roddi",
+        "lat": 44.683333,
+        "log": 7.966667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roddino",
+        "lat": 44.583333,
+        "log": 8.016667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rodello",
+        "lat": 44.62854,
+        "log": 8.056838,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rodengo",
+        "lat": 45.597206,
+        "log": 10.108676,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Kürten",
+                "lat": 51.05,
+                "log": 7.26667,
+                "stato": "Germania",
+                "regione": "Circondario del Reno-Berg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rodengo-Saiano",
+        "lat": 45.597206,
+        "log": 10.108676,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Kürten",
+                "lat": 51.05,
+                "log": 7.26667,
+                "stato": "Germania",
+                "regione": "Circondario del Reno-Berg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rodero",
+        "lat": 45.8249,
+        "log": 8.9163,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rodi Garganico",
+        "lat": 41.922194,
+        "log": 15.877184,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rodigo",
+        "lat": 45.2,
+        "log": 10.633333,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Berg (Schussental){{!}}Berg",
+                "lat": 47.811944,
+                "log": 9.600278,
+                "stato": "Germania",
+                "regione": "circondario di Ravensburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rodì Milici",
+        "lat": 38.10823,
+        "log": 15.16933,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rofrano",
+        "lat": 40.216667,
+        "log": 15.433333,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rogeno",
+        "lat": 45.783333,
+        "log": 9.266667,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roggiano Gravina",
+        "lat": 39.616667,
+        "log": 16.15,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Bensalem (Pennsylvania){{!}}Bensalem",
+                "lat": 40.112778,
+                "log": -74.943333,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Bucks",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roghudi",
+        "lat": 38.048889,
+        "log": 15.915833,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rogliano (Italia)",
+        "lat": 39.183333,
+        "log": 16.316667,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rognano",
+        "lat": 45.283333,
+        "log": 9.083333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rogno",
+        "lat": 45.8575,
+        "log": 10.133056,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Clavesana",
+                "lat": 44.484167,
+                "log": 7.911667,
+                "stato": "Italia",
+                "regione": "provincia di Cuneo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rogolo",
+        "lat": 46.135556,
+        "log": 9.487222,
+        "stato": "Italia",
+        "regione": "provincia di Sondrio",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roiate",
+        "lat": 41.866667,
+        "log": 13.066667,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roio del Sangro",
+        "lat": 41.915782,
+        "log": 14.372797,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roisan",
+        "lat": 45.783333,
+        "log": 7.316667,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roletto",
+        "lat": 44.924692,
+        "log": 7.331324,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rolo",
+        "lat": 44.883333,
+        "log": 10.85,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roma",
+        "lat": 41.893056,
+        "log": 12.482778,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Parigi",
+                "lat": null,
+                "log": null,
+                "stato": "Francia",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Algeri",
+                "lat": null,
+                "log": null,
+                "stato": "Algeria",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Belgrado",
+                "lat": 44.82055556,
+                "log": 20.46222222,
+                "stato": "Regno d'Ungheria",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Brasilia",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Calgary",
+                "lat": 45.079167,
+                "log": 7.676111,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Caracas",
+                "lat": 10.5,
+                "log": -66.91666667,
+                "stato": "Venezuela",
+                "regione": "Libertador",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Città del Messico",
+                "lat": 19.433888,
+                "log": -99.133766,
+                "stato": "Messico",
+                "regione": "Primo Impero Messicano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Il Cairo",
+                "lat": 44.397892,
+                "log": 8.277789,
+                "stato": "Italia",
+                "regione": "provincia di Savona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kiev",
+                "lat": 50.45,
+                "log": 30.523611,
+                "stato": "Ucraina",
+                "regione": "Ucraina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Londra",
+                "lat": 51.507222,
+                "log": -0.1275,
+                "stato": "Impero romano",
+                "regione": "Regno del Wessex",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Madrid",
+                "lat": 40.499999,
+                "log": -3.673333,
+                "stato": "Spagna",
+                "regione": "comunità di Madrid",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Medellín",
+                "lat": 6.29138889,
+                "log": -75.53611111,
+                "stato": "Colombia",
+                "regione": "dipartimento di Antioquia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montréal",
+                "lat": 45.46666667,
+                "log": -73.75,
+                "stato": "Canada",
+                "regione": "agglomerato di Montréal",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "New York",
+                "lat": 40.716667,
+                "log": -74,
+                "stato": "Stati Uniti d’America",
+                "regione": "New York",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pechino",
+                "lat": 39.90555556,
+                "log": 116.39138889,
+                "stato": "Cina",
+                "regione": "Cina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Plovdiv",
+                "lat": 42.142086,
+                "log": 24.741454,
+                "stato": "Bulgaria",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Seul",
+                "lat": 37.55,
+                "log": 126.983333,
+                "stato": "Corea del Sud",
+                "regione": "dinastia Joseon",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sydney",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tirana",
+                "lat": 41.328889,
+                "log": 19.817778,
+                "stato": "Albania",
+                "regione": "comune di Tirana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tokyo",
+                "lat": 35.689506,
+                "log": 139.6917,
+                "stato": "Giappone",
+                "regione": "Giappone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Toronto",
+                "lat": 43.716589,
+                "log": -79.340686,
+                "stato": "Canada",
+                "regione": "Ontario",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tunisi",
+                "lat": 36.8,
+                "log": 10.18333333,
+                "stato": "Tunisia",
+                "regione": "governatorato di Tunisi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Romagnano Sesia",
+        "lat": 45.633333,
+        "log": 8.383333,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Romagnano al Monte",
+        "lat": 40.628056,
+        "log": 15.458056,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Romagnese",
+        "lat": 44.833333,
+        "log": 9.333333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Romana",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Romanengo",
+        "lat": 45.383333,
+        "log": 9.783333,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Romano Canavese",
+        "lat": 45.388657,
+        "log": 7.86652,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Romano d'Ezzelino",
+        "lat": 45.773333,
+        "log": 11.777778,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Romano di Lombardia",
+        "lat": 45.516667,
+        "log": 9.75,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Romans d'Isonzo",
+        "lat": 45.883333,
+        "log": 13.433333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Gorizia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "San Pietro-Vertoiba{{!}}Šempeter-Vrtojba",
+                "lat": 45.93,
+                "log": 13.64,
+                "stato": "Slovenia",
+                "regione": "Slovenia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Schiefling am See{{!}}Schiefling am Wörthersee",
+                "lat": 46.601667,
+                "log": 14.097778,
+                "stato": "Austria",
+                "regione": "distretto di Klagenfurt-Land",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rombiolo",
+        "lat": 38.591944,
+        "log": 16.001667,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Romeno (Italia)",
+        "lat": 46.4,
+        "log": 11.116667,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Romentino",
+        "lat": 45.466667,
+        "log": 8.716667,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Marcel (Saona e Loira)",
+                "lat": 46.783333,
+                "log": 4.9,
+                "stato": "Francia",
+                "regione": "cantone di Chalon-sur-Saône-Sud",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Roseto Capo Spulico",
+                "lat": 39.983333,
+                "log": 16.6,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Alberobello",
+                "lat": 40.784061,
+                "log": 17.237461,
+                "stato": "Italia",
+                "regione": "provincia di Bari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rometta",
+        "lat": 38.1725,
+        "log": 15.413889,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roncade",
+        "lat": 45.6246,
+        "log": 12.3766,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roncadelle",
+        "lat": 45.52718,
+        "log": 10.15407,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Zavidovići",
+                "lat": 44.45,
+                "log": 18.15,
+                "stato": "Bosnia ed Erzegovina",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Preci",
+                "lat": 42.883333,
+                "log": 13.033333,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roncaro",
+        "lat": 45.233333,
+        "log": 9.283333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Héricourt-en-Caux",
+                "lat": 49.7,
+                "log": 0.7,
+                "stato": "Francia",
+                "regione": "cantone di Ourville-en-Caux",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roncegno Terme",
+        "lat": 46.050833,
+        "log": 11.41,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roncello",
+        "lat": 45.6,
+        "log": 9.45,
+        "stato": "Italia",
+        "regione": "provincia di Monza e della Brianza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nowy Duninów",
+                "lat": 52.580278,
+                "log": 19.473333,
+                "stato": "Polonia",
+                "regione": "distretto di Płock",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ronchi Valsugana",
+        "lat": 46.066667,
+        "log": 11.433333,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ronchi dei Legionari",
+        "lat": 45.833333,
+        "log": 13.5,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Gorizia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Wagna",
+                "lat": 46.76666667,
+                "log": 15.55,
+                "stato": "Austria",
+                "regione": "distretto di Leibnitz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Metlika",
+                "lat": 45.64722,
+                "log": 15.31417,
+                "stato": "Slovenia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ronchis",
+        "lat": 45.823637,
+        "log": 13.006,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ronciglione",
+        "lat": 42.289444,
+        "log": 12.214722,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ronco Biellese",
+        "lat": 45.581667,
+        "log": 8.098611,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ronco Briantino",
+        "lat": 45.666667,
+        "log": 9.4,
+        "stato": "Italia",
+        "regione": "provincia di Monza e della Brianza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ronco Canavese",
+        "lat": 45.499737,
+        "log": 7.546855,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ronco Scrivia",
+        "lat": 44.608206,
+        "log": 8.955167,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ronco all'Adige",
+        "lat": 45.3365,
+        "log": 11.246611,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roncobello",
+        "lat": 45.95,
+        "log": 9.75,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roncoferraro",
+        "lat": 45.134203,
+        "log": 10.95242,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roncofreddo",
+        "lat": 44.0423,
+        "log": 12.3187,
+        "stato": "Italia",
+        "regione": "provincia di Forlì-Cesena",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roncola (Italia)",
+        "lat": 45.780362,
+        "log": 9.542844,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roncà",
+        "lat": 45.483333,
+        "log": 11.283333,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Wackernheim",
+                "lat": 49.974167,
+                "log": 8.116667,
+                "stato": "Germania",
+                "regione": "Verbandsgemeinde Heidesheim am Rhein",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rondanina",
+        "lat": 44.562397,
+        "log": 9.217739,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rondissone",
+        "lat": 45.246775,
+        "log": 7.965426,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Peschici",
+                "lat": 41.95,
+                "log": 16.016667,
+                "stato": "Italia",
+                "regione": "provincia di Foggia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mirabeau",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ronsecco",
+        "lat": 45.25,
+        "log": 8.283333,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ronzo-Chienis",
+        "lat": 45.891111,
+        "log": 10.950556,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Buttenheim",
+                "lat": 49.803611,
+                "log": 11.031667,
+                "stato": "Germania",
+                "regione": "circondario di Bamberga",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ronzone",
+        "lat": 46.423073,
+        "log": 11.148899,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roppolo",
+        "lat": 45.421389,
+        "log": 8.070556,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rorà (Italia)",
+        "lat": 44.79243659,
+        "log": 7.19918165,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rosarno",
+        "lat": 38.485,
+        "log": 15.979722,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Calabria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rosasco",
+        "lat": 45.25106,
+        "log": 8.578938,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rosate",
+        "lat": 45.353329,
+        "log": 9.022078,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tarnowo Podgórne",
+                "lat": 52.466667,
+                "log": 16.666667,
+                "stato": "Polonia",
+                "regione": "distretto di Poznań",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rohrdorf",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rosazza",
+        "lat": 45.676667,
+        "log": 7.977222,
+        "stato": "Italia",
+        "regione": "provincia di Biella",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rosciano",
+        "lat": 42.32227,
+        "log": 14.04555,
+        "stato": "Italia",
+        "regione": "provincia di Pescara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roscigno",
+        "lat": 40.4,
+        "log": 15.35,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rose (Italia)",
+        "lat": 39.4,
+        "log": 16.283333,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rosello",
+        "lat": 41.9,
+        "log": 14.35,
+        "stato": "Italia",
+        "regione": "provincia di Chieti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roseto Capo Spulico",
+        "lat": 39.983333,
+        "log": 16.6,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roseto Valfortore",
+        "lat": 41.36666667,
+        "log": 15.1,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roseto degli Abruzzi",
+        "lat": 42.683333,
+        "log": 14.016667,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Jawor",
+                "lat": 51.05,
+                "log": 16.183333,
+                "stato": "Polonia",
+                "regione": "distretto di Jawor",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "La Louvière",
+                "lat": 50.46666667,
+                "log": 4.18333333,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Soignies",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Makarska",
+                "lat": 43.293056,
+                "log": 17.02,
+                "stato": "Croazia",
+                "regione": "regione spalatino-dalmata",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Roseto Capo Spulico",
+                "lat": 39.983333,
+                "log": 16.6,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Romentino",
+                "lat": 45.466667,
+                "log": 8.716667,
+                "stato": "Italia",
+                "regione": "provincia di Novara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rosignano Marittimo",
+        "lat": 43.4,
+        "log": 10.466667,
+        "stato": "Italia",
+        "regione": "provincia di Livorno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Champigny-sur-Marne",
+                "lat": 48.816667,
+                "log": 2.516667,
+                "stato": "Francia",
+                "regione": "Valle della Marna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pardubice",
+                "lat": null,
+                "log": null,
+                "stato": "Repubblica Ceca",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Musselburgh",
+                "lat": 43.4,
+                "log": 10.466667,
+                "stato": "Italia",
+                "regione": "provincia di Livorno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zug",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rosignano Monferrato",
+        "lat": 45.081389,
+        "log": 8.400833,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rosolina",
+        "lat": 45.066667,
+        "log": 12.233333,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Taicang",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mosbach",
+                "lat": 49.35,
+                "log": 9.133333,
+                "stato": "Germania",
+                "regione": "Circondario di Neckar-Odenwald",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rosolini",
+        "lat": 36.816667,
+        "log": 14.95,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Siracusa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Santa Fe",
+                "lat": 35.666667,
+                "log": -105.966667,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Santa Fe",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Frankenthal",
+                "lat": 49.533333,
+                "log": 8.35,
+                "stato": "Germania",
+                "regione": "Renania-Palatinato",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rosora",
+        "lat": 43.482858,
+        "log": 13.0693,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Antrifttal",
+                "lat": 50.781667,
+                "log": 9.199167,
+                "stato": "Germania",
+                "regione": "circondario del Vogelsberg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rossa (Italia)",
+        "lat": 45.854649,
+        "log": 8.121654,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rossana (Italia)",
+        "lat": 39.566667,
+        "log": 16.633333,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rossano Veneto",
+        "lat": 45.706667,
+        "log": 11.806944,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rossiglione (Italia)",
+        "lat": 44.56666667,
+        "log": 8.66666667,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rosta",
+        "lat": 45.067945,
+        "log": 7.465117,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rosà",
+        "lat": 45.716667,
+        "log": 11.766667,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Schallstadt",
+                "lat": 47.958056,
+                "log": 7.750278,
+                "stato": "Germania",
+                "regione": "circondario di Brisgovia-Alta Foresta Nera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "La Crau",
+                "lat": 43.633333,
+                "log": 4.816667,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rota Greca",
+        "lat": 39.466667,
+        "log": 16.116667,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rota d'Imagna",
+        "lat": 45.833333,
+        "log": 9.516667,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rotella (Italia)",
+        "lat": 42.954569,
+        "log": 13.56095,
+        "stato": "Italia",
+        "regione": "provincia di Ascoli Piceno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rotello",
+        "lat": 41.7475,
+        "log": 15.004167,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rotonda (Italia)",
+        "lat": 39.954275,
+        "log": 16.039764,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rotondella",
+        "lat": 40.166667,
+        "log": 16.516667,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Casalfiumanese",
+                "lat": 44.291261,
+                "log": 11.535725,
+                "stato": "Italia",
+                "regione": "provincia di Bologna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rotondi",
+        "lat": 41.0325,
+        "log": 14.595833,
+        "stato": "Italia",
+        "regione": "provincia di Avellino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rottofreno",
+        "lat": 45.057931,
+        "log": 9.54895,
+        "stato": "Italia",
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Fontenay-sous-Bois",
+                "lat": 48.85,
+                "log": 2.483333,
+                "stato": "Francia",
+                "regione": "Valle della Marna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rotzo",
+        "lat": 45.866667,
+        "log": 11.4,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roure",
+        "lat": 45.001413,
+        "log": 7.129432,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rovasenda",
+        "lat": 45.533333,
+        "log": 8.316667,
+        "stato": "Italia",
+        "regione": "provincia di Vercelli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pontcharra",
+                "lat": 45.433333,
+                "log": 6.016667,
+                "stato": "Francia",
+                "regione": "cantone di Goncelin",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rovato",
+        "lat": 45.567039,
+        "log": 9.998601,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rovegno",
+        "lat": 44.575872,
+        "log": 9.278839,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rovellasca",
+        "lat": 45.666667,
+        "log": 9.05,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rovello Porro",
+        "lat": 45.65,
+        "log": 9.033333,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roverbella",
+        "lat": 45.266667,
+        "log": 10.766667,
+        "stato": "Italia",
+        "regione": "provincia di Mantova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roverchiara",
+        "lat": 45.266667,
+        "log": 11.25,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roveredo di Guà",
+        "lat": 45.266667,
+        "log": 11.45,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roveredo in Piano",
+        "lat": 46.016667,
+        "log": 12.616667,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Pordenone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rovereto",
+        "lat": 45.883333,
+        "log": 11.034167,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Kufstein",
+                "lat": 47.583333,
+                "log": 12.166667,
+                "stato": "Austria",
+                "regione": "distretto di Kufstein",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Forchheim",
+                "lat": 49.71972222,
+                "log": 11.05805556,
+                "stato": "Germania",
+                "regione": "Alta Franconia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dolní Dobrouč",
+                "lat": 49.99277778,
+                "log": 16.49777778,
+                "stato": "Repubblica Ceca",
+                "regione": "Distretto di Ústí nad Orlicí",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bento Gonçalves (Rio Grande do Sul)",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zabrze",
+                "lat": 50.3,
+                "log": 18.783333,
+                "stato": "Polonia",
+                "regione": "voivodato della Slesia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roveré Veronese",
+        "lat": 45.6,
+        "log": 11.066667,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roveré della Luna",
+        "lat": 46.25,
+        "log": 11.166667,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rovescala",
+        "lat": 45.016667,
+        "log": 9.35,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rovetta",
+        "lat": 45.892989,
+        "log": 9.983457,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Vilafant",
+                "lat": 42.246755,
+                "log": 2.937935,
+                "stato": "Spagna",
+                "regione": "Alt Empordà",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Roviano",
+        "lat": 42.02575,
+        "log": 12.99436,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rovigo",
+        "lat": 45.0809,
+        "log": 11.794,
+        "stato": "Italia",
+        "regione": "provincia di Rovigo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Viernheim",
+                "lat": 49.537986,
+                "log": 8.579236,
+                "stato": "Germania",
+                "regione": "circondario della Bergstraße",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bedford",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tulcea",
+                "lat": 45.18333333,
+                "log": 28.8,
+                "stato": "Romania",
+                "regione": "distretto di Tulcea",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Satonévri",
+                "lat": 45.0809,
+                "log": 11.794,
+                "stato": "Italia",
+                "regione": "provincia di Rovigo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rovito",
+        "lat": 39.316667,
+        "log": 16.316667,
+        "stato": "Italia",
+        "regione": "provincia di Cosenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rovolon",
+        "lat": 45.379955,
+        "log": 11.654579,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cotiporã",
+                "lat": -28.99527778,
+                "log": -51.69638889,
+                "stato": "Brasile",
+                "regione": "Rio Grande do Sul",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rozzano",
+        "lat": 45.383333,
+        "log": 9.15,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Roè Volciano",
+        "lat": 45.618205,
+        "log": 10.498306,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rubano",
+        "lat": 45.433333,
+        "log": 11.783333,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Notre-Dame-de-Gravenchon",
+                "lat": 49.483333,
+                "log": 0.583333,
+                "stato": "Francia",
+                "regione": "cantone di Lillebonne",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rubiana",
+        "lat": 45.137946,
+        "log": 7.38483,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rubiera",
+        "lat": 44.65,
+        "log": 10.783333,
+        "stato": "Italia",
+        "regione": "provincia di Reggio Emilia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Neulingen",
+                "lat": 48.968333,
+                "log": 8.724722,
+                "stato": "Germania",
+                "regione": "circondario dell'Enz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Győrújbarát",
+                "lat": 47.6079,
+                "log": 17.646361,
+                "stato": "Ungheria",
+                "regione": "Distretto di Győr",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bjelovar",
+                "lat": 45.9,
+                "log": 16.81666667,
+                "stato": "Croazia",
+                "regione": "regione di Bjelovar e della Bilogora",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ruda (Italia)",
+        "lat": 45.833333,
+        "log": 13.4,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rudiano",
+        "lat": 45.483333,
+        "log": 9.883333,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rueglio",
+        "lat": 45.468258,
+        "log": 7.754616,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ruffano",
+        "lat": 39.983333,
+        "log": 18.25,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ruffia",
+        "lat": 44.715426,
+        "log": 7.601276,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ruffré-Mendola",
+        "lat": 46.414813,
+        "log": 11.177774,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rufina",
+        "lat": 43.816667,
+        "log": 11.483333,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sainte-Ruffine",
+                "lat": 49.1,
+                "log": 6.1,
+                "stato": "Francia",
+                "regione": "cantone di Ars-sur-Moselle",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kurgan (Russia){{!}}Kurgan",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dettelbach",
+                "lat": 49.80138889,
+                "log": 10.16027778,
+                "stato": "Germania",
+                "regione": "circondario di Kitzingen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ruinas",
+        "lat": 39.90631,
+        "log": 8.89705,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rumo",
+        "lat": 46.44265,
+        "log": 11.016557,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ruoti",
+        "lat": 40.716667,
+        "log": 15.683333,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Russi (Italia)",
+        "lat": 44.37645,
+        "log": 12.03335,
+        "stato": "Italia",
+        "regione": "provincia di Ravenna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saluggia",
+                "lat": 45.233333,
+                "log": 8.016667,
+                "stato": "Italia",
+                "regione": "provincia di Vercelli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bopfingen",
+                "lat": 48.856944,
+                "log": 10.352222,
+                "stato": "Germania",
+                "regione": "Circondario di Ostalb",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Beaumont",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Podbořany",
+                "lat": 50.22833333,
+                "log": 13.40861111,
+                "stato": "Repubblica Ceca",
+                "regione": "Distretto di Louny",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montescudo-Monte Colombo",
+                "lat": 43.916667,
+                "log": 12.55,
+                "stato": "Italia",
+                "regione": "provincia di Rimini",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Rutigliano",
+        "lat": 40.996877,
+        "log": 17.006853,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Rutino",
+        "lat": 40.3,
+        "log": 15.066667,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ruviano",
+        "lat": 41.216667,
+        "log": 14.416667,
+        "stato": "Italia",
+        "regione": "provincia di Caserta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ruvo del Monte",
+        "lat": 40.847222,
+        "log": 15.54,
+        "stato": "Italia",
+        "regione": "provincia di Potenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ruvo di Puglia",
+        "lat": 41.117289,
+        "log": 16.483725,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

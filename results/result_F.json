@@ -507,10 +507,10 @@
         "gemelli": [
             {
                 "comune": "Rastatt",
-                "lat": 48.910278,
-                "log": 8.253056,
+                "lat": 48.761944,
+                "log": 8.240833,
                 "stato": "Germania",
-                "regione": "circondario di Rastatt",
+                "regione": "Distretto governativo di Karlsruhe",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -537,11 +537,11 @@
             },
             {
                 "comune": "Stříbro",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 46.30527778,
+                "log": 6.17111111,
+                "stato": "Svizzera",
+                "regione": "canton Vaud",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1089,7 +1089,88 @@
         "regione": "provincia di Belluno",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Bagnols-sur-Cèze",
+                "lat": 44.166667,
+                "log": 4.616667,
+                "stato": "Francia",
+                "regione": "Gard",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Braunfels",
+                "lat": 50.5175,
+                "log": 8.388889,
+                "stato": "Germania",
+                "regione": "Circondario di Lahn-Dill",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Eeklo",
+                "lat": 51.18333333,
+                "log": 3.55,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Eeklo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Newbury",
+                "lat": 42.80138889,
+                "log": -70.98972222,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Essex",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kiskunfélegyháza",
+                "lat": 46.705,
+                "log": 19.85,
+                "stato": "Ungheria",
+                "regione": "Distretto di Kiskunfélegyháza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dudelange",
+                "lat": 49.483333,
+                "log": 6.083333,
+                "stato": "Lussemburgo",
+                "regione": "cantone di Esch-sur-Alzette",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Colonia del Sacramento",
+                "lat": 38.555556,
+                "log": -121.468889,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Sacramento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Carcaixent",
+                "lat": 39.1167,
+                "log": -0.4333,
+                "stato": "Spagna",
+                "regione": "Ribera Alta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Fenegrò",
@@ -1345,11 +1426,11 @@
             },
             {
                 "comune": "Swansea",
-                "lat": null,
-                "log": null,
-                "stato": "",
+                "lat": 51.616667,
+                "log": -3.966668,
+                "stato": "Regno Unito",
                 "regione": "",
-                "found_coords": false,
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -2074,7 +2155,78 @@
         "regione": "provincia di Savona",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Vittorio Veneto",
+                "lat": 45.983333,
+                "log": 12.3,
+                "stato": "Italia",
+                "regione": "provincia di Treviso",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montechiaro d'Asti",
+                "lat": 45.008333,
+                "log": 8.1125,
+                "stato": "Italia",
+                "regione": "provincia di Asti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ocean City (Maryland)",
+                "lat": 38.39139,
+                "log": -75.06944,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Worcester",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Racalmuto",
+                "lat": 37.408333,
+                "log": 13.734722,
+                "stato": "Italia",
+                "regione": "provincia di Agrigento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Benalmádena",
+                "lat": 36.6,
+                "log": -4.5167,
+                "stato": "Spagna",
+                "regione": "provincia di Malaga",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Coseano",
+                "lat": 46.1,
+                "log": 13.016667,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Udine",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Saint-Victoret",
+                "lat": 43.416667,
+                "log": 5.233333,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Fino Mornasco",
@@ -2539,10 +2691,10 @@
             },
             {
                 "comune": "Ningbo",
-                "lat": 29.68972222,
-                "log": 121.27611111,
+                "lat": 30.25,
+                "log": 120.16666667,
                 "stato": "Cina",
-                "regione": "Fenghua",
+                "regione": "Cina",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -3410,7 +3562,38 @@
         "regione": "provincia di Latina",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Dachau",
+                "lat": 48.260278,
+                "log": 11.434167,
+                "stato": "Germania",
+                "regione": "circondario di Dachau",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Wodzisław Śląski",
+                "lat": 50,
+                "log": 18.45,
+                "stato": "Polonia",
+                "regione": "distretto di Wodzisław Śląski",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mangalia",
+                "lat": 43.81666667,
+                "log": 28.58333333,
+                "stato": "Romania",
+                "regione": "distretto di Costanza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Fonni",
@@ -3665,7 +3848,18 @@
         "regione": "provincia di Roma",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Cape Canaveral",
+                "lat": 28.388333,
+                "log": -80.603611,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Brevard",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Fontecchio",
@@ -3796,7 +3990,18 @@
         "regione": "provincia di Oristano",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Samoëns",
+                "lat": 46.083333,
+                "log": 6.733333,
+                "stato": "Francia",
+                "regione": "cantone di Samoëns",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Forenza",
@@ -4335,11 +4540,11 @@
         "gemelli": [
             {
                 "comune": "Haan",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 51.2731,
+                "log": 3.0336,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Ostenda",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -4418,11 +4623,11 @@
     },
     {
         "comune": "Fossa (comune)",
-        "lat": 42.29273,
-        "log": 13.48779,
-        "stato": "Italia",
-        "regione": "provincia dell'Aquila",
-        "found_coords": true,
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
         "gemelli": []
     },
@@ -4454,7 +4659,18 @@
         "regione": "provincia di Venezia",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Aucamville",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Fossalto",
@@ -4477,11 +4693,11 @@
         "gemelli": [
             {
                 "comune": "Rafaela",
-                "lat": -31.25,
-                "log": -61.35,
-                "stato": "Argentina",
-                "regione": "Dipartimento di Castellanos",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -4689,7 +4905,18 @@
         "regione": "provincia di Benevento",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Santo Stefano di Rogliano",
+                "lat": 39.203722,
+                "log": 16.374576,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Fragneto l'Abate",
@@ -4859,7 +5086,48 @@
         "regione": "provincia di Roma",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Saint-Cloud",
+                "lat": 48.843611,
+                "log": 2.22,
+                "stato": "Francia",
+                "regione": "Hauts-de-Seine",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Maidenhead",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Courtrai",
+                "lat": 50.81666667,
+                "log": 3.26666667,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Courtrai",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bad Godesberg",
+                "lat": 50.735278,
+                "log": 7.102222,
+                "stato": "Germania",
+                "regione": "distretto governativo di Colonia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Frascineto",
@@ -5002,8 +5270,8 @@
             },
             {
                 "comune": "Recanati",
-                "lat": 43.39855,
-                "log": 13.552531,
+                "lat": 43.429864,
+                "log": 13.664889,
                 "stato": "Italia",
                 "regione": "provincia di Macerata",
                 "found_coords": true,
@@ -5135,11 +5403,11 @@
             },
             {
                 "comune": "Püttlingen",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 49.283333,
+                "log": 6.883333,
+                "stato": "Germania",
+                "regione": "Confederazione regionale di Saarbrücken",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -5155,11 +5423,11 @@
             },
             {
                 "comune": "Senftenberg",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 51.516667,
+                "log": 14.016667,
+                "stato": "Germania",
+                "regione": "circondario dell'Oberspreewald-Lusazia",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -5395,7 +5663,18 @@
         "regione": "provincia di Alessandria",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Sokponta",
+                "lat": 7.866667,
+                "log": 2.233333,
+                "stato": "Benin",
+                "regione": "Glazoué",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Fucecchio",
@@ -5615,10 +5894,10 @@
     },
     {
         "comune": "Fusine (Italia)",
-        "lat": 46.149041,
-        "log": 9.749098,
+        "lat": 46.4788,
+        "log": 13.67,
         "stato": "Italia",
-        "regione": "provincia di Sondrio",
+        "regione": "",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []

@@ -289,7 +289,18 @@
         "regione": "provincia di Lecco",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Rousínov",
+                "lat": 49.12777778,
+                "log": 16.76361111,
+                "stato": "Impero austriaco",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Desana",
@@ -679,11 +690,11 @@
             },
             {
                 "comune": "Lautertal",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 50.333333,
+                "log": 10.966667,
+                "stato": "Germania",
+                "regione": "circondario di Coburgo",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }

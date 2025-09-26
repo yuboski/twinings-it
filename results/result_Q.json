@@ -120,6 +120,16 @@
         "found_claims": true,
         "gemelli": [
             {
+                "comune": "Vaslui",
+                "lat": 46.63333333,
+                "log": 27.73333333,
+                "stato": "Romania",
+                "regione": "distretto di Vaslui",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
                 "comune": "Aguenit",
                 "lat": 22.18333333,
                 "log": -13.13333333,
@@ -163,11 +173,11 @@
     },
     {
         "comune": "Quartu Sant'Elena",
-        "lat": 39.24135,
-        "log": 9.18392,
+        "lat": null,
+        "log": null,
         "stato": "Italia",
-        "regione": "provincia di Cagliari",
-        "found_coords": true,
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
         "gemelli": []
     },
@@ -240,7 +250,38 @@
         "regione": "provincia di Savona",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Aidussina",
+                "lat": 45.885789,
+                "log": 13.912817,
+                "stato": "Slovenia",
+                "regione": "Repubblica Socialista di Slovenia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Great Wyrley",
+                "lat": null,
+                "log": null,
+                "stato": "Regno Unito",
+                "regione": "Midlands Occidentali",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mâcon",
+                "lat": 46.3,
+                "log": 4.833333,
+                "stato": "Francia",
+                "regione": "Saona e Loira",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Quincinetto",
@@ -285,11 +326,11 @@
     },
     {
         "comune": "Quintano",
-        "lat": null,
-        "log": null,
+        "lat": 45.416667,
+        "log": 9.616667,
         "stato": "Italia",
-        "regione": "Foligno",
-        "found_coords": false,
+        "regione": "provincia di Cremona",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },

@@ -376,11 +376,11 @@
         "gemelli": [
             {
                 "comune": "Liancourt",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 49.330833,
+                "log": 2.465278,
+                "stato": "Francia",
+                "regione": "cantone di Liancourt",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1331,11 +1331,11 @@
             },
             {
                 "comune": "Garden City",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 37.9753,
+                "log": -100.864,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Finney",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -1583,7 +1583,18 @@
         "regione": "provincia di Caserta",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Horta de Sant Joan",
+                "lat": 40.955641,
+                "log": 0.315115,
+                "stato": "Spagna",
+                "regione": "Terra Alta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Ortacesus",
@@ -1800,11 +1811,11 @@
             },
             {
                 "comune": "Maebashi",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 42.716667,
+                "log": 12.1,
+                "stato": "Italia",
+                "regione": "provincia di Terni",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -2003,11 +2014,11 @@
             },
             {
                 "comune": "Sofia",
-                "lat": 42.697886,
-                "log": 23.321726,
-                "stato": "Bulgaria",
-                "regione": "comune della capitale",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -2336,11 +2347,11 @@
             },
             {
                 "comune": "Čitluk",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 43.2,
+                "log": 17.7,
+                "stato": "Bosnia ed Erzegovina",
+                "regione": "cantone dell'Erzegovina-Narenta",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },

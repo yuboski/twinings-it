@@ -7,8 +7,8 @@ file_pattern = "results/result_*.json"
 output_db = "db/twinings.db"
 output_reports = "docs/reports"
 
-generate = False
-show_report = True
+generate_db = True
+generate_report = True
 
 def get_cell_text(val):
     if isinstance(val, (int, float)):
@@ -36,7 +36,7 @@ def save_rows_to_html(rows, cursor, filename):
 conn = sqlite3.connect(output_db)
 c = conn.cursor()
 
-if generate:
+if generate_db:
     sql = """
         DROP TABLE IF EXISTS comuni
     """
@@ -104,7 +104,7 @@ if generate:
 
 
 
-if show_report:
+if generate_report:
 
     sql = """SELECT count(*) as comuni_total from comuni"""
     c.execute(sql)
@@ -135,6 +135,17 @@ if show_report:
     c.execute(sql)
     rows = c.fetchall()
     save_rows_to_html(rows, c, output_reports + '/top-20-distance-local.html')
+
+    sql = """SELECT C.comune, C.provincia, T.comune as twin, T.provincia, round(T.distance) as distance
+    from comuni C inner join twins T on C.id = T.idParent 
+    where not distance is null and distance > 0
+    order by distance ASC
+    limit 20
+
+    """
+    c.execute(sql)
+    rows = c.fetchall()
+    save_rows_to_html(rows, c, output_reports + '/top-20-less-distance.html')
 
     sql = """SELECT C.comune, C.provincia, count(T.id) as twins_count
     from comuni C inner join twins T on C.id = T.idParent 
@@ -180,15 +191,76 @@ print ("TEMP QUERY")
 print("-" * 80)
 print()
 
-sql = """    SELECT count(t.id) from twins T
-where T.stato = ''
+
+
+
+
+
+sql = """SELECT C.comune, T.* from twins T
+inner join comuni C  on C.id = T.idParent
+where T.stato is null or T.stato = ''
 """
 c.execute(sql)
 rows = c.fetchall()
+save_rows_to_html(rows, c, output_reports + '/twin-without-state.html')
 print("-" * 100)
 for row in rows:
     print(" ".join(f"{str(col):<20}" for col in row))
 
+
+sql = """SELECT count(T.id) from twins T
+inner join comuni C  on C.id = T.idParent
+where T.stato is null or T.stato = ''
+"""
+c.execute(sql)
+rows = c.fetchall()
+save_rows_to_html(rows, c, output_reports + '/count-twin-without-state.html')
+print("-" * 100)
+for row in rows:
+    print(" ".join(f"{str(col):<20}" for col in row))
+
+
+
+sql = """SELECT C.comune, T.* from twins T
+inner join comuni C  on C.id = T.idParent
+where T.lat is null or T.log is null
+"""
+c.execute(sql)
+rows = c.fetchall()
+save_rows_to_html(rows, c, output_reports + '/twin-without-coords.html')
+print("-" * 100)
+for row in rows:
+    print(" ".join(f"{str(col):<20}" for col in row))
+
+
+sql = """SELECT count(T.id) from twins T
+inner join comuni C  on C.id = T.idParent
+where T.lat is null or T.log is null
+"""
+c.execute(sql)
+rows = c.fetchall()
+save_rows_to_html(rows, c, output_reports + '/count-twin-without-coords.html')
+print("-" * 100)
+for row in rows:
+    print(" ".join(f"{str(col):<20}" for col in row))
+
+
+sql = """
+select 'without', (
+    SELECT count(C.id) from comuni C
+    LEFT join twins T on C.id = T.idParent
+    where T.id is null) as count
+union
+select 'with', (
+    SELECT count(C.id) from comuni C
+    INNER join twins T on C.id = T.idParent) as count
+"""
+c.execute(sql)
+rows = c.fetchall()
+save_rows_to_html(rows, c, output_reports + '/count-comuni-without-twins.html')
+print("-" * 100)
+for row in rows:
+    print(" ".join(f"{str(col):<20}" for col in row))
 
 
 

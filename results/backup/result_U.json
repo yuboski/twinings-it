@@ -1,0 +1,739 @@
+[
+    {
+        "comune": "Ubiale Clanezzo",
+        "lat": 45.783333,
+        "log": 9.616667,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Uboldo",
+        "lat": 45.616667,
+        "log": 9,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ucria",
+        "lat": 38.05,
+        "log": 14.883333,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Gozzano",
+                "lat": 45.75,
+                "log": 8.433333,
+                "stato": "Italia",
+                "regione": "provincia di Novara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Udine",
+        "lat": 46.066667,
+        "log": 13.233333,
+        "stato": "Italia",
+        "regione": "ente di decentramento regionale di Udine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Esslingen am Neckar",
+                "lat": 48.740556,
+                "log": 9.310833,
+                "stato": "Germania",
+                "regione": "circondario di Esslingen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Vienne (Francia){{!}}Vienne",
+                "lat": 45.516667,
+                "log": 4.866667,
+                "stato": "Francia",
+                "regione": "cantone di Vienne-Nord",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Neath Port Talbot",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Norrköping",
+                "lat": 58.579331,
+                "log": 16.149318,
+                "stato": "Svezia",
+                "regione": "Norrköping",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Schiedam",
+                "lat": 51.918055,
+                "log": 4.39722,
+                "stato": "Paesi Bassi",
+                "regione": "Olanda Meridionale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Villaco",
+                "lat": 46.6,
+                "log": 13.83333333,
+                "stato": "Austria",
+                "regione": "Carinzia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Belgrado",
+                "lat": 44.82055556,
+                "log": 20.46222222,
+                "stato": "Regno d'Ungheria",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tirana",
+                "lat": 41.328889,
+                "log": 19.817778,
+                "stato": "Albania",
+                "regione": "comune di Tirana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Timișoara",
+                "lat": 45.78333333,
+                "log": 21.28333333,
+                "stato": "Regno di Romania",
+                "regione": "distretto di Timiș",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Maribor",
+                "lat": 46.55,
+                "log": 15.65,
+                "stato": "Slovenia",
+                "regione": "Slovenia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Albacete",
+                "lat": 38.99555,
+                "log": -1.85583,
+                "stato": "Spagna",
+                "regione": "provincia di Albacete",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Yaoundé",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nyíregyháza",
+                "lat": 47.95578,
+                "log": 21.716798,
+                "stato": "Ungheria",
+                "regione": "Distretto di Nyíregyháza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Setúbal",
+                "lat": 38.524306,
+                "log": -8.892611,
+                "stato": "Portogallo",
+                "regione": "Setúbal",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Windsor (Ontario){{!}}Windsor",
+                "lat": 42.31666667,
+                "log": -83.03333333,
+                "stato": "Canada",
+                "regione": "Contea di Essex",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Resistencia",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Velenje",
+                "lat": 46.3621,
+                "log": 15.1105,
+                "stato": "Slovenia",
+                "regione": "Slovenia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Óbuda",
+                "lat": 47.498333,
+                "log": 19.040833,
+                "stato": "Ungheria",
+                "regione": "Ungheria",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bikaner",
+                "lat": 46.066667,
+                "log": 13.233333,
+                "stato": "Italia",
+                "regione": "ente di decentramento regionale di Udine",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Klagenfurt",
+                "lat": 46.616667,
+                "log": 14.3,
+                "stato": "Austria",
+                "regione": "Carinzia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Piotrków Trybunalski",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ugento",
+        "lat": 39.933333,
+        "log": 18.166667,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Uggiano la Chiesa",
+        "lat": 40.101724,
+        "log": 18.449333,
+        "stato": "Italia",
+        "regione": "provincia di Lecce",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Atrani",
+                "lat": 40.6369,
+                "log": 14.60754,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cerchiara di Calabria",
+                "lat": 39.866667,
+                "log": 16.366667,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Fossacesia",
+                "lat": 42.25,
+                "log": 14.483333,
+                "stato": "Italia",
+                "regione": "provincia di Chieti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ostra Vetere",
+                "lat": 43.603711,
+                "log": 13.057264,
+                "stato": "Italia",
+                "regione": "provincia di Ancona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lugo di Vicenza",
+                "lat": 45.75,
+                "log": 11.533333,
+                "stato": "Italia",
+                "regione": "provincia di Vicenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Zenone al Po",
+                "lat": 45.113789,
+                "log": 9.370925,
+                "stato": "Italia",
+                "regione": "provincia di Pavia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Uggiate con Ronago",
+        "lat": 45.82309,
+        "log": 8.96049,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ula Tirso",
+        "lat": 40.045226,
+        "log": 8.903604,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Peschiera del Garda",
+                "lat": 45.438611,
+                "log": 10.688611,
+                "stato": "Italia",
+                "regione": "provincia di Verona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ulassai",
+        "lat": 39.811701,
+        "log": 9.498968,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Castelnuovo di Farfa",
+                "lat": 42.233333,
+                "log": 12.75,
+                "stato": "Italia",
+                "regione": "provincia di Rieti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ultimi 100 comuni italiani per popolazione",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ultimi 100 comuni italiani per superficie",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ultimo (Italia)",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Umbertide",
+        "lat": 43.305637,
+        "log": 12.336622,
+        "stato": "Italia",
+        "regione": "provincia di Perugia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Vallier (Saona e Loira){{!}}Saint-Vallier",
+                "lat": 46.633333,
+                "log": 4.366667,
+                "stato": "Francia",
+                "regione": "cantone di Montceau-les-Mines-Sud",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tirnavos",
+                "lat": 43.305637,
+                "log": 12.336622,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Umbria",
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Umbriatico",
+        "lat": 39.353239,
+        "log": 16.918,
+        "stato": "Italia",
+        "regione": "provincia di Crotone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Urago d'Oglio",
+        "lat": 45.516667,
+        "log": 9.866667,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Uras",
+        "lat": 39.698206,
+        "log": 8.701515,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Urbana",
+        "lat": 45.183333,
+        "log": 11.45,
+        "stato": "Italia",
+        "regione": "provincia di Padova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Urbania",
+        "lat": 43.667773,
+        "log": 12.522088,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Urbe (Italia)",
+        "lat": 44.487578,
+        "log": 8.591953,
+        "stato": "Italia",
+        "regione": "provincia di Savona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Urbino",
+        "lat": 43.725239,
+        "log": 12.6372,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Blois",
+                "lat": 47.583333,
+                "log": 1.333333,
+                "stato": "Francia",
+                "regione": "arrondissement di Blois",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Locarno",
+                "lat": 46.168056,
+                "log": 8.788611,
+                "stato": "Svizzera",
+                "regione": "Circolo di Locarno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Urbisaglia",
+        "lat": 43.197261,
+        "log": 13.377339,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Urgnano",
+        "lat": 45.597222,
+        "log": 9.695,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Uri (Italia)",
+        "lat": 40.638889,
+        "log": 8.488056,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ururi",
+        "lat": 41.816667,
+        "log": 15.016667,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Urzulei",
+        "lat": 40.092945,
+        "log": 9.507594,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Uscio",
+        "lat": 44.413203,
+        "log": 9.162958,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Usellus",
+        "lat": 39.807613,
+        "log": 8.852406,
+        "stato": "Italia",
+        "regione": "provincia di Oristano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Usini",
+        "lat": 40.663333,
+        "log": 8.540833,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Usmate Velate",
+        "lat": 45.65,
+        "log": 9.35,
+        "stato": "Italia",
+        "regione": "provincia di Monza e della Brianza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ussana",
+        "lat": 39.393755,
+        "log": 9.074707,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ussaramanna",
+        "lat": 39.691767,
+        "log": 8.908625,
+        "stato": "Italia",
+        "regione": "provincia del Medio Campidano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ussassai",
+        "lat": 39.810118,
+        "log": 9.394856,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Usseaux",
+        "lat": 45.05,
+        "log": 7.033333,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Usseglio",
+        "lat": 45.233333,
+        "log": 7.216667,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ussita",
+        "lat": 42.944131,
+        "log": 13.14295,
+        "stato": "Italia",
+        "regione": "provincia di Macerata",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ustica",
+        "lat": 38.71,
+        "log": 13.188889,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Uta (Italia)",
+        "lat": 39.288343,
+        "log": 8.957634,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Uzzano",
+        "lat": 43.888824,
+        "log": 10.708848,
+        "stato": "Italia",
+        "regione": "provincia di Pistoia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

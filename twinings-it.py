@@ -84,7 +84,8 @@ def get_gemellaggi(title):
 
     # Cerca tutti i template {{Gemellaggio|Paese|Comune|...}}
     for tpl in wikicode.filter_templates():
-        if tpl.name.strip() == "Gemellaggio":
+#        if tpl.name.strip() in ("Gemellaggio", "Gemellaggi"):
+        if "gemellaggi" in tpl.name.strip().lower():
             if tpl.has(2):
                 comune = tpl.get(2).value.strip()  # parametro 2 = Comune
                 gemelli.append(comune)
@@ -137,9 +138,10 @@ def get_comune_real_name(title):
     r = requests.get(WIKI_API, params=params, headers=HEADERS, timeout=10)
     data = r.json()
 
-    if data["query"]["search"]:
+    if data.get("query", {}).get("search"):
         title = data["query"]["search"][0]["title"]
-
+    if "(disambigua)" in title.lower():
+        title = title.replace("(disambigua)", "").strip()
     return title
 
 def search_comune_properties(comune, search_gemelli):
@@ -178,11 +180,11 @@ def search_comune_list(comuni, search_gemelli):
 
 if __name__ == "__main__":
     
-    #search_comune_properties("Torre Pellice", True)
+    # search_comune_properties("Alseno", True)
 
     #TODO: lista lettere da cercare
-    lettere = list(string.ascii_uppercase)
-    #lettere = list("TUVWXYZ")
+    #lettere = list(string.ascii_uppercase)
+    lettere = list("MNOPQRSTUVWXYZ")
 
     for lettera in lettere:
         comuni = get_comuni_lettera(lettera)

@@ -474,7 +474,28 @@
         "regione": "provincia di Roma",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Ceyrat",
+                "lat": 45.733333,
+                "log": 3.066667,
+                "stato": "Francia",
+                "regione": "Puy-de-Dôme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Intepé",
+                "lat": 40.147778,
+                "log": 26.405556,
+                "stato": "Turchia",
+                "regione": "provincia di Çanakkale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Nemoli",
@@ -596,6 +617,76 @@
         "found_coords": true,
         "found_claims": true,
         "gemelli": [
+            {
+                "comune": "Corinaldo",
+                "lat": 43.6489,
+                "log": 13.0479,
+                "stato": "Italia",
+                "regione": "provincia di Ancona",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Traunreut",
+                "lat": 47.966667,
+                "log": 12.583333,
+                "stato": "Germania",
+                "regione": "circondario di Traunstein",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bandol",
+                "lat": 43.133333,
+                "log": 5.75,
+                "stato": "Francia",
+                "regione": "Var",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ardee",
+                "lat": 41.4575,
+                "log": 12.66111111,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Wehr (Baden-Württemberg){{!}}Wehr",
+                "lat": 47.633056,
+                "log": 7.904167,
+                "stato": "Germania",
+                "regione": "circondario di Waldshut",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Jaguariúna",
+                "lat": -22.69777778,
+                "log": -46.98777778,
+                "stato": "Brasile",
+                "regione": "San Paolo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cleveland",
+                "lat": 41.499167,
+                "log": -81.694722,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Cuyahoga",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
             {
                 "comune": "Ipswich",
                 "lat": 42.67916667,
@@ -1331,8 +1422,8 @@
             },
             {
                 "comune": "Hamilton (Contea di Mercer, New Jersey){{!}}Hamilton",
-                "lat": 40.20833333,
-                "log": -74.67472222,
+                "lat": 40.2959,
+                "log": -74.7201,
                 "stato": "Stati Uniti d’America",
                 "regione": "contea di Mercer",
                 "found_coords": true,
@@ -1502,7 +1593,38 @@
         "regione": "provincia di Novara",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Chalon-sur-Saône",
+                "lat": 46.783333,
+                "log": 4.85,
+                "stato": "Francia",
+                "regione": "Saona e Loira",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Coblenza",
+                "lat": 50.359722,
+                "log": 7.597778,
+                "stato": "Germania",
+                "regione": "Renania-Palatinato",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Haskovo",
+                "lat": 41.93465,
+                "log": 25.55556,
+                "stato": "Bulgaria",
+                "regione": "Haskovo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Novara di Sicilia",

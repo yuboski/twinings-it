@@ -142,11 +142,11 @@
     },
     {
         "comune": "La Loggia",
-        "lat": null,
-        "log": null,
+        "lat": 44.957744,
+        "log": 7.667324,
         "stato": "Italia",
-        "regione": "San Gimignano",
-        "found_coords": false,
+        "regione": "provincia di Torino",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -220,7 +220,18 @@
         "regione": "Valle d'Aosta",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Saint-Just-le-Martel",
+                "lat": 45.866667,
+                "log": 1.383333,
+                "stato": "Francia",
+                "regione": "cantone di Limoges-Panazol",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "La Spezia",
@@ -257,6 +268,16 @@
                 "log": -122.256638,
                 "stato": "Stati Uniti d’America",
                 "regione": "contea di Solano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Izumisano",
+                "lat": 34.406833,
+                "log": 135.327306,
+                "stato": "Giappone",
+                "regione": "prefettura di Osaka",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -306,11 +327,11 @@
     },
     {
         "comune": "La Valle",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 46.071667,
+        "log": 8.607222,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -608,11 +629,11 @@
         "gemelli": [
             {
                 "comune": "Chacabuco",
-                "lat": -45.4616,
-                "log": -72.8135,
-                "stato": "Cile",
-                "regione": "Aysén",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "Argentina",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -829,7 +850,18 @@
         "regione": "provincia di Agrigento",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "We`a",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Lamporecchio",
@@ -970,7 +1002,18 @@
         "regione": "provincia di Roma",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Centuripe",
+                "lat": 37.623276,
+                "log": 14.739489,
+                "stato": "Italia",
+                "regione": "Libero consorzio comunale di Enna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Lanzada",
@@ -1082,7 +1125,48 @@
         "regione": "provincia di Roma",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Sausset-les-Pins",
+                "lat": 43.333333,
+                "log": 5.116667,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Victoria",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Crecchio",
+                "lat": 42.296667,
+                "log": 14.326111,
+                "stato": "Italia",
+                "regione": "provincia di Chieti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Ferdinando di Puglia",
+                "lat": 41.3,
+                "log": 16.066667,
+                "stato": "Italia",
+                "regione": "provincia di Barletta-Andria-Trani",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Larino",
@@ -1553,11 +1637,11 @@
         "gemelli": [
             {
                 "comune": "Aquilonia",
-                "lat": 40.987778,
-                "log": 15.475278,
-                "stato": "Italia",
-                "regione": "provincia di Avellino",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1836,6 +1920,56 @@
         "found_coords": true,
         "found_claims": true,
         "gemelli": [
+            {
+                "comune": "Mâcon",
+                "lat": 46.3,
+                "log": 4.833333,
+                "stato": "Francia",
+                "regione": "Saona e Loira",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Overijse",
+                "lat": 50.76666667,
+                "log": 4.53333333,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Halle-Vilvoorde",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Igualada",
+                "lat": 41.581389,
+                "log": 1.620833,
+                "stato": "Spagna",
+                "regione": "Anoia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Szombathely",
+                "lat": 47.233333,
+                "log": 16.633333,
+                "stato": "Ungheria",
+                "regione": "Distretto di Szombathely",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mytišči",
+                "lat": 55.91666667,
+                "log": 37.76666667,
+                "stato": "Russia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
             {
                 "comune": "Bochum",
                 "lat": 51.483333,
@@ -2643,11 +2777,11 @@
     },
     {
         "comune": "Liberi (Italia)",
-        "lat": 41.216667,
-        "log": 14.283333,
-        "stato": "Italia",
-        "regione": "provincia di Caserta",
-        "found_coords": true,
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
         "gemelli": []
     },
@@ -3204,7 +3338,58 @@
         "regione": "provincia di Livorno",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Bat Yam",
+                "lat": 32.08,
+                "log": 34.78,
+                "stato": "Israele",
+                "regione": "distretto di Tel Aviv",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Guadalajara (Spagna){{!}}Guadalajara",
+                "lat": 40.633056,
+                "log": -3.166667,
+                "stato": "Spagna",
+                "regione": "provincia di Guadalajara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Haiphong",
+                "lat": 21.0245,
+                "log": 105.84117,
+                "stato": "Vietnam",
+                "regione": "Vietnam",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Novorossijsk",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Oakland",
+                "lat": 42.680556,
+                "log": -83.133889,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Oakland",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Livorno Ferraris",
@@ -3783,7 +3968,28 @@
         "regione": "provincia di Cosenza",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Signa",
+                "lat": 43.783333,
+                "log": 11.1,
+                "stato": "Italia",
+                "regione": "provincia di Firenze",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Luzzi",
+                "lat": 39.45,
+                "log": 16.283333,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Longone Sabino",
@@ -5009,6 +5215,17 @@
         "regione": "provincia di Cosenza",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Longobucco",
+                "lat": 39.45,
+                "log": 16.616667,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     }
 ]
