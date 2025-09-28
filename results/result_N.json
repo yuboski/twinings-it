@@ -40,10 +40,10 @@
         "gemelli": [
             {
                 "comune": "Kagoshima",
-                "lat": 40.835833,
-                "log": 14.248611,
-                "stato": "Italia",
-                "regione": "città metropolitana di Napoli",
+                "lat": 31.596722,
+                "log": 130.557194,
+                "stato": "Giappone",
+                "regione": "prefettura di Kagoshima",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -160,11 +160,11 @@
             },
             {
                 "comune": "Cancún",
-                "lat": 21.161416,
-                "log": -86.824811,
-                "stato": "Messico",
-                "regione": "Benito Juárez",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -283,11 +283,11 @@
         "gemelli": [
             {
                 "comune": "Tenda",
-                "lat": 44.087778,
-                "log": 7.593611,
-                "stato": "Francia",
-                "regione": "Alpi Marittime",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -357,11 +357,11 @@
     },
     {
         "comune": "Nave (Italia)",
-        "lat": 45.585,
-        "log": 10.283333,
+        "lat": null,
+        "log": null,
         "stato": "Italia",
-        "regione": "provincia di Brescia",
-        "found_coords": true,
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
         "gemelli": []
     },
@@ -408,11 +408,11 @@
     },
     {
         "comune": "Ne (Italia)",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 44.344519,
+        "log": 9.398547,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -487,10 +487,10 @@
             },
             {
                 "comune": "Intepé",
-                "lat": 40.147778,
-                "log": 26.405556,
-                "stato": "Turchia",
-                "regione": "provincia di Çanakkale",
+                "lat": 41.72185,
+                "log": 12.71809,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -580,11 +580,11 @@
     },
     {
         "comune": "Nespolo (Italia)",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 42.15,
+        "log": 13.066667,
+        "stato": "Italia",
+        "regione": "provincia di Rieti",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -649,10 +649,10 @@
             },
             {
                 "comune": "Ardee",
-                "lat": 41.4575,
-                "log": 12.66111111,
-                "stato": "Italia",
-                "regione": "provincia di Roma",
+                "lat": 53.855362,
+                "log": -6.537895,
+                "stato": "Irlanda",
+                "regione": "Louth",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -689,10 +689,10 @@
             },
             {
                 "comune": "Ipswich",
-                "lat": 42.67916667,
-                "log": -70.84111111,
-                "stato": "Stati Uniti d’America",
-                "regione": "contea di Essex",
+                "lat": 52.059444,
+                "log": 1.155556,
+                "stato": "Regno Unito",
+                "regione": "Ipswich",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -903,11 +903,11 @@
         "gemelli": [
             {
                 "comune": "Collio",
-                "lat": 45.81111111,
-                "log": 10.33333333,
-                "stato": "Italia",
-                "regione": "provincia di Brescia",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -1057,11 +1057,11 @@
         "gemelli": [
             {
                 "comune": "Frosinone",
-                "lat": 41.633333,
-                "log": 13.35,
+                "lat": null,
+                "log": null,
                 "stato": "Italia",
-                "regione": "provincia di Frosinone",
-                "found_coords": true,
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1088,11 +1088,11 @@
         "gemelli": [
             {
                 "comune": "Walnut Creek",
-                "lat": 37.906313,
-                "log": -122.064963,
-                "stato": "Stati Uniti d’America",
-                "regione": "contea di Contra Costa",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1190,11 +1190,11 @@
     },
     {
         "comune": "Noicattaro",
-        "lat": 41.033333,
-        "log": 16.983333,
+        "lat": null,
+        "log": null,
         "stato": "Italia",
-        "regione": "provincia di Bari",
-        "found_coords": true,
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
         "gemelli": []
     },
@@ -1494,11 +1494,11 @@
         "gemelli": [
             {
                 "comune": "Pompei",
-                "lat": 40.75,
-                "log": 14.5,
-                "stato": "Italia",
-                "regione": "provincia di Napoli",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -1587,44 +1587,13 @@
     },
     {
         "comune": "Novara",
-        "lat": 45.45,
-        "log": 8.62,
+        "lat": null,
+        "log": null,
         "stato": "Italia",
-        "regione": "provincia di Novara",
-        "found_coords": true,
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
-        "gemelli": [
-            {
-                "comune": "Chalon-sur-Saône",
-                "lat": 46.783333,
-                "log": 4.85,
-                "stato": "Francia",
-                "regione": "Saona e Loira",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Coblenza",
-                "lat": 50.359722,
-                "log": 7.597778,
-                "stato": "Germania",
-                "regione": "Renania-Palatinato",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Haskovo",
-                "lat": 41.93465,
-                "log": 25.55556,
-                "stato": "Bulgaria",
-                "regione": "Haskovo",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            }
-        ]
+        "gemelli": []
     },
     {
         "comune": "Novara di Sicilia",
@@ -1758,11 +1727,11 @@
             },
             {
                 "comune": "Sancti Spíritus",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 21.933889,
+                "log": -79.443889,
+                "stato": "Cuba",
+                "regione": "provincia di Sancti Spíritus",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1819,11 +1788,11 @@
             },
             {
                 "comune": "Messina",
-                "lat": null,
-                "log": null,
+                "lat": 38.193611,
+                "log": 15.554167,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Messina",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -1850,10 +1819,10 @@
         "gemelli": [
             {
                 "comune": "Marignane",
-                "lat": 43.9393,
-                "log": 12.7137,
-                "stato": "Italia",
-                "regione": "provincia di Rimini",
+                "lat": 43.416667,
+                "log": 5.216667,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -1880,10 +1849,10 @@
             },
             {
                 "comune": "Bicester",
-                "lat": 51.75,
-                "log": -1.25,
+                "lat": 51.9,
+                "log": -1.15,
                 "stato": "Regno Unito",
-                "regione": "Sud Est dell'Inghilterra",
+                "regione": "Cherwell",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -2134,11 +2103,11 @@
         "gemelli": [
             {
                 "comune": "Tricarico",
-                "lat": 40.616667,
-                "log": 16.15,
-                "stato": "Italia",
-                "regione": "provincia di Matera",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }

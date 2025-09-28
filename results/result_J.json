@@ -1,1 +1,154 @@
-[]
+[
+    {
+        "comune": "Jacurso",
+        "lat": 38.85,
+        "log": 16.383333,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Jelsi",
+        "lat": 41.516667,
+        "log": 14.8,
+        "stato": "Italia",
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Jenne",
+        "lat": 41.883333,
+        "log": 13.166667,
+        "stato": "Italia",
+        "regione": "provincia di Roma",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Jerago con Orago",
+        "lat": 45.7,
+        "log": 8.8,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Chazelles-sur-Lyon",
+                "lat": 45.633333,
+                "log": 4.383333,
+                "stato": "Francia",
+                "regione": "cantone di Chazelles-sur-Lyon",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Untergruppenbach",
+                "lat": 49.083333,
+                "log": 9.266667,
+                "stato": "Germania",
+                "regione": "circondario di Heilbronn",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Jerzu",
+        "lat": 39.792413,
+        "log": 9.517679,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Jesi",
+        "lat": 43.522789,
+        "log": 13.24395,
+        "stato": "Italia",
+        "regione": "provincia di Ancona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Jesolo",
+        "lat": 45.53388889,
+        "log": 12.64083333,
+        "stato": "Italia",
+        "regione": "provincia di Venezia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Épinal",
+                "lat": 48.183333,
+                "log": 6.45,
+                "stato": "Francia",
+                "regione": "Vosgi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Velden am Wörther See",
+                "lat": 46.6125,
+                "log": 14.041944,
+                "stato": "Austria",
+                "regione": "distretto di Villach-Land",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Jolanda di Savoia (Italia)",
+        "lat": 44.883333,
+        "log": 11.983333,
+        "stato": "Italia",
+        "regione": "provincia di Ferrara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Joppolo",
+        "lat": 37.388056,
+        "log": 13.556111,
+        "stato": "Italia",
+        "regione": "provincia di Agrigento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Joppolo Giancaxio",
+        "lat": 37.388056,
+        "log": 13.556111,
+        "stato": "Italia",
+        "regione": "provincia di Agrigento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Jovençan",
+        "lat": 45.715556,
+        "log": 7.273611,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

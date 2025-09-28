@@ -1,1 +1,1368 @@
-[]
+[
+    {
+        "comune": "Idro",
+        "lat": 45.738889,
+        "log": 10.477778,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Iglesias (Italia)",
+        "lat": 39.310261,
+        "log": 8.537235,
+        "stato": "Italia",
+        "regione": "provincia di Carbonia-Iglesias",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Oberhausen",
+                "lat": 51.4699,
+                "log": 6.8514,
+                "stato": "Germania",
+                "regione": "Distretto governativo di Düsseldorf",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pisa",
+                "lat": 43.716667,
+                "log": 10.4,
+                "stato": "Italia",
+                "regione": "provincia di Pisa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Igliano",
+        "lat": 44.4436,
+        "log": 8.0125,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ilbono",
+        "lat": 39.892221,
+        "log": 9.546604,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Illasi",
+        "lat": 45.466667,
+        "log": 11.183333,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Wörth an der Isar",
+                "lat": 48.623,
+                "log": 12.339439,
+                "stato": "Germania",
+                "regione": "circondario di Landshut",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Illorai",
+        "lat": 40.353611,
+        "log": 8.999722,
+        "stato": "Italia",
+        "regione": "città metropolitana di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Imbersago",
+        "lat": 45.706667,
+        "log": 9.445278,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Pont-Évêque",
+                "lat": 45.533333,
+                "log": 4.916667,
+                "stato": "Francia",
+                "regione": "cantone di Vienne-Nord",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Imer",
+        "lat": 46.15204,
+        "log": 11.797339,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Faicchio",
+                "lat": 41.283333,
+                "log": 14.483333,
+                "stato": "Italia",
+                "regione": "provincia di Benevento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Piraquara",
+                "lat": -25.44444444,
+                "log": -49.06361111,
+                "stato": "Brasile",
+                "regione": "Paraná",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Imola",
+        "lat": 44.353056,
+        "log": 11.714722,
+        "stato": "Italia",
+        "regione": "provincia di Bologna",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Gennevilliers",
+                "lat": 48.933333,
+                "log": 2.3,
+                "stato": "Francia",
+                "regione": "Senna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pola",
+                "lat": 44.870278,
+                "log": 13.845556,
+                "stato": "Croazia",
+                "regione": "regione istriana",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Weinheim",
+                "lat": 49.556111,
+                "log": 8.669722,
+                "stato": "Germania",
+                "regione": "Circondario del Reno-Neckar",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Colchester",
+                "lat": 51.88333333,
+                "log": 0.9,
+                "stato": "Regno Unito",
+                "regione": "Colchester",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Zalău",
+                "lat": 47.2,
+                "log": 23.05,
+                "stato": "Romania",
+                "regione": "distretto di Sălaj",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Piła",
+                "lat": 53.15,
+                "log": 16.733333,
+                "stato": "Polonia",
+                "regione": "distretto di Piła",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ardakan",
+                "lat": 32.3,
+                "log": 54,
+                "stato": "Iran",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Imperia",
+        "lat": 43.886467,
+        "log": 8.029653,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Newport (Rhode Island){{!}}Newport",
+                "lat": 41.488002,
+                "log": -71.312622,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Newport",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rosario (Argentina){{!}}Rosario",
+                "lat": -32.951111,
+                "log": -60.666389,
+                "stato": "Argentina",
+                "regione": "Dipartimento di Rosario",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Friedrichshafen",
+                "lat": 47.654167,
+                "log": 9.479167,
+                "stato": "Germania",
+                "regione": "circondario del Lago di Costanza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Megève",
+                "lat": 45.866667,
+                "log": 6.616667,
+                "stato": "Francia",
+                "regione": "Alta Savoia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Menfi",
+                "lat": 37.607778,
+                "log": 12.968611,
+                "stato": "Italia",
+                "regione": "provincia di Agrigento",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Impruneta",
+        "lat": 43.685425,
+        "log": 11.254394,
+        "stato": "Italia",
+        "regione": "provincia di Firenze",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Prachatice",
+                "lat": 49.01277778,
+                "log": 13.99722222,
+                "stato": "Repubblica Ceca",
+                "regione": "Distretto di Prachatice",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bellerive-sur-Allier",
+                "lat": 46.116667,
+                "log": 3.4,
+                "stato": "Francia",
+                "regione": "Allier",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Hadamar",
+                "lat": 50.45,
+                "log": 8.05,
+                "stato": "Germania",
+                "regione": "circondario di Limburg-Weilburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Inarzo",
+        "lat": 45.785556,
+        "log": 8.736667,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Incisa Scapaccino",
+        "lat": 44.808889,
+        "log": 8.376944,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Saint-Just-Chaleyssin",
+                "lat": 45.583333,
+                "log": 5,
+                "stato": "Francia",
+                "regione": "cantone di Heyrieux",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Incudine (Italia)",
+        "lat": 46.222222,
+        "log": 10.358333,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Induno Olona",
+        "lat": 45.85,
+        "log": 8.833333,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ingria (Italia)",
+        "lat": 45.466468,
+        "log": 7.570917,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Intragna",
+        "lat": 45.993889,
+        "log": 8.572778,
+        "stato": "Italia",
+        "regione": "provincia del Verbano-Cusio-Ossola",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Introbio",
+        "lat": 45.966667,
+        "log": 9.45,
+        "stato": "Italia",
+        "regione": "provincia di Lecco",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Introd",
+        "lat": 45.689967,
+        "log": 7.187622,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Introdacqua",
+        "lat": 42.008333,
+        "log": 13.899167,
+        "stato": "Italia",
+        "regione": "provincia dell'Aquila",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Inverigo",
+        "lat": 45.733333,
+        "log": 9.216667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Inverno e Monteleone",
+        "lat": 45.2,
+        "log": 9.383333,
+        "stato": "Italia",
+        "regione": "provincia di Pavia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Inverso Pinasca",
+        "lat": 44.94564,
+        "log": 7.218414,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Inveruno",
+        "lat": 45.516667,
+        "log": 8.85,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Invorio",
+        "lat": 45.75,
+        "log": 8.483333,
+        "stato": "Italia",
+        "regione": "provincia di Novara",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Inzago",
+        "lat": 45.5409,
+        "log": 9.48241,
+        "stato": "Italia",
+        "regione": "provincia di Milano",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ionadi",
+        "lat": 38.633333,
+        "log": 16.05,
+        "stato": "Italia",
+        "regione": "provincia di Vibo Valentia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Irgoli",
+        "lat": 40.410359,
+        "log": 9.630375,
+        "stato": "Italia",
+        "regione": "provincia di Nuoro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Irma (Italia)",
+        "lat": 45.766667,
+        "log": 10.283333,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Irsina",
+        "lat": 40.75,
+        "log": 16.233333,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Sassuolo",
+                "lat": 44.551667,
+                "log": 10.785556,
+                "stato": "Italia",
+                "regione": "provincia di Modena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sant'Angelo del Pesco",
+                "lat": 41.883333,
+                "log": 14.25,
+                "stato": "Italia",
+                "regione": "provincia di Isernia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isasca",
+        "lat": 44.583333,
+        "log": 7.383333,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isca sullo Ionio",
+        "lat": 38.6,
+        "log": 16.516667,
+        "stato": "Italia",
+        "regione": "provincia di Catanzaro",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ischia (Italia)",
+        "lat": 40.733333,
+        "log": 13.95,
+        "stato": "Italia",
+        "regione": "provincia di Napoli",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "San Pedro (Los Angeles){{!}}San Pedro",
+                "lat": null,
+                "log": null,
+                "stato": "Stati Uniti d’America",
+                "regione": "Los Angeles",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Marino (Italia){{!}}Marino",
+                "lat": 41.766667,
+                "log": 12.666667,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "San Francisco",
+                "lat": 37.775,
+                "log": -122.419444,
+                "stato": "Stati Uniti d’America",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Los Angeles",
+                "lat": 34.05223,
+                "log": -118.24368,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Los Angeles",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Brusson (Italia) {{!}}Brusson",
+                "lat": 45.766667,
+                "log": 7.733333,
+                "stato": "Italia",
+                "regione": "Valle d'Aosta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bari",
+                "lat": 41.125278,
+                "log": 16.866667,
+                "stato": "Italia",
+                "regione": "provincia di Bari",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Mar del Plata",
+                "lat": -38,
+                "log": -57.55,
+                "stato": "Argentina",
+                "regione": "partido di General Pueyrredón",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Castel San Giorgio",
+                "lat": 40.783333,
+                "log": 14.7,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Leni",
+                "lat": 38.5549,
+                "log": 14.8252,
+                "stato": "Italia",
+                "regione": "provincia di Messina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ponza",
+                "lat": 40.9,
+                "log": 12.966667,
+                "stato": "Italia",
+                "regione": "provincia di Latina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Trani",
+                "lat": 41.266667,
+                "log": 16.416667,
+                "stato": "Italia",
+                "regione": "provincia di Barletta-Andria-Trani",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ischia di Castro",
+        "lat": 42.545,
+        "log": 11.756944,
+        "stato": "Italia",
+        "regione": "provincia di Viterbo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ischitella",
+        "lat": 41.9,
+        "log": 15.9,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Settimo Torinese",
+                "lat": 45.133333,
+                "log": 7.766667,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Iseo",
+        "lat": 45.658611,
+        "log": 10.053611,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Tamsweg",
+                "lat": 47.116667,
+                "log": 13.8,
+                "stato": "Austria",
+                "regione": "distretto di Tamsweg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Manzanares el Real",
+                "lat": 40.7272,
+                "log": -3.8611,
+                "stato": "Spagna",
+                "regione": "comunità di Madrid",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isera",
+        "lat": 45.883333,
+        "log": 11.016667,
+        "stato": "Italia",
+        "regione": "provincia autonoma di Trento",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isernia",
+        "lat": 41.602778,
+        "log": 14.239722,
+        "stato": "Italia",
+        "regione": "provincia di Isernia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Douz",
+                "lat": 33.45,
+                "log": 9.016667,
+                "stato": "Tunisia",
+                "regione": "governatorato di Kébili",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sant'Elia Fiumerapido",
+                "lat": 41.55,
+                "log": 13.866667,
+                "stato": "Italia",
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isili",
+        "lat": 39.7415,
+        "log": 9.109722,
+        "stato": "Italia",
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isnello",
+        "lat": 37.944046,
+        "log": 14.007007,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isola Dovarese",
+        "lat": 45.175833,
+        "log": 10.312222,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Velaux",
+                "lat": 43.516667,
+                "log": 5.266667,
+                "stato": "Francia",
+                "regione": "Bocche del Rodano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isola Rizza",
+        "lat": 45.290278,
+        "log": 11.2,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Windach",
+                "lat": 48.0642,
+                "log": 11.0407,
+                "stato": "Germania",
+                "regione": "circondario di Landsberg am Lech",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isola Sant'Antonio",
+        "lat": 45.031111,
+        "log": 8.851111,
+        "stato": "Italia",
+        "regione": "provincia di Alessandria",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isola Vicentina",
+        "lat": 45.633333,
+        "log": 11.45,
+        "stato": "Italia",
+        "regione": "provincia di Vicenza",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Mühlhausen",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Marau",
+                "lat": -28.44472222,
+                "log": -52.19972222,
+                "stato": "Brasile",
+                "regione": "Rio Grande do Sul",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isola d'Asti",
+        "lat": 44.834167,
+        "log": 8.181389,
+        "stato": "Italia",
+        "regione": "provincia di Asti",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isola del Cantone",
+        "lat": 44.646142,
+        "log": 8.956861,
+        "stato": "Italia",
+        "regione": "provincia di Genova",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isola del Giglio",
+        "lat": 42.355,
+        "log": 10.905,
+        "stato": "Italia",
+        "regione": "provincia di Grosseto",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "San Quirico d'Orcia",
+                "lat": 43.066667,
+                "log": 11.6,
+                "stato": "Italia",
+                "regione": "provincia di Siena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isola del Gran Sasso d'Italia",
+        "lat": 42.5075,
+        "log": 13.657778,
+        "stato": "Italia",
+        "regione": "provincia di Teramo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isola del Liri",
+        "lat": 41.683333,
+        "log": 13.566667,
+        "stato": "Italia",
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "New Orleans",
+                "lat": 29.95,
+                "log": -90.06666667,
+                "stato": "Stati Uniti d’America",
+                "regione": "parrocchia di Orleans",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Caledon",
+                "lat": 43.866667,
+                "log": -79.866667,
+                "stato": "Canada",
+                "regione": "Municipalità Regionale di Peel",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isola del Piano",
+        "lat": 43.737239,
+        "log": 12.7831,
+        "stato": "Italia",
+        "regione": "provincia di Pesaro e Urbino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isola della Scala",
+        "lat": 45.2692,
+        "log": 11.0107,
+        "stato": "Italia",
+        "regione": "provincia di Verona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Eaubonne",
+                "lat": 49,
+                "log": 2.283333,
+                "stato": "Francia",
+                "regione": "Dipartimento di Seine-et-Oise",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Budenheim",
+                "lat": 50.016667,
+                "log": 8.166667,
+                "stato": "Germania",
+                "regione": "circondario di Magonza-Bingen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isola delle Femmine",
+        "lat": 38.210278,
+        "log": 13.235833,
+        "stato": "Italia",
+        "regione": "Isola delle Femmine",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isola di Capo Rizzuto",
+        "lat": 38.966667,
+        "log": 17.1,
+        "stato": "Italia",
+        "regione": "provincia di Crotone",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Brescello",
+                "lat": 44.9,
+                "log": 10.516667,
+                "stato": "Italia",
+                "regione": "provincia di Reggio Emilia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Belcastro",
+                "lat": 39.016667,
+                "log": 16.783333,
+                "stato": "Italia",
+                "regione": "provincia di Catanzaro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Matera",
+                "lat": 40.666667,
+                "log": 16.6,
+                "stato": "Italia",
+                "regione": "provincia di Matera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isola di Fondra",
+        "lat": 45.983333,
+        "log": 9.75,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isolabella (Piemonte)",
+        "lat": 44.906727,
+        "log": 7.910151,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isolabona",
+        "lat": 43.879444,
+        "log": 7.638897,
+        "stato": "Italia",
+        "regione": "provincia di Imperia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isole Tremiti",
+        "lat": 42.116667,
+        "log": 15.5,
+        "stato": "Italia",
+        "regione": "provincia di Foggia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Vasto",
+                "lat": 42.111589,
+                "log": 14.708219,
+                "stato": "Italia",
+                "regione": "provincia di Chieti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Isorella",
+        "lat": 45.3092,
+        "log": 10.3233,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ispani",
+        "lat": 40.083333,
+        "log": 15.566667,
+        "stato": "Italia",
+        "regione": "provincia di Salerno",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ispica",
+        "lat": 36.785278,
+        "log": 14.906944,
+        "stato": "Italia",
+        "regione": "Libero consorzio comunale di Ragusa",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Rüti",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Slatina",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ispra",
+        "lat": 45.816667,
+        "log": 8.616667,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Issiglio",
+        "lat": 45.446934,
+        "log": 7.752122,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Issime",
+        "lat": 45.683333,
+        "log": 7.85,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Isso (Italia)",
+        "lat": 45.476667,
+        "log": 9.759444,
+        "stato": "Italia",
+        "regione": "provincia di Bergamo",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Issogne",
+        "lat": 45.65,
+        "log": 7.683333,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Istrana",
+        "lat": 45.683333,
+        "log": 12.1,
+        "stato": "Italia",
+        "regione": "provincia di Treviso",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Grenade-sur-Garonne",
+                "lat": 43.766667,
+                "log": 1.3,
+                "stato": "Francia",
+                "regione": "cantone di Grenade",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Lapa",
+                "lat": -25.76777778,
+                "log": -49.71694444,
+                "stato": "Brasile",
+                "regione": "Paraná",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Itala (Italia)",
+        "lat": 38.051111,
+        "log": 15.436944,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Itri",
+        "lat": 41.283333,
+        "log": 13.533333,
+        "stato": "Italia",
+        "regione": "provincia di Latina",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Cranston",
+                "lat": 41.77333333,
+                "log": -71.45333333,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Providence",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ittireddu",
+        "lat": 40.544363,
+        "log": 8.902144,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Fiorano Modenese",
+                "lat": 44.53666667,
+                "log": 10.82277778,
+                "stato": "Italia",
+                "regione": "provincia di Modena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Maranello",
+                "lat": 44.526389,
+                "log": 10.866667,
+                "stato": "Italia",
+                "regione": "provincia di Modena",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Ittiri",
+        "lat": 40.590753,
+        "log": 8.569508,
+        "stato": "Italia",
+        "regione": "provincia di Sassari",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    },
+    {
+        "comune": "Ivrea",
+        "lat": 45.467379,
+        "log": 7.874797,
+        "stato": "Italia",
+        "regione": "provincia di Torino",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Qaladiza",
+                "lat": 45.467379,
+                "log": 7.874797,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Chaumont (Grand Est){{!}}Chaumont",
+                "lat": 48.116667,
+                "log": 5.133333,
+                "stato": "Francia",
+                "regione": "Alta Marna",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    },
+    {
+        "comune": "Izano",
+        "lat": 45.35,
+        "log": 9.75,
+        "stato": "Italia",
+        "regione": "provincia di Cremona",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": []
+    }
+]

@@ -101,10 +101,10 @@
         "gemelli": [
             {
                 "comune": "Suffolk (Virginia){{!}}Suffolk",
-                "lat": 37.54083333,
-                "log": -77.43277778,
+                "lat": 36.7411,
+                "log": -76.6097,
                 "stato": "Stati Uniti d’America",
-                "regione": "Stati Uniti d’America",
+                "regione": "Virginia",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -255,11 +255,11 @@
     },
     {
         "comune": "Olbia",
-        "lat": 40.916667,
-        "log": 9.5,
+        "lat": null,
+        "log": null,
         "stato": "Italia",
-        "regione": "provincia di Sassari",
-        "found_coords": true,
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
         "gemelli": []
     },
@@ -345,10 +345,10 @@
         "gemelli": [
             {
                 "comune": "Wilmington (Delaware)",
-                "lat": 39.16194444,
-                "log": -75.52666667,
+                "lat": 39.748333,
+                "log": -75.551389,
                 "stato": "Stati Uniti d’America",
-                "regione": "Stati Uniti d’America",
+                "regione": "contea di New Castle",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -417,10 +417,10 @@
         "gemelli": [
             {
                 "comune": "Stocksmoor",
-                "lat": 45.733333,
-                "log": 9.4,
-                "stato": "Italia",
-                "regione": "provincia di Lecco",
+                "lat": 53.594,
+                "log": -1.728,
+                "stato": "Regno Unito",
+                "regione": "",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -590,10 +590,10 @@
         "gemelli": [
             {
                 "comune": "Friedberg (Hessen){{!}}Friedberg",
-                "lat": 45.918407,
-                "log": 9.245014,
-                "stato": "Italia",
-                "regione": "provincia di Como",
+                "lat": 50.335278,
+                "log": 8.755,
+                "stato": "Germania",
+                "regione": "circondario della Wetterau",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -763,11 +763,11 @@
     },
     {
         "comune": "Ome",
-        "lat": 45.627283,
-        "log": 10.121365,
-        "stato": "Italia",
-        "regione": "provincia di Brescia",
-        "found_coords": true,
+        "lat": null,
+        "log": null,
+        "stato": "",
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
         "gemelli": []
     },
@@ -1147,11 +1147,11 @@
         "gemelli": [
             {
                 "comune": "Lorch",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 48.798333,
+                "log": 9.688333,
+                "stato": "Germania",
+                "regione": "Circondario di Ostalb",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1260,19 +1260,29 @@
     },
     {
         "comune": "Oriolo",
-        "lat": 40.053809,
-        "log": 16.446088,
+        "lat": 42.1578,
+        "log": 12.1378,
         "stato": "Italia",
-        "regione": "provincia di Cosenza",
+        "regione": "provincia di Viterbo",
         "found_coords": true,
         "found_claims": true,
         "gemelli": [
             {
-                "comune": "Costigliole Saluzzo",
-                "lat": 44.566667,
-                "log": 7.483333,
-                "stato": "Italia",
-                "regione": "provincia di Cuneo",
+                "comune": "Saint-Bonnet",
+                "lat": 45.483333,
+                "log": -0.1,
+                "stato": "Francia",
+                "regione": "cantone di Barbezieux-Saint-Hilaire",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Hawkhurst",
+                "lat": 51.04722222,
+                "log": 0.51722222,
+                "stato": "Regno Unito",
+                "regione": "Tunbridge Wells",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -1300,10 +1310,10 @@
             },
             {
                 "comune": "Hawkhurst",
-                "lat": 42.1578,
-                "log": 12.1378,
-                "stato": "Italia",
-                "regione": "provincia di Viterbo",
+                "lat": 51.04722222,
+                "log": 0.51722222,
+                "stato": "Regno Unito",
+                "regione": "Tunbridge Wells",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -1331,11 +1341,11 @@
             },
             {
                 "comune": "Garden City",
-                "lat": 37.9753,
-                "log": -100.864,
-                "stato": "Stati Uniti d’America",
-                "regione": "contea di Finney",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -1617,10 +1627,10 @@
         "gemelli": [
             {
                 "comune": "Idalion",
-                "lat": 42.460278,
-                "log": 12.386111,
-                "stato": "Italia",
-                "regione": "provincia di Viterbo",
+                "lat": 35.015833,
+                "log": 33.423056,
+                "stato": "Cipro",
+                "regione": "distretto di Nicosia",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -1811,10 +1821,10 @@
             },
             {
                 "comune": "Maebashi",
-                "lat": 42.716667,
-                "log": 12.1,
-                "stato": "Italia",
-                "regione": "provincia di Terni",
+                "lat": 36.389167,
+                "log": 139.063611,
+                "stato": "Giappone",
+                "regione": "prefettura di Gunma",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -1831,21 +1841,21 @@
             },
             {
                 "comune": "Aiken (Carolina del Sud){{!}}Aiken",
-                "lat": 33.55,
-                "log": -81.64,
+                "lat": 33.549444,
+                "log": -81.720556,
                 "stato": "Stati Uniti d’America",
-                "regione": "Carolina del Sud",
+                "regione": "contea di Aiken",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
             {
                 "comune": "Seinäjoki",
-                "lat": 62.790278,
-                "log": 22.840278,
+                "lat": null,
+                "log": null,
                 "stato": "Finlandia",
-                "regione": "Ostrobotnia meridionale",
-                "found_coords": true,
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -2014,11 +2024,11 @@
             },
             {
                 "comune": "Sofia",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 42.697886,
+                "log": 23.321726,
+                "stato": "Bulgaria",
+                "regione": "comune della capitale",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -2097,10 +2107,10 @@
     },
     {
         "comune": "Ospedaletto",
-        "lat": 46.04349,
-        "log": 11.55291,
+        "lat": 40.933333,
+        "log": 14.75,
         "stato": "Italia",
-        "regione": "provincia autonoma di Trento",
+        "regione": "provincia di Avellino",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -2553,7 +2563,7 @@
                 "lat": -54.8,
                 "log": -68.3,
                 "stato": "Argentina",
-                "regione": "Argentina",
+                "regione": "Dipartimento di Ushuaia",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -2581,11 +2591,11 @@
         "gemelli": [
             {
                 "comune": "Vex",
-                "lat": 46.21277778,
-                "log": 7.39888889,
-                "stato": "Svizzera",
-                "regione": "distretto di Hérens",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -2663,10 +2673,10 @@
         "gemelli": [
             {
                 "comune": "Staffanstorp",
-                "lat": 55.633333,
-                "log": 13.2,
+                "lat": 55.65,
+                "log": 13.21666667,
                 "stato": "Svezia",
-                "regione": "contea della Scania",
+                "regione": "comune di Staffanstorp",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []

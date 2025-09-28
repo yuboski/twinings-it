@@ -51,11 +51,11 @@
         "gemelli": [
             {
                 "comune": "Rheinfelden",
-                "lat": 47.55416667,
-                "log": 7.79388889,
-                "stato": "Svizzera",
-                "regione": "distretto di Rheinfelden",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -204,64 +204,13 @@
     },
     {
         "comune": "Enna",
-        "lat": 37.566667,
-        "log": 14.266667,
+        "lat": null,
+        "log": null,
         "stato": "Italia",
-        "regione": "Libero consorzio comunale di Enna",
-        "found_coords": true,
+        "regione": "",
+        "found_coords": false,
         "found_claims": true,
-        "gemelli": [
-            {
-                "comune": "Todi",
-                "lat": 42.783333,
-                "log": 12.416667,
-                "stato": "Italia",
-                "regione": "provincia di Perugia",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Kastoria",
-                "lat": 40.518131,
-                "log": 21.268761,
-                "stato": "Grecia",
-                "regione": "",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Gharb",
-                "lat": 36.183333,
-                "log": -6.033333,
-                "stato": "Spagna",
-                "regione": "Barbate",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Costa del Sol",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Haz-Zebbug",
-                "lat": 35.87236111,
-                "log": 14.44049722,
-                "stato": "Malta",
-                "regione": "Regione Meridionale (Malta)",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            }
-        ]
+        "gemelli": []
     },
     {
         "comune": "Entracque",
@@ -316,10 +265,10 @@
     },
     {
         "comune": "Eraclea",
-        "lat": 45.583333,
-        "log": 12.683333,
+        "lat": 37.393953,
+        "log": 13.280747,
         "stato": "Italia",
-        "regione": "provincia di Venezia",
+        "regione": "Montallegro",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -447,10 +396,10 @@
             },
             {
                 "comune": "Umm Qais",
-                "lat": 40.806792,
-                "log": 14.352608,
-                "stato": "Italia",
-                "regione": "provincia di Napoli",
+                "lat": 32.653889,
+                "log": 35.688611,
+                "stato": "Giordania",
+                "regione": "governatorato di Irbid",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -588,21 +537,21 @@
         "gemelli": [
             {
                 "comune": "Fiume",
-                "lat": 45.333333,
-                "log": 14.433333,
-                "stato": "Croazia",
-                "regione": "regione litoraneo-montana",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Pertuis",
                 "lat": null,
                 "log": null,
                 "stato": "",
                 "regione": "",
                 "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pertuis",
+                "lat": 43.683333,
+                "log": 5.5,
+                "stato": "Francia",
+                "regione": "",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },

@@ -71,11 +71,11 @@
     },
     {
         "comune": "Daverio",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 45.778403,
+        "log": 8.771828,
+        "stato": "Italia",
+        "regione": "provincia di Varese",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -181,11 +181,11 @@
         "gemelli": [
             {
                 "comune": "Vaughan",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 43.833333,
+                "log": -79.5,
+                "stato": "Canada",
+                "regione": "Municipalità Regionale di York",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -213,11 +213,11 @@
     },
     {
         "comune": "Dello",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 45.419444,
+        "log": 10.075,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -292,9 +292,9 @@
         "gemelli": [
             {
                 "comune": "Rousínov",
-                "lat": 49.12777778,
-                "log": 16.76361111,
-                "stato": "Impero austriaco",
+                "lat": 49.20333333,
+                "log": 16.88138889,
+                "stato": "Repubblica Ceca",
                 "regione": "",
                 "found_coords": true,
                 "found_claims": true,
@@ -333,21 +333,21 @@
             },
             {
                 "comune": "Antibes Juan-les-Pins",
-                "lat": 43.571111,
-                "log": 7.109444,
+                "lat": 43.583333,
+                "log": 7.116667,
                 "stato": "Francia",
-                "regione": "arrondissement di Grasse",
+                "regione": "Alpi Marittime",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
             {
                 "comune": "Sal (Capo Verde){{!}}Isola di Sal",
-                "lat": 15.3,
-                "log": -23.7,
-                "stato": "Capo Verde",
+                "lat": null,
+                "log": null,
+                "stato": "",
                 "regione": "",
-                "found_coords": true,
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -649,10 +649,10 @@
         "gemelli": [
             {
                 "comune": "Bled",
-                "lat": 46.366667,
-                "log": 14.116667,
+                "lat": 46.368333,
+                "log": 14.114722,
                 "stato": "Slovenia",
-                "regione": "Slovenia",
+                "regione": "Comune di Bled",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []

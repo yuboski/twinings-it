@@ -4,10 +4,11 @@ from geopy.distance import geodesic
 
 
 file_pattern = "results/result_*.json"
+province_filename = "results/province.json"
 output_db = "db/twinings.db"
 output_reports = "docs/reports"
 
-generate_db = True
+generate_db = False
 generate_report = True
 
 def get_cell_text(val):
@@ -18,12 +19,13 @@ def get_cell_text(val):
     else:
         return val
 
-def save_rows_to_html(rows, cursor, filename):
+def save_rows_to_html(rows, cursor, filename, subtitle):
     rows = [(i + 1, *row) for i, row in enumerate(rows)]
     col_names = ["#"] + [desc[0] for desc in cursor.description]
     reportname = filename.replace(output_reports + "/", "").replace(".html", "").replace("-", " ")
     html = "<table border='1'>\n"
     html += "  <tr><th class='title' colspan=" + str(len(col_names)) + ">" + reportname + "</th></tr>\n"
+    if subtitle: html += "  <tr><th class='title' colspan=" + str(len(col_names)) + ">" + subtitle + "</th></tr>\n"
     html += "  <tr>" + "".join(f"<th>{col}</th>" for col in col_names) + "</tr>\n"
     for row in rows:
         html += "  <tr>" + "".join(f"<td>{get_cell_text(val)}</td>" for val in row) + "</tr>\n"
@@ -46,6 +48,12 @@ if generate_db:
         DROP TABLE IF EXISTS twins
     """
     c.execute(sql)
+
+    sql = """
+        DROP TABLE IF EXISTS main_cities
+    """
+    c.execute(sql)
+
 
     sql = """
         CREATE TABLE IF NOT EXISTS comuni (id INTEGER PRIMARY KEY AUTOINCREMENT, 
@@ -75,8 +83,28 @@ if generate_db:
     """
     c.execute(sql)
 
+    sql = """
+        CREATE TABLE IF NOT EXISTS main_cities (name TEXT)
+    """
+    c.execute(sql)
+
+
+
     conn.commit()
     
+    
+    with open(province_filename, "r", encoding="utf-8") as f:
+        province = json.load(f)
+        for provincia in province:
+                main_cities = provincia.get("nome").split("-")
+                for main_city in main_cities:
+                    sql = """ INSERT INTO main_cities (name)
+                    VALUES(?)
+                    """
+                    c.execute(sql, (main_city.strip(),))
+                    conn.commit()
+
+
     for filename in glob.glob(file_pattern):
         with open(filename, "r", encoding="utf-8") as f:
             comuni = json.load(f)
@@ -109,21 +137,21 @@ if generate_report:
     sql = """SELECT count(*) as comuni_total from comuni"""
     c.execute(sql)
     rows = c.fetchall()
-    save_rows_to_html(rows, c, output_reports + '/count-comuni.html')
+    save_rows_to_html(rows, c, output_reports + '/count-comuni.html', '')
 
     sql = """SELECT count(*) as twins_total from twins"""
     c.execute(sql)
     rows = c.fetchall()
-    save_rows_to_html(rows, c, output_reports + '/count-twins.html')
+    save_rows_to_html(rows, c, output_reports + '/count-twins.html', '')
 
-    sql = """SELECT ROW_NUMBER() OVER (ORDER BY round(T.distance)) AS "#", C.comune, C.provincia, T.comune as twin, T.stato, round(T.distance) as distance
+    sql = """SELECT C.comune, C.provincia, T.comune as twin, T.stato, round(T.distance) as distance
     from comuni C inner join twins T on C.id = T.idParent 
     order by distance DESC
     limit 20
     """
     c.execute(sql)
     rows = c.fetchall()
-    save_rows_to_html(rows, c, output_reports + '/top-20-distance.html')
+    save_rows_to_html(rows, c, output_reports + '/top-20-distance.html', 'maggiore distanza tra comune e gemello internazionale')
 
     sql = """SELECT C.comune, C.provincia, T.comune as twin, T.provincia, round(T.distance) as distance
     from comuni C inner join twins T on C.id = T.idParent 
@@ -134,7 +162,7 @@ if generate_report:
     """
     c.execute(sql)
     rows = c.fetchall()
-    save_rows_to_html(rows, c, output_reports + '/top-20-distance-local.html')
+    save_rows_to_html(rows, c, output_reports + '/top-20-distance-local.html', 'maggiore distanza tra comune e gemello nazionale')
 
     sql = """SELECT C.comune, C.provincia, T.comune as twin, T.provincia, round(T.distance) as distance
     from comuni C inner join twins T on C.id = T.idParent 
@@ -145,7 +173,7 @@ if generate_report:
     """
     c.execute(sql)
     rows = c.fetchall()
-    save_rows_to_html(rows, c, output_reports + '/top-20-less-distance.html')
+    save_rows_to_html(rows, c, output_reports + '/top-20-less-distance.html', 'minore distanza tra comune e gemello')
 
     sql = """SELECT C.comune, C.provincia, count(T.id) as twins_count
     from comuni C inner join twins T on C.id = T.idParent 
@@ -155,7 +183,7 @@ if generate_report:
     """
     c.execute(sql)
     rows = c.fetchall()
-    save_rows_to_html(rows, c, output_reports + '/top-20-twinings.html')
+    save_rows_to_html(rows, c, output_reports + '/top-20-twinings.html', 'maggior numero di gemellaggi')
 
     sql = """SELECT case when T.stato = '' then 'not-found' else T.stato end as stato, count(T.id) as stati_count
     from twins T
@@ -165,7 +193,7 @@ if generate_report:
     """
     c.execute(sql)
     rows = c.fetchall()
-    save_rows_to_html(rows, c, output_reports + '/top-20-twining-states.html')
+    save_rows_to_html(rows, c, output_reports + '/top-20-twining-states.html', 'maggior numero di stati gemellati')
 
     sql = """
     SELECT C.comune, T.stato, TT.stati_count from
@@ -179,7 +207,7 @@ if generate_report:
     """
     c.execute(sql)
     rows = c.fetchall()
-    save_rows_to_html(rows, c, output_reports + '/single-twin-states.html')
+    save_rows_to_html(rows, c, output_reports + '/single-twin-states.html', 'stati con un solo gemellaggio')
 
 
 
@@ -202,10 +230,7 @@ where T.stato is null or T.stato = ''
 """
 c.execute(sql)
 rows = c.fetchall()
-save_rows_to_html(rows, c, output_reports + '/twin-without-state.html')
-print("-" * 100)
-for row in rows:
-    print(" ".join(f"{str(col):<20}" for col in row))
+save_rows_to_html(rows, c, output_reports + '/twin-without-state.html', '')
 
 
 sql = """SELECT count(T.id) from twins T
@@ -214,11 +239,7 @@ where T.stato is null or T.stato = ''
 """
 c.execute(sql)
 rows = c.fetchall()
-save_rows_to_html(rows, c, output_reports + '/count-twin-without-state.html')
-print("-" * 100)
-for row in rows:
-    print(" ".join(f"{str(col):<20}" for col in row))
-
+save_rows_to_html(rows, c, output_reports + '/count-twin-without-state.html', '')
 
 
 sql = """SELECT C.comune, T.* from twins T
@@ -227,11 +248,7 @@ where T.lat is null or T.log is null
 """
 c.execute(sql)
 rows = c.fetchall()
-save_rows_to_html(rows, c, output_reports + '/twin-without-coords.html')
-print("-" * 100)
-for row in rows:
-    print(" ".join(f"{str(col):<20}" for col in row))
-
+save_rows_to_html(rows, c, output_reports + '/twin-without-coords.html', '')
 
 sql = """SELECT count(T.id) from twins T
 inner join comuni C  on C.id = T.idParent
@@ -239,11 +256,7 @@ where T.lat is null or T.log is null
 """
 c.execute(sql)
 rows = c.fetchall()
-save_rows_to_html(rows, c, output_reports + '/count-twin-without-coords.html')
-print("-" * 100)
-for row in rows:
-    print(" ".join(f"{str(col):<20}" for col in row))
-
+save_rows_to_html(rows, c, output_reports + '/count-twin-without-coords.html', '')
 
 sql = """
 select 'without', (
@@ -257,12 +270,24 @@ select 'with', (
 """
 c.execute(sql)
 rows = c.fetchall()
-save_rows_to_html(rows, c, output_reports + '/count-comuni-without-twins.html')
+save_rows_to_html(rows, c, output_reports + '/count-comuni-without-twins.html', '')
+
+
+
+
+sql = """
+SELECT MC.name, C.* from main_cities MC left join
+comuni C on lower(C.comune) LIKE '%' || lower(MC.name) || '%'
+where C.id is null
+
+
+"""
+c.execute(sql)
+rows = c.fetchall()
+save_rows_to_html(rows, c, output_reports + '/main_cities_without_data.html', '')
 print("-" * 100)
 for row in rows:
     print(" ".join(f"{str(col):<20}" for col in row))
-
-
 
 
 

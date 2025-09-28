@@ -1,1 +1,23 @@
-[]
+[
+    {
+        "comune": "Hône",
+        "lat": 45.616667,
+        "log": 7.733333,
+        "stato": "Italia",
+        "regione": "Valle d'Aosta",
+        "found_coords": true,
+        "found_claims": true,
+        "gemelli": [
+            {
+                "comune": "Nora (comune){{!}}Nora",
+                "lat": 59.516667,
+                "log": 15.033333,
+                "stato": "Svezia",
+                "regione": "Örebro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
+    }
+]

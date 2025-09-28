@@ -20,10 +20,10 @@
         "gemelli": [
             {
                 "comune": "Nadur",
-                "lat": 35.883333,
-                "log": 14.5,
+                "lat": 36.03827222,
+                "log": 14.29029444,
                 "stato": "Malta",
-                "regione": "",
+                "regione": "regione di Gozo",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -394,21 +394,21 @@
         "gemelli": [
             {
                 "comune": "Boa Vista",
-                "lat": 2.82111111,
-                "log": -60.67277778,
-                "stato": "Brasile",
-                "regione": "Roraima",
+                "lat": 16.10305556,
+                "log": -22.80333333,
+                "stato": "Capo Verde",
+                "regione": "contea di Boa Vista",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
             {
                 "comune": "Lumaco",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": -38.15,
+                "log": -72.916667,
+                "stato": "Cile",
+                "regione": "provincia di Malleco",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },

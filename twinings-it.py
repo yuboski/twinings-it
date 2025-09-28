@@ -87,12 +87,19 @@ def get_gemellaggi(title):
 #        if tpl.name.strip() in ("Gemellaggio", "Gemellaggi"):
         if "gemellaggi" in tpl.name.strip().lower():
             if tpl.has(2):
-                comune = tpl.get(2).value.strip()  # parametro 2 = Comune
-                gemelli.append(comune)
+                comune = tpl.get(2).value.strip()  # parametro 1 = stato parametro 2 = Comune
+                if tpl.has(1):
+                    stato = tpl.get(1).value.strip()
+                elif tpl.has('stato'):
+                    stato = tpl.get('stato').value.strip()
+                else:
+                    stato = ""
+                gemelli.append({"comune": comune, "stato": stato})
             else:
                 if (tpl.has("città")):
                     comune = tpl.get("città").split("=")[-1].strip()
-                    gemelli.append(comune)
+                    stato = ""
+                    gemelli.append({"comune": comune, "stato": stato})
                 else:
                     # TODO: HERE 
                     print(f"Template incompleto trovato: {tpl}")
@@ -100,7 +107,10 @@ def get_gemellaggi(title):
 
 
 def get_comuni_lettera(lettera):
-    title = f"Comuni_d'Italia_({lettera.upper()})"
+    letteraSearch = lettera
+    if (lettera.upper() in ("H", "I", "J")):
+        letteraSearch = "H-J"
+    title = f"Comuni_d'Italia_({letteraSearch.upper()})"
     params = {
         "action": "query",
         "titles": title,
@@ -127,25 +137,39 @@ def get_comuni_lettera(lettera):
             break
     return comuni
 
-def get_comune_real_name(title):
+def get_comune_real_name(title, stato, no_retry):
     params = {
         "action": "query",
         "list": "search",
-        "srsearch": f"{title} comune",
-        "srlimit": 1,
+        "srsearch": f"{title}",
+        "srlimit": 5,
         "format": "json"
     }
     r = requests.get(WIKI_API, params=params, headers=HEADERS, timeout=10)
     data = r.json()
 
+    return_title = title
     if data.get("query", {}).get("search"):
-        title = data["query"]["search"][0]["title"]
-    if "(disambigua)" in title.lower():
-        title = title.replace("(disambigua)", "").strip()
-    return title
+        return_title = data["query"]["search"][0]["title"]
+        for result in data.get("query", {}).get("search", []):
+            search_title = result.get("title", "")
+            search_snippet = result.get("snippet", "")
+            disambigua = "iniziano con o contengono il titolo".lower() in search_snippet.lower()
+            if search_title.strip().lower() == title.strip().lower():
+                return_title = search_title
+            if search_title.lower().startswith(title.lower()) and stato.lower() in search_snippet.lower() and not disambigua:
+                return_title = search_title
+                break
 
-def search_comune_properties(comune, search_gemelli):
-    comune_reaL_name = get_comune_real_name(comune)
+    if "(disambigua)" in return_title.lower():
+        if no_retry:
+            return_title = return_title.replace("(disambigua)", "").strip()
+        else: 
+            return_title = get_comune_real_name(f"{title} comune", stato, True)
+    return return_title
+
+def search_comune_properties(comune, search_gemelli, stato):
+    comune_reaL_name = get_comune_real_name(comune, stato, False)
     lat, lon, found_coords = get_coordinates(comune_reaL_name)
     qid = get_wikibase_item(comune_reaL_name)
     if qid:
@@ -165,10 +189,10 @@ def search_comune_properties(comune, search_gemelli):
 
 def search_comune_list(comuni, search_gemelli):
     comuni_properties = []
-    for comune in comuni:
-        lat, lon, stato, regione, found_coords, found_claims, gemelli_properties = search_comune_properties(comune, search_gemelli)
-        comuni_properties.append({"comune": comune, "lat": lat, "log": lon, "stato": stato, "regione": regione, "found_coords": found_coords, "found_claims": found_claims, "gemelli": gemelli_properties})
-        print(f"\nComune: {comune}")
+    for comuneObject in comuni:
+        lat, lon, stato, regione, found_coords, found_claims, gemelli_properties = search_comune_properties(comuneObject.get("comune"), search_gemelli, comuneObject.get("stato"))
+        comuni_properties.append({"comune": comuneObject.get("comune"), "lat": lat, "log": lon, "stato": stato, "regione": regione, "found_coords": found_coords, "found_claims": found_claims, "gemelli": gemelli_properties})
+        print(f"\nComune: {comuneObject.get("comune")}")
         print(f"Coordinate: lat={lat}, lon={lon}")
         print(f"Stato: {stato}")
         print(f"Regione: {regione}")
@@ -180,17 +204,18 @@ def search_comune_list(comuni, search_gemelli):
 
 if __name__ == "__main__":
     
-    # search_comune_properties("Alseno", True)
+    # search_comune_properties("Adro", True, "Italia")
 
     #TODO: lista lettere da cercare
     #lettere = list(string.ascii_uppercase)
-    lettere = list("MNOPQRSTUVWXYZ")
+    lettere = list("RSTUVWXYZ")
 
     for lettera in lettere:
         comuni = get_comuni_lettera(lettera)
         print(f"Totale comuni con '{lettera}': {len(comuni)}")
-        print("\n".join(comuni))  
-        comuni_properties = search_comune_list(comuni, True)
+        print("\n".join(comuni)) 
+        comuni_objects = [{"comune": c, "stato": "Italia"} for c in comuni] 
+        comuni_properties = search_comune_list(comuni_objects, True)
 
         filename = f"result_{lettera}.json"
         with open(filename, "w", encoding="utf-8") as f:

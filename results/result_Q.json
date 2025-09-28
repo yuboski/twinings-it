@@ -173,11 +173,11 @@
     },
     {
         "comune": "Quartu Sant'Elena",
-        "lat": null,
-        "log": null,
+        "lat": 39.24135,
+        "log": 9.18392,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Cagliari",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -222,10 +222,10 @@
         "gemelli": [
             {
                 "comune": "Buzet",
-                "lat": 43.783333,
-                "log": 1.65,
-                "stato": "Francia",
-                "regione": "cantone di Montastruc-la-Conseillère",
+                "lat": 45.41666667,
+                "log": 13.96666667,
+                "stato": "Croazia",
+                "regione": "regione istriana",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -253,10 +253,10 @@
         "gemelli": [
             {
                 "comune": "Aidussina",
-                "lat": 45.885789,
-                "log": 13.912817,
+                "lat": 45.888356,
+                "log": 13.905238,
                 "stato": "Slovenia",
-                "regione": "Repubblica Socialista di Slovenia",
+                "regione": "Comune di Aidussina",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
