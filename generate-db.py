@@ -144,7 +144,7 @@ if generate_report:
     rows = c.fetchall()
     save_rows_to_html(rows, c, output_reports + '/count-twins.html', '')
 
-    sql = """SELECT C.comune, C.provincia, T.comune as twin, T.stato, round(T.distance) as distance
+    sql = """SELECT C.comune || ', ' ||  C.provincia as comune, T.comune || ', ' ||  T.stato as twin, round(T.distance) as distance
     from comuni C inner join twins T on C.id = T.idParent 
     order by distance DESC
     limit 20
@@ -153,7 +153,7 @@ if generate_report:
     rows = c.fetchall()
     save_rows_to_html(rows, c, output_reports + '/top-20-distance.html', 'maggiore distanza tra comune e gemello internazionale')
 
-    sql = """SELECT C.comune, C.provincia, T.comune as twin, T.provincia, round(T.distance) as distance
+    sql = """SELECT C.comune || ', ' || C.provincia as comune, T.comune || ', ' ||  T.provincia as twin, round(T.distance) as distance
     from comuni C inner join twins T on C.id = T.idParent 
     where lower(T.stato) = 'italia'
     order by distance DESC
@@ -164,7 +164,7 @@ if generate_report:
     rows = c.fetchall()
     save_rows_to_html(rows, c, output_reports + '/top-20-distance-local.html', 'maggiore distanza tra comune e gemello nazionale')
 
-    sql = """SELECT C.comune, C.provincia, T.comune as twin, T.provincia, round(T.distance) as distance
+    sql = """SELECT C.comune || ', ' ||  C.provincia as comune, T.comune || ', ' ||  T.provincia as twin, round(T.distance) as distance
     from comuni C inner join twins T on C.id = T.idParent 
     where not distance is null and distance > 0
     order by distance ASC
