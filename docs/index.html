@@ -185,8 +185,8 @@
           if (props) {
             popupContent = props.isOrigin ? 
             
-            `<span style="font-weight: 900; font-size: 12px;">${props.comune_start_name}</span><br>${props.gemelli_names.replaceAll(",", "<br>")}` : 
-            `<span style="font-weight: 900; font-size: 12px;">${props.comune_end_name}</span><br>(${props.comune_start_name})`;
+            `<span style="font-weight: 900; font-size: 1rem;">${props.comune_start_name}</span><br>${props.gemelli_names.replaceAll(",", "<br>")}` : 
+            `<span style="font-weight: 900; font-size: 1rem;">${props.comune_end_name}</span><br>(${props.comune_start_name})`;
             
             popup
               .setLatLng(props.isOrigin ? [props.comune_start_lat, props.comune_start_log] : [props.comune_end_lat, props.comune_end_log]) 
