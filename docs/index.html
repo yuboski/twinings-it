@@ -181,21 +181,7 @@
 
         }).addTo(map);
 
-        // since this demo is using the optional "pathDisplayMode" as "selection",
-        // it is up to the developer to wire up a click or mouseover listener
-        // and then call the "selectFeaturesForPathDisplay()" method to inform the layer
-        // which Bezier paths need to be drawn
-        oneToManyFlowmapLayer.on('click', function(e) {
-          if (e.sharedOriginFeatures.length) {
-            oneToManyFlowmapLayer.selectFeaturesForPathDisplay(e.sharedOriginFeatures, 'SELECTION_NEW');
-          }
-          if (e.sharedDestinationFeatures.length) {
-            oneToManyFlowmapLayer.selectFeaturesForPathDisplay(e.sharedDestinationFeatures, 'SELECTION_NEW');
-          }
-        });
-
-        oneToManyFlowmapLayer.on('mouseover', function(e) {
-          var props = e.propagatedFrom.feature.properties;
+        function showPopup(props) {
           if (props) {
             popupContent = props.isOrigin ? 
             
@@ -206,7 +192,27 @@
               .setLatLng(props.isOrigin ? [props.comune_start_lat, props.comune_start_log] : [props.comune_end_lat, props.comune_end_log]) 
               .setContent(popupContent)                          
               .openOn(map);
+          }          
+        }
+        // since this demo is using the optional "pathDisplayMode" as "selection",
+        // it is up to the developer to wire up a click or mouseover listener
+        // and then call the "selectFeaturesForPathDisplay()" method to inform the layer
+        // which Bezier paths need to be drawn
+        oneToManyFlowmapLayer.on('click', function(e) {
+          var props = e.propagatedFrom.feature.properties;
+          if (e.sharedOriginFeatures.length) {
+            oneToManyFlowmapLayer.selectFeaturesForPathDisplay(e.sharedOriginFeatures, 'SELECTION_NEW');
+            showPopup(props);
           }
+          if (e.sharedDestinationFeatures.length) {
+            oneToManyFlowmapLayer.selectFeaturesForPathDisplay(e.sharedDestinationFeatures, 'SELECTION_NEW');
+            showPopup(props);
+          }
+        });
+
+        oneToManyFlowmapLayer.on('mouseover', function(e) {
+          var props = e.propagatedFrom.feature.properties;
+          showPopup(props);
         });        
 
         oneToManyFlowmapLayer.on('mouseout', function(e) {
