@@ -210,8 +210,8 @@ if generate_report:
     save_rows_to_html(rows, c, output_reports + '/single-twin-states.html', 'stati con un solo gemellaggio')
 
     sql = """
-    SELECT T.comune ||  ', ' || T.stato as twin, count(T.idParent) as count_twinigs from
-    twins T
+    SELECT T.comune ||  ', ' || T.stato as twin, count(T.idParent) as count_twinigs, GROUP_CONCAT(C.comune, "<br>") AS comuni from
+    twins T inner join Comuni C on T.idParent = C.id
     group by T.comune || T.stato
     order by count_twinigs desc
     limit 20
