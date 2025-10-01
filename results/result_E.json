@@ -204,13 +204,64 @@
     },
     {
         "comune": "Enna",
-        "lat": null,
-        "log": null,
+        "lat": 37.566667,
+        "log": 14.266667,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "Libero consorzio comunale di Enna",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Todi",
+                "lat": 42.783333,
+                "log": 12.416667,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kastoria",
+                "lat": 40.518131,
+                "log": 21.268761,
+                "stato": "Grecia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gharb",
+                "lat": 36.05999167,
+                "log": 14.20995833,
+                "stato": "Malta",
+                "regione": "regione di Gozo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Costa del Sol",
+                "lat": null,
+                "log": null,
+                "stato": "Spagna",
+                "regione": "provincia di Malaga",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Haz-Zebbug",
+                "lat": 35.87236111,
+                "log": 14.44049722,
+                "stato": "Malta",
+                "regione": "Regione Meridionale (Malta)",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Entracque",
@@ -265,10 +316,10 @@
     },
     {
         "comune": "Eraclea",
-        "lat": 37.393953,
-        "log": 13.280747,
+        "lat": 45.583333,
+        "log": 12.683333,
         "stato": "Italia",
-        "regione": "Montallegro",
+        "regione": "provincia di Venezia",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -547,11 +598,11 @@
             },
             {
                 "comune": "Pertuis",
-                "lat": 43.683333,
-                "log": 5.5,
-                "stato": "Francia",
+                "lat": null,
+                "log": null,
+                "stato": "",
                 "regione": "",
-                "found_coords": true,
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },

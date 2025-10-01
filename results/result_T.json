@@ -955,13 +955,104 @@
     },
     {
         "comune": "Teramo",
-        "lat": null,
-        "log": null,
+        "lat": 42.658853,
+        "log": 13.703911,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Teramo",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Berane",
+                "lat": 42.845,
+                "log": 19.87444444,
+                "stato": "Montenegro",
+                "regione": "Montenegro",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Memmingen",
+                "lat": 47.987778,
+                "log": 10.181111,
+                "stato": "Germania",
+                "regione": "distretto della Svevia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rishon LeZion",
+                "lat": 31.96666667,
+                "log": 34.8,
+                "stato": "Israele",
+                "regione": "Sottodistretto di Rehovot",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ribeirão Preto",
+                "lat": -21.17777778,
+                "log": -47.81027778,
+                "stato": "Brasile",
+                "regione": "San Paolo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Praga{{!}}Praga (Distretto 7)",
+                "lat": 50.0875,
+                "log": 14.421389,
+                "stato": "Repubblica Ceca",
+                "regione": "Ducato di Boemia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Gorzów Wielkopolski",
+                "lat": 52.733333,
+                "log": 15.25,
+                "stato": "Polonia",
+                "regione": "voivodato di Lubusz",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Strovolos",
+                "lat": 35.25,
+                "log": 33.33333333,
+                "stato": "Cipro",
+                "regione": "distretto di Nicosia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Avila",
+                "lat": 40.659025,
+                "log": -4.694252,
+                "stato": "Spagna",
+                "regione": "provincia di Ávila",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Aglantzia",
+                "lat": 35.26666667,
+                "log": 33.5,
+                "stato": "Cipro",
+                "regione": "distretto di Nicosia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Terdobbiate",
@@ -1168,13 +1259,44 @@
     },
     {
         "comune": "Termoli",
-        "lat": null,
-        "log": null,
+        "lat": 42.002778,
+        "log": 14.994722,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Campobasso",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Chorzów",
+                "lat": 50.3,
+                "log": 18.95,
+                "stato": "Polonia",
+                "regione": "voivodato della Slesia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pompano Beach",
+                "lat": 26.234722,
+                "log": -80.125556,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Broward",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Labico",
+                "lat": 41.783333,
+                "log": 12.883333,
+                "stato": "Italia",
+                "regione": "provincia di Roma",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Ternate (Italia)",
@@ -1248,11 +1370,11 @@
             },
             {
                 "comune": "Dunaújváros",
-                "lat": null,
-                "log": null,
+                "lat": 46.983333,
+                "log": 18.916667,
                 "stato": "Ungheria",
-                "regione": "",
-                "found_coords": false,
+                "regione": "Dunaújváros",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1400,11 +1522,11 @@
         "gemelli": [
             {
                 "comune": "Bento Gonçalves (Rio Grande do Sul)",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": -29.16583333,
+                "log": -51.51222222,
+                "stato": "Brasile",
+                "regione": "Rio Grande do Sul",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -1755,11 +1877,11 @@
         "gemelli": [
             {
                 "comune": "Portogruaro",
-                "lat": null,
-                "log": null,
+                "lat": 45.775644,
+                "log": 12.837516,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Venezia",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1806,11 +1928,11 @@
             },
             {
                 "comune": "Apt",
-                "lat": 43.883333,
-                "log": 5.4,
-                "stato": "Francia",
-                "regione": "arrondissement di Apt",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -2098,11 +2220,11 @@
             },
             {
                 "comune": "Enna",
-                "lat": null,
-                "log": null,
+                "lat": 37.566667,
+                "log": 14.266667,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "Libero consorzio comunale di Enna",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -2292,11 +2414,11 @@
         "gemelli": [
             {
                 "comune": "Chieri",
-                "lat": null,
-                "log": null,
+                "lat": 45.013884,
+                "log": 7.822354,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Torino",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -2738,11 +2860,11 @@
     },
     {
         "comune": "Torno",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 45.85,
+        "log": 9.116667,
+        "stato": "Italia",
+        "regione": "provincia di Como",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -2857,11 +2979,11 @@
             },
             {
                 "comune": "Benevento",
-                "lat": null,
-                "log": null,
+                "lat": 41.133333,
+                "log": 14.783333,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Benevento",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -2978,10 +3100,10 @@
         "gemelli": [
             {
                 "comune": "Guardia Piemontese",
-                "lat": 39.475293,
-                "log": 15.983562,
+                "lat": 39.466667,
+                "log": 16,
                 "stato": "Italia",
-                "regione": "",
+                "regione": "provincia di Cosenza",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -3193,54 +3315,13 @@
     },
     {
         "comune": "Torre di Santa Maria",
-        "lat": 40.756944,
-        "log": 14.444444,
+        "lat": 46.233333,
+        "log": 9.85,
         "stato": "Italia",
-        "regione": "provincia di Napoli",
+        "regione": "provincia di Sondrio",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": [
-            {
-                "comune": "La Ciotat",
-                "lat": 43.166667,
-                "log": 5.6,
-                "stato": "Francia",
-                "regione": "Bocche del Rodano",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Emmendingen",
-                "lat": 48.121389,
-                "log": 7.849167,
-                "stato": "Germania",
-                "regione": "circondario di Emmendingen",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Benevento",
-                "lat": null,
-                "log": null,
-                "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Valencia",
-                "lat": 39.483333,
-                "log": -0.366667,
-                "stato": "Spagna",
-                "regione": "Valencia",
-                "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            }
-        ]
+        "gemelli": []
     },
     {
         "comune": "Torreano",
@@ -3489,10 +3570,10 @@
     },
     {
         "comune": "Torricella",
-        "lat": 42.261944,
-        "log": 12.869722,
+        "lat": 40.35,
+        "log": 17.5,
         "stato": "Italia",
-        "regione": "provincia di Rieti",
+        "regione": "provincia di Taranto",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -5029,13 +5110,64 @@
     },
     {
         "comune": "Tricarico",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 40.616667,
+        "log": 16.15,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Bickenbach (Assia)",
+                "lat": 49.754028,
+                "log": 8.611736,
+                "stato": "Germania",
+                "regione": "circondario di Darmstadt-Dieburg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nusco",
+                "lat": 40.886944,
+                "log": 15.083889,
+                "stato": "Italia",
+                "regione": "provincia di Avellino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Scanzano Jonico",
+                "lat": 40.25,
+                "log": 16.7,
+                "stato": "Italia",
+                "regione": "provincia di Matera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Samugheo",
+                "lat": 39.947615,
+                "log": 8.940768,
+                "stato": "Italia",
+                "regione": "provincia di Oristano",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montescaglioso",
+                "lat": 40.55,
+                "log": 16.666667,
+                "stato": "Italia",
+                "regione": "provincia di Matera",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Tricase",
@@ -5159,11 +5291,11 @@
             },
             {
                 "comune": "Venezia",
-                "lat": null,
-                "log": null,
+                "lat": 45.439722,
+                "log": 12.331944,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "Provincia veneta",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -5650,10 +5782,10 @@
     },
     {
         "comune": "Tufara",
-        "lat": 41.05573,
-        "log": 14.703972,
+        "lat": 41.483333,
+        "log": 14.95,
         "stato": "Italia",
-        "regione": "Apollosa",
+        "regione": "provincia di Campobasso",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -5781,13 +5913,44 @@
     },
     {
         "comune": "Turi",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 40.916667,
+        "log": 17.016667,
+        "stato": "Italia",
+        "regione": "provincia di Bari",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Nona",
+                "lat": 44.239722,
+                "log": 15.181111,
+                "stato": "Croazia",
+                "regione": "regione zaratina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Roeser",
+                "lat": 49.55,
+                "log": 6.15,
+                "stato": "Lussemburgo",
+                "regione": "cantone di Esch-sur-Alzette",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dakhla",
+                "lat": 25.51388889,
+                "log": 29.01083333,
+                "stato": "Egitto",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Turri",

@@ -209,6 +209,16 @@ if generate_report:
     rows = c.fetchall()
     save_rows_to_html(rows, c, output_reports + '/single-twin-states.html', 'stati con un solo gemellaggio')
 
+    sql = """
+    SELECT T.comune ||  ', ' || T.stato as twin, count(T.idParent) as count_twinigs from
+    twins T
+    group by T.comune || T.stato
+    order by count_twinigs desc
+    limit 20
+    """
+    c.execute(sql)
+    rows = c.fetchall()
+    save_rows_to_html(rows, c, output_reports + '/top-20-twining-cities.html', 'città gemellata con più comuni')
 
 
 

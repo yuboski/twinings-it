@@ -91,11 +91,11 @@
             },
             {
                 "comune": "Caltagirone",
-                "lat": null,
-                "log": null,
+                "lat": 37.233333,
+                "log": 14.516667,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Catania",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -256,11 +256,11 @@
     },
     {
         "comune": "Accettura",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 40.4925,
+        "log": 16.1575,
+        "stato": "Italia",
+        "regione": "provincia di Matera",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -417,11 +417,11 @@
             },
             {
                 "comune": "Viareggio",
-                "lat": null,
-                "log": null,
+                "lat": 43.867239,
+                "log": 10.250606,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Lucca",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -551,11 +551,11 @@
     },
     {
         "comune": "Acquasparta",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 42.69067,
+        "log": 12.546327,
+        "stato": "Italia",
+        "regione": "provincia di Terni",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -812,11 +812,11 @@
             },
             {
                 "comune": "Chieri",
-                "lat": null,
-                "log": null,
+                "lat": 45.013884,
+                "log": 7.822354,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Torino",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -1596,11 +1596,11 @@
             },
             {
                 "comune": "Gorges",
-                "lat": 50.116667,
-                "log": 2.166667,
-                "stato": "Francia",
-                "regione": "cantone di Bernaville",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -3739,11 +3739,11 @@
         "gemelli": [
             {
                 "comune": "Cerano (Italia){{!}}Cerano",
-                "lat": 45.4,
-                "log": 8.783333,
-                "stato": "Italia",
-                "regione": "provincia di Novara",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -3912,11 +3912,11 @@
             },
             {
                 "comune": "Nagykanizsa",
-                "lat": null,
-                "log": null,
+                "lat": 46.45583056,
+                "log": 16.99735,
                 "stato": "Ungheria",
-                "regione": "",
-                "found_coords": false,
+                "regione": "Distretto di Nagykanizsa",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -4576,13 +4576,84 @@
     },
     {
         "comune": "Anzio",
-        "lat": null,
-        "log": null,
+        "lat": 41.447222,
+        "log": 12.628333,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Roma",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Bad Pyrmont",
+                "lat": 51.98333333,
+                "log": 9.26666667,
+                "stato": "Reich tedesco",
+                "regione": "circondario di Hameln-Pyrmont",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pafo",
+                "lat": 34.7667,
+                "log": 32.4167,
+                "stato": "Cipro",
+                "regione": "distretto di Pafo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Brooklyn",
+                "lat": 40.790278,
+                "log": -73.959722,
+                "stato": "Stati Uniti d’America",
+                "regione": "New York",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bad Freienwalde",
+                "lat": 52.785556,
+                "log": 14.0325,
+                "stato": "Germania",
+                "regione": "circondario del Märkisch-Oderland",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Heemstede",
+                "lat": 52.352778,
+                "log": 4.62,
+                "stato": "Paesi Bassi",
+                "regione": "Olanda Settentrionale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Caen",
+                "lat": 49.166667,
+                "log": -0.366667,
+                "stato": "Francia",
+                "regione": "arrondissement di Caen",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Spinazzola",
+                "lat": 40.966667,
+                "log": 16.083333,
+                "stato": "Italia",
+                "regione": "provincia di Barletta-Andria-Trani",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Anzola d'Ossola",
@@ -4738,10 +4809,10 @@
     },
     {
         "comune": "Appignano",
-        "lat": 42.899058,
-        "log": 13.665989,
+        "lat": 43.364131,
+        "log": 13.346419,
         "stato": "Italia",
-        "regione": "provincia di Ascoli Piceno",
+        "regione": "provincia di Macerata",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -5491,8 +5562,8 @@
             },
             {
                 "comune": "Argo (città moderna){{!}}Argo",
-                "lat": 37.630614,
-                "log": 22.721463,
+                "lat": 37.633333,
+                "log": 22.729167,
                 "stato": "Grecia",
                 "regione": "",
                 "found_coords": true,
@@ -5562,10 +5633,10 @@
         "gemelli": [
             {
                 "comune": "Loutraki",
-                "lat": 37.97,
-                "log": 23.04,
+                "lat": 37.98333333,
+                "log": 22.98333333,
                 "stato": "Grecia",
-                "regione": "Corinzia",
+                "regione": "Loutraki-Agioi Theodoroi",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -5582,11 +5653,11 @@
             },
             {
                 "comune": "Domburg",
-                "lat": 51.56222222,
-                "log": 3.49833333,
-                "stato": "Paesi Bassi",
-                "regione": "Veere",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -5949,10 +6020,10 @@
     },
     {
         "comune": "Arienzo",
-        "lat": 41.018732,
-        "log": 14.492512,
+        "lat": 41.02734,
+        "log": 14.4977,
         "stato": "Italia",
-        "regione": "",
+        "regione": "provincia di Caserta",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -6284,11 +6355,11 @@
             },
             {
                 "comune": "Östersund",
-                "lat": null,
-                "log": null,
+                "lat": 63.179175,
+                "log": 14.636006,
                 "stato": "Svezia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "comune di Östersund",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -6521,11 +6592,11 @@
         "gemelli": [
             {
                 "comune": "Courcelles (Belgio){{!}}Courcelles",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 50.45,
+                "log": 4.36666667,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Charleroi",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -6543,11 +6614,11 @@
     },
     {
         "comune": "Arzachena",
-        "lat": null,
-        "log": null,
+        "lat": 41.080144,
+        "log": 9.387989,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Sassari",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -6573,13 +6644,34 @@
     },
     {
         "comune": "Arzano",
-        "lat": null,
-        "log": null,
+        "lat": 40.915278,
+        "log": 14.268056,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "città metropolitana di Napoli",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Arzano (Francia){{!}}Arzano",
+                "lat": 40.915278,
+                "log": 14.268056,
+                "stato": "Italia",
+                "regione": "città metropolitana di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Cléguer",
+                "lat": 47.855,
+                "log": -3.382778,
+                "stato": "Francia",
+                "regione": "Morbihan",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Arzergrande",
@@ -6624,10 +6716,10 @@
     },
     {
         "comune": "Asciano",
-        "lat": 43.74988,
-        "log": 10.46807,
+        "lat": 43.234167,
+        "log": 11.560833,
         "stato": "Italia",
-        "regione": "San Giuliano Terme",
+        "regione": "provincia di Siena",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -6879,11 +6971,11 @@
         "gemelli": [
             {
                 "comune": "Nozay",
-                "lat": 48.65,
-                "log": 2.233333,
-                "stato": "Francia",
-                "regione": "Dipartimento di Seine-et-Oise",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -6940,11 +7032,11 @@
             },
             {
                 "comune": "Marino",
-                "lat": 41.766667,
-                "log": 12.666667,
-                "stato": "Italia",
-                "regione": "provincia di Roma",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -7204,11 +7296,11 @@
             },
             {
                 "comune": "Grottaglie",
-                "lat": null,
-                "log": null,
+                "lat": 40.533333,
+                "log": 17.433333,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Taranto",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -7398,11 +7490,11 @@
         "gemelli": [
             {
                 "comune": "Lipari (Italia){{!}}Lipari",
-                "lat": 38.467281,
-                "log": 14.955442,
-                "stato": "Italia",
-                "regione": "provincia di Messina",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -7603,11 +7695,11 @@
     },
     {
         "comune": "Avetrana",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 40.353889,
+        "log": 17.735833,
+        "stato": "Italia",
+        "regione": "provincia di Taranto",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },

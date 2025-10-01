@@ -160,11 +160,11 @@
             },
             {
                 "comune": "Cancún",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 21.161416,
+                "log": -86.824811,
+                "stato": "Messico",
+                "regione": "Benito Juárez",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -1057,11 +1057,11 @@
         "gemelli": [
             {
                 "comune": "Frosinone",
-                "lat": null,
-                "log": null,
+                "lat": 41.633333,
+                "log": 13.35,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1190,11 +1190,11 @@
     },
     {
         "comune": "Noicattaro",
-        "lat": null,
-        "log": null,
+        "lat": 41.033333,
+        "log": 16.983333,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Bari",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -1311,11 +1311,11 @@
             },
             {
                 "comune": "Ribeira Grande Santiago",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 15.089091,
+                "log": -23.627472,
+                "stato": "Capo Verde",
+                "regione": "Ilhas do Sotavento",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1587,13 +1587,44 @@
     },
     {
         "comune": "Novara",
-        "lat": null,
-        "log": null,
+        "lat": 45.45,
+        "log": 8.62,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Novara",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Chalon-sur-Saône",
+                "lat": 46.783333,
+                "log": 4.85,
+                "stato": "Francia",
+                "regione": "Saona e Loira",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Coblenza",
+                "lat": 50.359722,
+                "log": 7.597778,
+                "stato": "Germania",
+                "regione": "Renania-Palatinato",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Haskovo",
+                "lat": 41.93465,
+                "log": 25.55556,
+                "stato": "Bulgaria",
+                "regione": "Haskovo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Novara di Sicilia",
@@ -1991,11 +2022,11 @@
         "gemelli": [
             {
                 "comune": "Corte (Francia){{!}}Corte",
-                "lat": 42.306389,
-                "log": 9.151389,
-                "stato": "Francia",
-                "regione": "Alta Corsica",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "Paesi Bassi",
+                "regione": "L'Aia",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -2103,11 +2134,11 @@
         "gemelli": [
             {
                 "comune": "Tricarico",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 40.616667,
+                "log": 16.15,
+                "stato": "Italia",
+                "regione": "provincia di Matera",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }

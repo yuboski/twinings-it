@@ -967,11 +967,11 @@
             },
             {
                 "comune": "Caledon",
-                "lat": 43.866667,
-                "log": -79.866667,
-                "stato": "Canada",
-                "regione": "Municipalità Regionale di Peel",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -1020,13 +1020,24 @@
     },
     {
         "comune": "Isola delle Femmine",
-        "lat": 38.210278,
-        "log": 13.235833,
+        "lat": 38.2,
+        "log": 13.25,
         "stato": "Italia",
-        "regione": "Isola delle Femmine",
+        "regione": "provincia di Palermo",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Pittsburg (California)",
+                "lat": 38.028056,
+                "log": -121.884722,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Contra Costa",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Isola di Capo Rizzuto",

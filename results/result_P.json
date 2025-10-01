@@ -173,11 +173,11 @@
         "gemelli": [
             {
                 "comune": "Nancy",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 48.683333,
+                "log": 6.2,
+                "stato": "ducato di Lorena",
+                "regione": "arrondissement di Nancy",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -243,11 +243,11 @@
             },
             {
                 "comune": "Cagliari",
-                "lat": null,
-                "log": null,
+                "lat": 39.216667,
+                "log": 9.116667,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Cagliari",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -711,10 +711,10 @@
             },
             {
                 "comune": "Bobbio",
-                "lat": 44.807952,
-                "log": 7.116765,
+                "lat": 44.7715,
+                "log": 9.3864,
                 "stato": "Italia",
-                "regione": "provincia di Torino",
+                "regione": "provincia di Piacenza",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -804,13 +804,234 @@
     },
     {
         "comune": "Palermo",
-        "lat": null,
-        "log": null,
+        "lat": 38.115658,
+        "log": 13.361262,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Palermo",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Santiago di Cuba",
+                "lat": 20.019833,
+                "log": -75.813917,
+                "stato": "Cuba",
+                "regione": "provincia di Santiago di Cuba",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Pistoia",
+                "lat": 43.933333,
+                "log": 10.916667,
+                "stato": "Italia",
+                "regione": "provincia di Pistoia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tbilisi",
+                "lat": 41.7225,
+                "log": 44.7925,
+                "stato": "Georgia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Miami",
+                "lat": 25.78777778,
+                "log": -80.22416667,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Miami-Dade",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Palermo (Colombia){{!}}Palermo",
+                "lat": null,
+                "log": null,
+                "stato": "Italia",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Khan Yunis",
+                "lat": 31.34416667,
+                "log": 34.30305556,
+                "stato": "Repubblica Araba Unita",
+                "regione": "governatorato di Khan Yunis",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Bukavu",
+                "lat": -2.516667,
+                "log": 28.833333,
+                "stato": "Repubblica Democratica del Congo",
+                "regione": "provincia del Kivu Sud",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Jaroslavl'",
+                "lat": 57.626389,
+                "log": 39.893333,
+                "stato": "Russia",
+                "regione": "oblast' di Jaroslavl'",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Chengdu",
+                "lat": 30.66,
+                "log": 104.063333,
+                "stato": "Cina",
+                "regione": "Sichuan",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Monterey",
+                "lat": 36.60001,
+                "log": -121.890605,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Monterey",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Biserta",
+                "lat": 37.27,
+                "log": 9.87,
+                "stato": "Tunisia",
+                "regione": "governatorato di Biserta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Danzica",
+                "lat": 54.348291,
+                "log": 18.654023,
+                "stato": "Polonia",
+                "regione": "voivodato della Pomerania",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Timișoara",
+                "lat": 45.78333333,
+                "log": 21.28333333,
+                "stato": "Regno di Romania",
+                "regione": "distretto di Timiș",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Samara (Russia){{!}}Samara",
+                "lat": 53.23333333,
+                "log": 50.16666667,
+                "stato": "Russia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Vilnius",
+                "lat": 54.687222,
+                "log": 25.28,
+                "stato": "Lituania",
+                "regione": "comune urbano di Vilnius",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Betlemme",
+                "lat": 31.70305556,
+                "log": 35.19555556,
+                "stato": "Stato di Palestina",
+                "regione": "Governatorato di Betlemme",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Las Vegas",
+                "lat": 36.167222,
+                "log": -115.148611,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Clark",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Düsseldorf",
+                "lat": 51.225556,
+                "log": 6.776667,
+                "stato": "Germania",
+                "regione": "Distretto governativo di Düsseldorf",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Grand-Bassam",
+                "lat": 5.2,
+                "log": -3.733333,
+                "stato": "Costa d'Avorio",
+                "regione": "dipartimento di Grand-Bassam",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Montpellier",
+                "lat": 43.6,
+                "log": 3.883333,
+                "stato": "Francia",
+                "regione": "Hérault",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "La Valletta",
+                "lat": 35.89489167,
+                "log": 14.50778889,
+                "stato": "Malta",
+                "regione": "Regione del Porto (Malta)",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sekondi-Takoradi",
+                "lat": 4.916667,
+                "log": -1.766667,
+                "stato": "Ghana",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Palestrina",
@@ -833,11 +1054,11 @@
             },
             {
                 "comune": "Bièvres",
-                "lat": 49.5,
-                "log": 3.716667,
-                "stato": "Francia",
-                "regione": "Aisne",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -1250,10 +1471,10 @@
             },
             {
                 "comune": "Castel del Monte",
-                "lat": 42.36544,
-                "log": 13.72592,
+                "lat": 41.084754,
+                "log": 16.270935,
                 "stato": "Italia",
-                "regione": "provincia dell'Aquila",
+                "regione": "Andria",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -1372,11 +1593,11 @@
             },
             {
                 "comune": "Paola (Malta){{!}}Paola",
-                "lat": 35.85496944,
-                "log": 14.36858889,
-                "stato": "Malta",
-                "regione": "Regione del Porto (Malta)",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1402,11 +1623,11 @@
             },
             {
                 "comune": "Assisi{{!}}Assisi",
-                "lat": 43.07,
-                "log": 12.6175,
-                "stato": "Italia",
-                "regione": "provincia di Perugia",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1992,13 +2213,44 @@
     },
     {
         "comune": "Paternò",
-        "lat": null,
-        "log": null,
+        "lat": 37.566667,
+        "log": 14.9,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Catania",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Santa Barbara (California)",
+                "lat": 34.425833,
+                "log": -119.714167,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Santa Barbara",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sesto Fiorentino",
+                "lat": 43.833333,
+                "log": 11.2,
+                "stato": "Italia",
+                "regione": "provincia di Firenze",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Menden (Sauerland)",
+                "lat": 51.433333,
+                "log": 7.8,
+                "stato": "Germania",
+                "regione": "circondario della Marca",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Patrica",
@@ -2022,13 +2274,34 @@
     },
     {
         "comune": "Patti",
-        "lat": null,
-        "log": null,
-        "stato": "Città del Vaticano",
-        "regione": "",
-        "found_coords": false,
+        "lat": 38.1389,
+        "log": 14.96481,
+        "stato": "Italia",
+        "regione": "provincia di Messina",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Minori",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Moncalvo",
+                "lat": 45.051111,
+                "log": 8.266389,
+                "stato": "Italia",
+                "regione": "provincia di Asti",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Patù",
@@ -2345,11 +2618,11 @@
             },
             {
                 "comune": "Zurrieq",
-                "lat": null,
-                "log": null,
+                "lat": 35.84439444,
+                "log": 14.46796389,
                 "stato": "Malta",
-                "regione": "",
-                "found_coords": false,
+                "regione": "Regione Occidentale (Malta)",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -2417,11 +2690,11 @@
             },
             {
                 "comune": "Jacutinga",
-                "lat": -22.28583333,
-                "log": -46.61138889,
-                "stato": "Brasile",
-                "regione": "Minas Gerais",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -3135,11 +3408,11 @@
         "gemelli": [
             {
                 "comune": "Nanterre",
-                "lat": null,
-                "log": null,
+                "lat": 48.9,
+                "log": 2.2,
                 "stato": "Francia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "arrondissement di Nanterre",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -3215,9 +3488,9 @@
             },
             {
                 "comune": "Novi Grad (Sarajevo){{!}}Novi Grad",
-                "lat": 45.03333333,
-                "log": 16.38,
-                "stato": "Bosnia ed Erzegovina",
+                "lat": 43.15,
+                "log": 20.516667,
+                "stato": "Serbia",
                 "regione": "",
                 "found_coords": true,
                 "found_claims": true,
@@ -3327,11 +3600,11 @@
             },
             {
                 "comune": "Brescia",
-                "lat": null,
-                "log": null,
+                "lat": 45.53888889,
+                "log": 10.22027778,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Brescia",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -3875,10 +4148,10 @@
     },
     {
         "comune": "Peveragno",
-        "lat": 36.347497,
-        "log": 28.056499,
-        "stato": "Grecia",
-        "regione": "",
+        "lat": 44.333333,
+        "log": 7.616667,
+        "stato": "Italia",
+        "regione": "provincia di Cuneo",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -3915,13 +4188,34 @@
     },
     {
         "comune": "Piacenza",
-        "lat": null,
-        "log": null,
+        "lat": 45.05,
+        "log": 9.7,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Piacenza",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Erfurt",
+                "lat": 50.978056,
+                "log": 11.028889,
+                "stato": "Regno di Prussia",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Plasencia",
+                "lat": 40.033,
+                "log": -6.1,
+                "stato": "Spagna",
+                "regione": "provincia di Cáceres",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Piacenza d'Adige",
@@ -4698,11 +4992,11 @@
             },
             {
                 "comune": "Hargnies",
-                "lat": 50.25,
-                "log": 3.85,
-                "stato": "Francia",
-                "regione": "cantone di Berlaimont",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -4770,10 +5064,10 @@
     },
     {
         "comune": "Pietrafitta",
-        "lat": 43.494364,
-        "log": 11.304059,
+        "lat": 39.26103,
+        "log": 16.3394,
         "stato": "Italia",
-        "regione": "Castellina in Chianti",
+        "regione": "provincia di Cosenza",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -5367,11 +5661,11 @@
         "gemelli": [
             {
                 "comune": "Anzi",
-                "lat": 40.516667,
-                "log": 15.916667,
-                "stato": "Italia",
-                "regione": "provincia di Potenza",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -5562,13 +5856,54 @@
     },
     {
         "comune": "Pineto",
-        "lat": null,
-        "log": null,
+        "lat": 42.616667,
+        "log": 14.066667,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Teramo",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Drochia",
+                "lat": 48.03333333,
+                "log": 27.75,
+                "stato": "Moldavia",
+                "regione": "distretto di Drochia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Sebenico",
+                "lat": 43.733889,
+                "log": 15.895556,
+                "stato": "Croazia",
+                "regione": "regione di Sebenico e Tenin",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Razlog",
+                "lat": 41.886515,
+                "log": 23.468033,
+                "stato": "Bulgaria",
+                "regione": "Razlog",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Junglinster",
+                "lat": 49.7,
+                "log": 6.25,
+                "stato": "Lussemburgo",
+                "regione": "cantone di Grevenmacher",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Pino Torinese",
@@ -5835,11 +6170,11 @@
         "gemelli": [
             {
                 "comune": "Cagliari",
-                "lat": null,
-                "log": null,
+                "lat": 39.216667,
+                "log": 9.116667,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Cagliari",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -5895,10 +6230,10 @@
             },
             {
                 "comune": "Rodi (città){{!}}Rodi",
-                "lat": 36.451111,
-                "log": 28.227778,
+                "lat": 36.433333,
+                "log": 28.216667,
                 "stato": "Grecia",
-                "regione": "Rodi",
+                "regione": "",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -6099,11 +6434,11 @@
             },
             {
                 "comune": "Palermo",
-                "lat": null,
-                "log": null,
+                "lat": 38.115658,
+                "log": 13.361262,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Palermo",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -6252,11 +6587,11 @@
         "gemelli": [
             {
                 "comune": "Villar Perosa",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 44.916667,
+                "log": 7.25,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -7335,13 +7670,44 @@
     },
     {
         "comune": "Pomezia",
-        "lat": null,
-        "log": null,
+        "lat": 41.669306,
+        "log": 12.502083,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Roma",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Itápolis",
+                "lat": -21.59583333,
+                "log": -48.81138889,
+                "stato": "Brasile",
+                "regione": "San Paolo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Singen",
+                "lat": 47.762778,
+                "log": 8.84,
+                "stato": "Germania",
+                "regione": "circondario di Costanza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Çanakkale",
+                "lat": 40.14777778,
+                "log": 26.40555556,
+                "stato": "Turchia",
+                "regione": "provincia di Çanakkale",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Pomigliano d'Arco",
@@ -7444,11 +7810,11 @@
             },
             {
                 "comune": "Benevento",
-                "lat": null,
-                "log": null,
+                "lat": 41.133333,
+                "log": 14.783333,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Benevento",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -8412,11 +8778,11 @@
             },
             {
                 "comune": "Frosinone",
-                "lat": null,
-                "log": null,
+                "lat": 41.633333,
+                "log": 13.35,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Frosinone",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -8668,6 +9034,16 @@
                 "gemelli": []
             },
             {
+                "comune": "Okawa",
+                "lat": null,
+                "log": null,
+                "stato": "Giappone",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
                 "comune": "San Martín",
                 "lat": null,
                 "log": null,
@@ -8684,16 +9060,6 @@
                 "stato": "Russia",
                 "regione": "",
                 "found_coords": true,
-                "found_claims": true,
-                "gemelli": []
-            },
-            {
-                "comune": "Okawa",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -8780,11 +9146,11 @@
         "gemelli": [
             {
                 "comune": "Grottaglie",
-                "lat": null,
-                "log": null,
+                "lat": 40.533333,
+                "log": 17.433333,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Taranto",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -9068,11 +9434,11 @@
     },
     {
         "comune": "Portoferraio",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 42.816667,
+        "log": 10.316667,
+        "stato": "Italia",
+        "regione": "provincia di Livorno",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -9119,13 +9485,44 @@
     },
     {
         "comune": "Portogruaro",
-        "lat": null,
-        "log": null,
+        "lat": 45.775644,
+        "log": 12.837516,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Venezia",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Marmande",
+                "lat": 44.5,
+                "log": 0.166667,
+                "stato": "Francia",
+                "regione": "cantone di Marmande-Est",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ejea de los Caballeros",
+                "lat": 42.13,
+                "log": -1.135833,
+                "stato": "Spagna",
+                "regione": "provincia di Saragozza",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Teverola",
+                "lat": 41,
+                "log": 14.216667,
+                "stato": "Italia",
+                "regione": "provincia di Caserta",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Portomaggiore",
@@ -9300,11 +9697,11 @@
         "gemelli": [
             {
                 "comune": "Sermaise",
-                "lat": 47.516667,
-                "log": -0.216667,
-                "stato": "Francia",
-                "regione": "cantone di Seiches-sur-le-Loir",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -12138,11 +12535,11 @@
             },
             {
                 "comune": "Turi",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 40.916667,
+                "log": 17.016667,
+                "stato": "Italia",
+                "regione": "provincia di Bari",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }

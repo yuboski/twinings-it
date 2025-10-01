@@ -1204,13 +1204,64 @@
     },
     {
         "comune": "Ferentino",
-        "lat": null,
-        "log": null,
+        "lat": 41.683333,
+        "log": 13.25,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "San Severino Marche",
+                "lat": 43.228856,
+                "log": 13.177103,
+                "stato": "Italia",
+                "regione": "provincia di Macerata",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ekaterinburg",
+                "lat": 56.835556,
+                "log": 60.612778,
+                "stato": "Impero russo",
+                "regione": "",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Rockford",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Raszyn",
+                "lat": 52.158889,
+                "log": 20.926389,
+                "stato": "Polonia",
+                "regione": "distretto di Pruszków",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Iacobeni",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Ferla",
@@ -1365,10 +1416,10 @@
             },
             {
                 "comune": "Capodistria",
-                "lat": 45.548,
-                "log": 13.7301,
+                "lat": 45.547,
+                "log": 13.73,
                 "stato": "Slovenia",
-                "regione": "Slovenia",
+                "regione": "Comune di Capodistria",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -1395,8 +1446,8 @@
             },
             {
                 "comune": "Highland Park (Illinois){{!}}Highland Park",
-                "lat": 42.185,
-                "log": -87.801111,
+                "lat": 42.1825,
+                "log": -87.806944,
                 "stato": "Stati Uniti d’America",
                 "regione": "contea di Lake",
                 "found_coords": true,
@@ -1435,21 +1486,21 @@
             },
             {
                 "comune": "Lleida",
-                "lat": null,
-                "log": null,
+                "lat": 41.616667,
+                "log": 0.633333,
                 "stato": "Spagna",
-                "regione": "",
-                "found_coords": false,
+                "regione": "Segrià",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
             {
                 "comune": "Szombathely",
-                "lat": null,
-                "log": null,
+                "lat": 47.233333,
+                "log": 16.633333,
                 "stato": "Ungheria",
-                "regione": "",
-                "found_coords": false,
+                "regione": "Distretto di Szombathely",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -2862,11 +2913,11 @@
         "gemelli": [
             {
                 "comune": "Albeck{{!}}Sirnitz",
-                "lat": 46.816667,
-                "log": 14.1,
-                "stato": "Austria",
-                "regione": "distretto di Feldkirchen",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -3004,11 +3055,11 @@
             },
             {
                 "comune": "São Sebastião",
-                "lat": -20.91138889,
-                "log": -46.98666667,
-                "stato": "Brasile",
-                "regione": "Minas Gerais",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -3218,11 +3269,11 @@
             },
             {
                 "comune": "L'Aquila",
-                "lat": null,
-                "log": null,
+                "lat": 42.354008,
+                "log": 13.391992,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia dell'Aquila",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -3423,13 +3474,54 @@
     },
     {
         "comune": "Follonica",
-        "lat": null,
-        "log": null,
+        "lat": 42.918889,
+        "log": 10.761389,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Grosseto",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Charleroi",
+                "lat": 50.4,
+                "log": 4.43333333,
+                "stato": "Belgio",
+                "regione": "Arrondissement di Charleroi",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Kołobrzeg",
+                "lat": 54.176111,
+                "log": 15.576111,
+                "stato": "Polonia",
+                "regione": "distretto di Kołobrzeg",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Hedemora",
+                "lat": 60.28333333,
+                "log": 15.98333333,
+                "stato": "Svezia",
+                "regione": "Hedemora",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Waldkirch",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Fombio",
@@ -3616,13 +3708,24 @@
     },
     {
         "comune": "Fontanelle (Italia)",
-        "lat": 45.466667,
-        "log": 9.8,
+        "lat": 45.833333,
+        "log": 12.466667,
         "stato": "Italia",
-        "regione": "provincia di Bergamo",
+        "regione": "provincia di Treviso",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Auterive",
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Fontaneto d'Agogna",
@@ -4548,11 +4651,11 @@
         "gemelli": [
             {
                 "comune": "Aucamville",
-                "lat": 43.669722,
-                "log": 1.431111,
-                "stato": "Francia",
-                "regione": "cantone di Toulouse-14",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -5441,13 +5544,54 @@
     },
     {
         "comune": "Frosinone",
-        "lat": null,
-        "log": null,
+        "lat": 41.633333,
+        "log": 13.35,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Frosinone",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Elmwood Park (Illinois)",
+                "lat": 41.9225,
+                "log": -87.815556,
+                "stato": "Stati Uniti d’America",
+                "regione": "contea di Cook",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Tecumseh (Ontario)",
+                "lat": 42.3,
+                "log": -82.8833,
+                "stato": "Canada",
+                "regione": "Contea di Essex",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Nocera Umbra",
+                "lat": 43.116667,
+                "log": 12.783333,
+                "stato": "Italia",
+                "regione": "provincia di Perugia",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Ponza",
+                "lat": 40.9,
+                "log": 12.966667,
+                "stato": "Italia",
+                "regione": "provincia di Latina",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Frosolone",

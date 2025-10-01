@@ -323,10 +323,10 @@
         "gemelli": [
             {
                 "comune": "Amberg",
-                "lat": 48.066667,
-                "log": 10.683333,
+                "lat": 49.45,
+                "log": 11.86666667,
                 "stato": "Germania",
-                "regione": "circondario della Bassa Algovia",
+                "regione": "distretto dell'Alto Palatinato",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []

@@ -86,6 +86,13 @@ def get_gemellaggi(title):
     for tpl in wikicode.filter_templates():
 #        if tpl.name.strip() in ("Gemellaggio", "Gemellaggi"):
         if "gemellaggi" in tpl.name.strip().lower():
+            # for param in tpl.params:
+            #     value_code = mwparserfromhell.parse(str(param.value))
+            #     links = value_code.filter_wikilinks()
+            #     for link in links:
+            #         link_title = str(link.title).strip()
+            #         print(f"Parametro {param.name} → link: {link_title}")
+            
             if tpl.has(2):
                 comune = tpl.get(2).value.strip()  # parametro 1 = stato parametro 2 = Comune
                 if tpl.has(1):
@@ -151,16 +158,18 @@ def get_comune_real_name(title, stato, no_retry):
     return_title = title
     if data.get("query", {}).get("search"):
         return_title = data["query"]["search"][0]["title"]
+        found_title = ''
         for result in data.get("query", {}).get("search", []):
             search_title = result.get("title", "")
             search_snippet = result.get("snippet", "")
             disambigua = "iniziano con o contengono il titolo".lower() in search_snippet.lower()
-            if search_title.strip().lower() == title.strip().lower():
-                return_title = search_title
-            if search_title.lower().startswith(title.lower()) and stato.lower() in search_snippet.lower() and not disambigua:
-                return_title = search_title
+            if search_title.strip().lower() == title.strip().lower() and not found_title:
+                found_title = search_title
+            if search_title.lower().startswith(title.lower()) and stato.lower() in search_snippet.lower() and not disambigua and not found_title:
+                found_title = search_title
                 break
-
+    if found_title:
+        return_title = found_title
     if "(disambigua)" in return_title.lower():
         if no_retry:
             return_title = return_title.replace("(disambigua)", "").strip()
@@ -204,11 +213,11 @@ def search_comune_list(comuni, search_gemelli):
 
 if __name__ == "__main__":
     
-    # search_comune_properties("Adro", True, "Italia")
+    #search_comune_properties("San Vito di Cadore", True, "Italia")
 
     #TODO: lista lettere da cercare
     #lettere = list(string.ascii_uppercase)
-    lettere = list("RSTUVWXYZ")
+    lettere = list("STUVWXYZ")
 
     for lettera in lettere:
         comuni = get_comuni_lettera(lettera)

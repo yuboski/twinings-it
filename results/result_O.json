@@ -255,11 +255,11 @@
     },
     {
         "comune": "Olbia",
-        "lat": null,
-        "log": null,
+        "lat": 40.916667,
+        "log": 9.5,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Sassari",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -763,11 +763,11 @@
     },
     {
         "comune": "Ome",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 45.627283,
+        "log": 10.121365,
+        "stato": "Italia",
+        "regione": "provincia di Brescia",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -1147,11 +1147,11 @@
         "gemelli": [
             {
                 "comune": "Lorch",
-                "lat": 48.798333,
-                "log": 9.688333,
-                "stato": "Germania",
-                "regione": "Circondario di Ostalb",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -1851,11 +1851,11 @@
             },
             {
                 "comune": "Seinäjoki",
-                "lat": null,
-                "log": null,
+                "lat": 62.790278,
+                "log": 22.840278,
                 "stato": "Finlandia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "Ostrobotnia meridionale",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -2107,10 +2107,10 @@
     },
     {
         "comune": "Ospedaletto",
-        "lat": 40.933333,
-        "log": 14.75,
+        "lat": 46.04349,
+        "log": 11.55291,
         "stato": "Italia",
-        "regione": "provincia di Avellino",
+        "regione": "provincia autonoma di Trento",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -2591,11 +2591,11 @@
         "gemelli": [
             {
                 "comune": "Vex",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 46.21277778,
+                "log": 7.39888889,
+                "stato": "Svizzera",
+                "regione": "distretto di Hérens",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }

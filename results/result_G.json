@@ -1324,10 +1324,10 @@
     },
     {
         "comune": "Gatteo",
-        "lat": 44.170428,
-        "log": 12.436041,
+        "lat": 44.1371,
+        "log": 12.404267,
         "stato": "Italia",
-        "regione": "Gatteo",
+        "regione": "provincia di Forlì-Cesena",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -1497,13 +1497,24 @@
     },
     {
         "comune": "Gazzo",
-        "lat": 45.15,
-        "log": 11.083333,
+        "lat": 45.582222,
+        "log": 11.706389,
         "stato": "Italia",
-        "regione": "provincia di Verona",
+        "regione": "provincia di Padova",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Mioveni",
+                "lat": 44.95,
+                "log": 24.95,
+                "stato": "Romania",
+                "regione": "distretto di Argeș",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Gazzo Veronese",
@@ -1678,11 +1689,11 @@
             },
             {
                 "comune": "Vierkirchen",
-                "lat": 51.2,
-                "log": 14.7,
-                "stato": "Germania",
-                "regione": "circondario di Görlitz",
-                "found_coords": true,
+                "lat": null,
+                "log": null,
+                "stato": "",
+                "regione": "",
+                "found_coords": false,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -2848,11 +2859,11 @@
     },
     {
         "comune": "Giuliana",
-        "lat": null,
-        "log": null,
-        "stato": "",
-        "regione": "",
-        "found_coords": false,
+        "lat": 37.666667,
+        "log": 13.233333,
+        "stato": "Italia",
+        "regione": "provincia di Palermo",
+        "found_coords": true,
         "found_claims": true,
         "gemelli": []
     },
@@ -2878,13 +2889,34 @@
     },
     {
         "comune": "Giulianova",
-        "lat": null,
-        "log": null,
+        "lat": 42.752517,
+        "log": 13.956686,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Teramo",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Mantova",
+                "lat": 45.156389,
+                "log": 10.791111,
+                "stato": "Regno d'Italia",
+                "regione": "provincia di Mantova",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Dakar",
+                "lat": 14.68333333,
+                "log": -17.45,
+                "stato": "Senegal",
+                "regione": "dipartimento di Dakar",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Giungano",
@@ -3028,11 +3060,11 @@
         "gemelli": [
             {
                 "comune": "Challes-les-Eaux",
-                "lat": null,
-                "log": null,
+                "lat": 45.55,
+                "log": 5.983333,
                 "stato": "Francia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "Savoia",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -3701,10 +3733,10 @@
     },
     {
         "comune": "Gragnano",
-        "lat": 45.016667,
-        "log": 9.566667,
+        "lat": 40.68888889,
+        "log": 14.52083333,
         "stato": "Italia",
-        "regione": "provincia di Piacenza",
+        "regione": "provincia di Napoli",
         "found_coords": true,
         "found_claims": true,
         "gemelli": []
@@ -4692,11 +4724,11 @@
             },
             {
                 "comune": "Rossano",
-                "lat": null,
-                "log": null,
-                "stato": "",
-                "regione": "",
-                "found_coords": false,
+                "lat": 39.566667,
+                "log": 16.633333,
+                "stato": "Italia",
+                "regione": "provincia di Cosenza",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -4734,13 +4766,44 @@
     },
     {
         "comune": "Grottaglie",
-        "lat": null,
-        "log": null,
+        "lat": 40.533333,
+        "log": 17.433333,
         "stato": "Italia",
-        "regione": "",
-        "found_coords": false,
+        "regione": "provincia di Taranto",
+        "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Portici",
+                "lat": 40.819722,
+                "log": 14.341111,
+                "stato": "Italia",
+                "regione": "provincia di Napoli",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Atena Lucana",
+                "lat": 40.45,
+                "log": 15.55,
+                "stato": "Italia",
+                "regione": "provincia di Salerno",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            },
+            {
+                "comune": "Marineo",
+                "lat": 37.95,
+                "log": 13.416667,
+                "stato": "Italia",
+                "regione": "provincia di Palermo",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Grottaminarda",
@@ -4813,11 +4876,11 @@
             },
             {
                 "comune": "Brescia",
-                "lat": null,
-                "log": null,
+                "lat": 45.53888889,
+                "log": 10.22027778,
                 "stato": "Italia",
-                "regione": "",
-                "found_coords": false,
+                "regione": "provincia di Brescia",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             }
@@ -5281,13 +5344,24 @@
     },
     {
         "comune": "Guardia Piemontese",
-        "lat": 39.475293,
-        "log": 15.983562,
+        "lat": 39.466667,
+        "log": 16,
         "stato": "Italia",
-        "regione": "",
+        "regione": "provincia di Cosenza",
         "found_coords": true,
         "found_claims": true,
-        "gemelli": []
+        "gemelli": [
+            {
+                "comune": "Bobbio Pellice",
+                "lat": 44.807952,
+                "log": 7.116765,
+                "stato": "Italia",
+                "regione": "provincia di Torino",
+                "found_coords": true,
+                "found_claims": true,
+                "gemelli": []
+            }
+        ]
     },
     {
         "comune": "Guardia Sanframondi",

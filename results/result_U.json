@@ -142,9 +142,9 @@
             {
                 "comune": "Maribor",
                 "lat": 46.55,
-                "log": 15.65,
+                "log": 15.633333,
                 "stato": "Slovenia",
-                "regione": "Slovenia",
+                "regione": "Comune di Maribor",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
@@ -171,11 +171,11 @@
             },
             {
                 "comune": "Nyíregyháza",
-                "lat": null,
-                "log": null,
+                "lat": 47.95578,
+                "log": 21.716798,
                 "stato": "Ungheria",
-                "regione": "",
-                "found_coords": false,
+                "regione": "Distretto di Nyíregyháza",
+                "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
             },
@@ -211,10 +211,10 @@
             },
             {
                 "comune": "Velenje",
-                "lat": 46.3621,
-                "log": 15.1105,
+                "lat": 46.3625,
+                "log": 15.114444,
                 "stato": "Slovenia",
-                "regione": "Slovenia",
+                "regione": "Comune di Velenje",
                 "found_coords": true,
                 "found_claims": true,
                 "gemelli": []
